@@ -1,0 +1,38 @@
+{
+  "id": "oxygen-not-included-ar",
+  "slug": "oxygen-not-included-ar",
+  "gameTitle": "Oxygen Not Included",
+  "alternateTitles": [
+    "أكسجين نوت إنكلوديد",
+    "ONI",
+    "OxygenNotIncluded"
+  ],
+  "translationVersion": "1.0.0",
+  "gameVersion": "unknown",
+  "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/oxygen-not-included-ar/cover.png",
+  "summary": "تعريب كامل للعبة Oxygen Not Included يشمل الواجهات، الأدوات، الأوصاف والمخططات.",
+  "description": "تعريب كامل ومتكامل للعبة Oxygen Not Included بنسبة 100% وبطريقة آمنة ومتوافقة مع التحديثات. يشمل تعريب الواجهات، الأدوات، الأوصاف، المخططات، والتقارير.",
+  "releaseDate": "2026-06-24",
+  "fileSize": 3137479,
+  "status": "published",
+  "package": {
+    "url": "https://github.com/ishak10123/Simsima-content/releases/download/oxygen-not-included-ar-v1.0.0/oxygen-not-included-ar-v1.0.0.zip",
+    "fileName": "oxygen-not-included-ar-v1.0.0.zip",
+    "archiveType": "zip",
+    "size": 3137479,
+    "checksum": "sha256:c50fd8e3819f1d0cc4bb31bca29f09c38ceb37cfd26ccc09e58daee57f2e1a66"
+  },
+  "installer": {
+    "kind": "bat",
+    "entryFile": "scripts/install.bat",
+    "requiresAdmin": false,
+    "launchMode": "extract_then_run",
+    "arguments": [],
+    "workingDirectory": ""
+  },
+  "instructions": {
+    "shortText": "قم بتحميل الحزمة وتثبيتها، ثم فعّل المود من خيارات اللعبة.",
+    "detailedText": "بعد الضغط على زر التثبيت، سيقوم التطبيق بنسخ ملفات التعريب إلى مجلد المودات المحلي. افتح اللعبة، واذهب إلى Mods، ثم قم بتفعيل Arabic Translation وأعد تشغيل اللعبة.",
+    "screenshots": []
+  }
+}
