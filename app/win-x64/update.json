@@ -1,8 +1,8 @@
 {
-  "version": "0.1.2",
-  "installerUrl": "https://github.com/ishak10123/Simsima-content/releases/download/simsima-v0.1.2/Simsima-0.1.2-win-x64-Classic-Setup.exe",
-  "fileName": "Simsima-0.1.2-win-x64-Classic-Setup.exe",
-  "size": 46832775,
-  "sha256": "86CFFE5D855BDEC2BCD0C5C4751E92C7C00478A7C9A541F400DC9109302FD376",
-  "releaseNotes": "نسخة اختبارية 0.1.2 للتحقق من تحميل تحديث التطبيق وتثبيته."
+  "version": "0.1.3",
+  "installerUrl": "https://github.com/ishak10123/Simsima-content/releases/download/simsima-v0.1.3/Simsima-0.1.3-win-x64-Classic-Setup.exe",
+  "fileName": "Simsima-0.1.3-win-x64-Classic-Setup.exe",
+  "size": 48457673,
+  "sha256": "9A13FCBC88684B5C3519824A75FC17302EF30B6E7FC85D56E58911D2F21EA26D",
+  "releaseNotes": "تحديث 0.1.3 يعتمد واجهة Simsima الداكنة الجديدة ويحسن عرض البطاقات والتفاصيل وحالة الاتصال."
 }
