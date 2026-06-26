@@ -1,8 +1,8 @@
 {
   "version": "0.1.5",
-  "installerUrl": "Simsima-win-Setup.exe",
+  "installerUrl": "https://ishak10123.github.io/Simsima-content/app/win-x64/Simsima-win-Setup.exe",
   "fileName": "Simsima-win-Setup.exe",
   "size": 74202822,
   "sha256": "521C51F8F68BB6BB973B9A5B3BE714CE76F60EF43A66A9D6296E81924650F0E2",
-  "releaseNotes": "- دعم صيغة VBS للمثبتات الصامتة"
+  "releaseNotes": "App update to support vbs silent installers"
 }
