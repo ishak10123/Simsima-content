@@ -1,0 +1,40 @@
+{
+  "id": "stellaris-ar",
+  "slug": "stellaris-ar",
+  "gameTitle": "Stellaris",
+  "alternateTitles": [
+    "Stellaris Arabic Translation"
+  ],
+  "translationVersion": "0.1.0",
+  "gameVersion": "4.4.3",
+  "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/stellaris-ar/cover.jpg",
+  "summary": "متوافقة مع Stellaris 4.4.3، وتشمل ترجمة ملفات اللعبة والـDLC الموجودة في حزمة المصدر الحالية.",
+  "description": "ترجمة عربية للعبة Stellaris، تعتمد على حقن الملفات بصمت. متوافقة مع إصدار 4.4.3.",
+  "releaseDate": "2026-06-26",
+  "fileSize": 45797,
+  "status": "published",
+  "platforms": [
+    "windows"
+  ],
+  "package": {
+    "url": "https://github.com/ishak10123/Simsima-content/releases/download/stellaris-ar-v0.1.0/stellaris-ar-v0.1.0.zip",
+    "fileName": "stellaris-ar-v0.1.0.zip",
+    "archiveType": "zip",
+    "size": 45797,
+    "checksum": "sha256:83194cbd754b10c7bf0042daabc7094d545dc7b9a6b5ca8ffe41bead877bafde"
+  },
+  "installer": {
+    "kind": "vbs",
+    "entryFile": "run_silent_launcher.vbs",
+    "requiresAdmin": false,
+    "launchMode": "extract_then_run",
+    "arguments": [],
+    "workingDirectory": "",
+    "supportsManualPath": true
+  },
+  "instructions": {
+    "shortText": "الترجمة يتم حقنها بشكل صامت دون ظهور شاشة الأوامر.",
+    "detailedText": "سيتم حقن الترجمة مباشرة، ويمكنك تحديد مسار اللعبة من الواجهة. إذا نجح الحقن، ستظهر رسالة تخبرك بذلك.",
+    "screenshots": []
+  }
+}
