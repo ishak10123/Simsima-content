@@ -1,8 +1,8 @@
 {
-  "version": "0.1.4",
-  "installerUrl": "https://github.com/ishak10123/Simsima-content/releases/download/simsima-v0.1.4/Simsima-0.1.4-win-x64-Classic-Setup.exe",
-  "fileName": "Simsima-0.1.4-win-x64-Classic-Setup.exe",
-  "size": 48460979,
-  "sha256": "6CFD03DBF4AD198877017F005F77C000D6EF5452FC27D9096D5DA8A40810267C",
-  "releaseNotes": "تحديث 0.1.4 يضيف اختيار مسار اللعبة يدويا قبل تشغيل حزمة التعريب ويمرره للمثبت بشكل موثوق."
+  "version": "0.1.5",
+  "installerUrl": "Simsima-win-Setup.exe",
+  "fileName": "Simsima-win-Setup.exe",
+  "size": 74202822,
+  "sha256": "521C51F8F68BB6BB973B9A5B3BE714CE76F60EF43A66A9D6296E81924650F0E2",
+  "releaseNotes": "- دعم صيغة VBS للمثبتات الصامتة"
 }
