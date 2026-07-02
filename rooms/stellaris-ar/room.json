@@ -1,39 +1,46 @@
 {
-  "id": "stellaris-ar",
-  "slug": "stellaris-ar",
-  "gameTitle": "Stellaris",
-  "alternateTitles": [
-    "Stellaris Arabic Translation"
-  ],
-  "translationVersion": "0.1.0",
-  "gameVersion": "4.4.3",
-  "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/stellaris-ar/cover.jpg",
-  "summary": "\u0645\u062A\u0648\u0627\u0641\u0642\u0629 \u0645\u0639 Stellaris 4.4.3\u060C \u0648\u062A\u0634\u0645\u0644 \u062A\u0631\u062C\u0645\u0629 \u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0644\u0639\u0628\u0629 \u0648\u0627\u0644\u0640DLC \u0627\u0644\u0645\u0648\u062C\u0648\u062F\u0629 \u0641\u064A \u062D\u0632\u0645\u0629 \u0627\u0644\u0645\u0635\u062F\u0631 \u0627\u0644\u062D\u0627\u0644\u064A\u0629.",
-  "description": "\u062A\u0631\u062C\u0645\u0629 \u0639\u0631\u0628\u064A\u0629 \u0644\u0644\u0639\u0628\u0629 Stellaris\u060C \u062A\u0639\u062A\u0645\u062F \u0639\u0644\u0649 \u062D\u0642\u0646 \u0627\u0644\u0645\u0644\u0641\u0627\u062A \u0628\u0635\u0645\u062A. \u0645\u062A\u0648\u0627\u0641\u0642\u0629 \u0645\u0639 \u0625\u0635\u062F\u0627\u0631 4.4.3.",
-  "releaseDate": "2026-06-26",
-  "fileSize": 5277377,
-  "status": "published",
-  "package": {
-    "url": "https://github.com/ishak10123/Simsima-content/releases/download/stellaris-ar-v0.1.0/stellaris-ar-v0.1.0.zip",
-    "fileName": "stellaris-ar-v0.1.0.zip",
-    "archiveType": "zip",
-    "size": 5277377,
-    "checksum": "sha256:5c712595eee33904637df94a918acbe2652efdc8e30a1984e66acd00000c41a9"
-  },
-  "installer": {
-    "kind": "simsima_runner",
-    "entryFile": "simsima.package.json",
-    "requiresAdmin": false,
-    "launchMode": "extract_then_run",
-    "arguments": [],
-    "workingDirectory": "",
-    "supportsManualPath": true,
-    "manualPathRequired": false,
-    "cleanupOnSuccess": true
-  },
-  "instructions": {
-    "shortText": "\u0627\u0644\u062A\u0631\u062C\u0645\u0629 \u064A\u062A\u0645 \u062D\u0642\u0646\u0647\u0627 \u0628\u0634\u0643\u0644 \u0635\u0627\u0645\u062A \u062F\u0648\u0646 \u0638\u0647\u0648\u0631 \u0634\u0627\u0634\u0629 \u0627\u0644\u0623\u0648\u0627\u0645\u0631.",
-    "detailedText": "\u0633\u064A\u062A\u0645 \u062D\u0642\u0646 \u0627\u0644\u062A\u0631\u062C\u0645\u0629 \u0645\u0628\u0627\u0634\u0631\u0629\u060C \u0648\u064A\u0645\u0643\u0646\u0643 \u062A\u062D\u062F\u064A\u062F \u0645\u0633\u0627\u0631 \u0627\u0644\u0644\u0639\u0628\u0629 \u0645\u0646 \u0627\u0644\u0648\u0627\u062C\u0647\u0629. \u0625\u0630\u0627 \u0646\u062C\u062D \u0627\u0644\u062D\u0642\u0646\u060C \u0633\u062A\u0638\u0647\u0631 \u0631\u0633\u0627\u0644\u0629 \u062A\u062E\u0628\u0631\u0643 \u0628\u0630\u0644\u0643.",
-    "screenshots": []
-  }
+    "id":  "stellaris-ar",
+    "slug":  "stellaris-ar",
+    "gameTitle":  "Stellaris",
+    "alternateTitles":  [
+                            "Stellaris Arabic Translation"
+                        ],
+    "translationVersion":  "0.1.0",
+    "gameVersion":  "4.4.3",
+    "coverImageUrl":  "https://ishak10123.github.io/Simsima-content/rooms/stellaris-ar/cover.jpg",
+    "summary":  "متوافقة مع Stellaris 4.4.3، وتشمل ترجمة ملفات اللعبة والـDLC الموجودة في حزمة المصدر الحالية.",
+    "description":  "ترجمة عربية للعبة Stellaris، تعتمد على حقن الملفات بصمت. متوافقة مع إصدار 4.4.3.",
+    "releaseDate":  "2026-06-26",
+    "fileSize":  5277377,
+    "status":  "published",
+    "platforms":  [
+                      "windows"
+                  ],
+    "package":  {
+                    "url":  "https://github.com/ishak10123/Simsima-content/releases/download/stellaris-ar-v0.1.0/stellaris-ar-v0.1.0.zip",
+                    "fileName":  "stellaris-ar-v0.1.0.zip",
+                    "archiveType":  "zip",
+                    "size":  5277377,
+                    "checksum":  "sha256:5c712595eee33904637df94a918acbe2652efdc8e30a1984e66acd00000c41a9"
+                },
+    "installer":  {
+                      "kind":  "simsima_runner",
+                      "entryFile":  "simsima.package.json",
+                      "requiresAdmin":  false,
+                      "launchMode":  "extract_then_run",
+                      "arguments":  [
+
+                                    ],
+                      "workingDirectory":  "",
+                      "supportsManualPath":  true,
+                      "manualPathRequired":  false,
+                      "cleanupOnSuccess":  true
+                  },
+    "instructions":  {
+                         "shortText":  "تأكد من أن إصدار اللعبة 4.4.3، ثم اضغط تحميل وتشغيل.",
+                         "detailedText":  "إذا لم يتم العثور على مسار Stellaris تلقائيا، اضغط تحديد مسار اللعبة واختر مجلد تثبيت Stellaris، ثم اضغط تحميل وتشغيل. ستظهر رسالة عند اكتمال التركيب.",
+                         "screenshots":  [
+
+                                         ]
+                     }
 }
