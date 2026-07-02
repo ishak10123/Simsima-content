@@ -1,8 +1,8 @@
 {
-  "version": "0.1.6",
-  "installerUrl": "https://github.com/ishak10123/Simsima-content/releases/download/simsima-v0.1.6/Simsima-0.1.6-win-x64-Classic-Setup.exe",
-  "fileName": "Simsima-0.1.6-win-x64-Classic-Setup.exe",
-  "size": 48465163,
-  "sha256": "070D28F087F29C199AC7E4DC23D83C1DBBC32BBF46BD4552439F1EFDADB26BCC",
-  "releaseNotes": "تحديث 0.1.6 يضيف دعم حزم simsima_runner الصامتة، اختيار مسار اللعبة يدويا، تمرير تقدم التثبيت، وتنظيف الكاش بعد نجاح الحقن."
+  "version": "0.1.7",
+  "installerUrl": "https://github.com/ishak10123/Simsima-content/releases/download/simsima-v0.1.7/Simsima-0.1.7-win-x64-Classic-Setup.exe",
+  "fileName": "Simsima-0.1.7-win-x64-Classic-Setup.exe",
+  "size": 48390110,
+  "sha256": "F5B2D7D110EC879B34F40B82727491AE9F0884C2A58ED11E374C009DCE1455C9",
+  "releaseNotes": "تحديث 0.1.7 يصلح فشل تشغيل حزم simsima_runner عند مشاركة ملف السجل، ويضيف زر Discord في الواجهة."
 }
