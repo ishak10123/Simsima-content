@@ -1,46 +1,43 @@
 {
-    "id":  "stellaris-ar",
-    "slug":  "stellaris-ar",
-    "gameTitle":  "Stellaris",
-    "alternateTitles":  [
-                            "Stellaris Arabic Translation"
-                        ],
-    "translationVersion":  "0.1.0",
-    "gameVersion":  "4.4.3",
-    "coverImageUrl":  "https://ishak10123.github.io/Simsima-content/rooms/stellaris-ar/cover.jpg",
-    "summary":  "متوافقة مع Stellaris 4.4.3، وتشمل ترجمة ملفات اللعبة والـDLC الموجودة في حزمة المصدر الحالية.",
-    "description":  "ترجمة عربية للعبة Stellaris، تعتمد على حقن الملفات بصمت. متوافقة مع إصدار 4.4.3.",
-    "releaseDate":  "2026-06-26",
-    "fileSize":  5277377,
-    "status":  "published",
-    "platforms":  [
-                      "windows"
-                  ],
-    "package":  {
-                    "url":  "https://github.com/ishak10123/Simsima-content/releases/download/stellaris-ar-v0.1.0/stellaris-ar-v0.1.0.zip",
-                    "fileName":  "stellaris-ar-v0.1.0.zip",
-                    "archiveType":  "zip",
-                    "size":  5277377,
-                    "checksum":  "sha256:5c712595eee33904637df94a918acbe2652efdc8e30a1984e66acd00000c41a9"
-                },
-    "installer":  {
-                      "kind":  "simsima_runner",
-                      "entryFile":  "simsima.package.json",
-                      "requiresAdmin":  false,
-                      "launchMode":  "extract_then_run",
-                      "arguments":  [
-
-                                    ],
-                      "workingDirectory":  "",
-                      "supportsManualPath":  true,
-                      "manualPathRequired":  false,
-                      "cleanupOnSuccess":  true
-                  },
-    "instructions":  {
-                         "shortText":  "تأكد من أن إصدار اللعبة 4.4.3، ثم اضغط تحميل وتشغيل.",
-                         "detailedText":  "إذا لم يتم العثور على مسار Stellaris تلقائيا، اضغط تحديد مسار اللعبة واختر مجلد تثبيت Stellaris، ثم اضغط تحميل وتشغيل. ستظهر رسالة عند اكتمال التركيب.",
-                         "screenshots":  [
-
-                                         ]
-                     }
+  "id": "stellaris-ar",
+  "slug": "stellaris-ar",
+  "gameTitle": "Stellaris",
+  "alternateTitles": [
+    "Stellaris Arabic Translation"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "translationVersion": "0.1.1",
+  "gameVersion": "4.4.3",
+  "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/stellaris-ar/cover.jpg",
+  "summary": "ط¨ط·ط§ظ‚ط© ط§ط®طھط¨ط§ط± ظ„ظ„ظ†ط¸ط§ظ… ط§ظ„ط¬ط¯ظٹط¯: Simsima ظٹظپطھط­ ظˆط§ط¬ظ‡ط© ط§ظ„طھط«ط¨ظٹطھ ط§ظ„ط¯ط§ط®ظ„ظٹط© ط°ط§طھ ط§ظ„ط£ط²ط±ط§ط± ط§ظ„ط«ظ„ط§ط«ط© ط¨ط¯ظ„ ط§ط®طھظٹط§ط± ط§ظ„ظ…ط³ط§ط± ظ…ظ† ط§ظ„ط¨ط·ط§ظ‚ط©.",
+  "description": "طھط±ط¬ظ…ط© ط¹ط±ط¨ظٹط© ظ„ظ„ط¹ط¨ط© Stellaris ظ…طھظˆط§ظپظ‚ط© ظ…ط¹ ط¥طµط¯ط§ط± 4.4.3. ظ‡ط°ظ‡ ط§ظ„ظ†ط³ط®ط© طھط®طھط¨ط± ظˆط§ط¬ظ‡ط© ط§ظ„ط­ط²ظ…ط© ط§ظ„ط¯ط§ط®ظ„ظٹط© ط§ظ„طھظٹ طھظˆظپط± ط§ظ„طھط«ط¨ظٹطھ ط§ظ„طھظ„ظ‚ط§ط¦ظٹطŒ طھط­ط¯ظٹط¯ ط§ظ„ظ…ط³ط§ط± ظٹط¯ظˆظٹط§طŒ ظˆط§ط³طھط±ط¬ط§ط¹ ظ…ظ„ظپط§طھ ط§ظ„ظ„ط¹ط¨ط© ط§ظ„ط£طµظ„ظٹط©.",
+  "releaseDate": "2026-07-03",
+  "fileSize": 5432779,
+  "status": "published",
+  "package": {
+    "url": "https://github.com/ishak10123/Simsima-content/releases/download/stellaris-ar-v0.1.1/stellaris-ar-v0.1.1.zip",
+    "fileName": "stellaris-ar-v0.1.1.zip",
+    "archiveType": "zip",
+    "size": 5432779,
+    "checksum": "sha256:c319f7e81a6614510097325745b585eb81faad9d3e991cfa310ac752a79a8e54"
+  },
+  "installer": {
+    "kind": "bat",
+    "entryFile": "Run_Simsima.vbs",
+    "requiresAdmin": false,
+    "launchMode": "extract_then_run",
+    "arguments": [],
+    "workingDirectory": "",
+    "supportsManualPath": false,
+    "manualPathRequired": false,
+    "cleanupOnSuccess": false,
+    "selfManagedUi": true
+  },
+  "instructions": {
+    "shortText": "ط§ط¶ط؛ط· طھط­ظ…ظٹظ„ ظˆظپطھط­ ظˆط§ط¬ظ‡ط© ط§ظ„طھط«ط¨ظٹطھطŒ ط«ظ… ط§ط®طھط± ط§ظ„طھط«ط¨ظٹطھ ط§ظ„طھظ„ظ‚ط§ط¦ظٹ ط£ظˆ ط§ظ„ظ…ط³ط§ط± ط§ظ„ظٹط¯ظˆظٹ ط£ظˆ ط§ظ„ط§ط³طھط±ط¬ط§ط¹ ظ…ظ† ظ†ط§ظپط°ط© ط§ظ„ط­ط²ظ…ط©.",
+    "detailedText": "ط¨ط¹ط¯ طھط­ظ…ظٹظ„ ط§ظ„ط­ط²ظ…ط© ظٹظپطھط­ Simsima ظˆط§ط¬ظ‡ط© ط§ظ„طھط«ط¨ظٹطھ ط§ظ„ط¯ط§ط®ظ„ظٹط©طŒ ظˆظ„ط§ ظٹط·ظ„ط¨ ظ…ط³ط§ط± ط§ظ„ظ„ط¹ط¨ط© ظ…ظ† ط¨ط·ط§ظ‚ط© Simsima. ط§ط®طھط± ط§ظ„طھط«ط¨ظٹطھ ط§ظ„طھظ„ظ‚ط§ط¦ظٹ ظ„ظ„ط¨ط­ط« ط¹ظ† StellarisطŒ ط£ظˆ ط§ظ„ظ…ط³ط§ط± ط§ظ„ظٹط¯ظˆظٹ ط¥ط°ط§ ظ„ظ… ظٹطھظ… ط§ظ„ط¹ط«ظˆط± ط¹ظ„ظٹظ‡ط§طŒ ط£ظˆ ط§ظ„ط§ط³طھط±ط¬ط§ط¹ ظ„ط¥ط¹ط§ط¯ط© ط§ظ„ظ…ظ„ظپط§طھ ط§ظ„ط£طµظ„ظٹط©.",
+    "screenshots": []
+  }
 }
