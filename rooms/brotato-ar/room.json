@@ -1,0 +1,48 @@
+﻿{
+    "id":  "brotato-ar",
+    "slug":  "brotato-ar",
+    "gameTitle":  "Brotato",
+    "alternateTitles":  [
+                            "بروتاتو",
+                            "Brotato Arabic Translation"
+                        ],
+    "platforms":  [
+                      "windows"
+                  ],
+    "translationVersion":  "0.1.0",
+    "gameVersion":  "unknown",
+    "coverImageUrl":  "https://ishak10123.github.io/Simsima-content/rooms/brotato-ar/cover.jpg",
+    "summary":  "تعريب عربي للعبة Brotato مع دعم اللعبة الأساسية وإضافة Abyssal Terrors عند توفرها.",
+    "description":  "تفتح الحزمة واجهة تثبيت خاصة لتثبيت تعريب Brotato تلقائيا، اختيار مسار اللعبة يدويا، أو استرجاع الملفات الأصلية. بعد التثبيت، إذا لم تظهر العربية مباشرة فاختر Turkish من إعدادات اللغة داخل اللعبة.",
+    "releaseDate":  "2026-07-03",
+    "fileSize":  457182,
+    "status":  "published",
+    "package":  {
+                    "url":  "https://github.com/ishak10123/Simsima-content/releases/download/brotato-ar-v0.1.0/brotato-ar-v0.1.0.zip",
+                    "fileName":  "brotato-ar-v0.1.0.zip",
+                    "archiveType":  "zip",
+                    "size":  457182,
+                    "checksum":  "sha256:d9db6e8cb15727ffd15a58bcf1e49938c4fed9ba99db5dce6724d51e7c4adb5f"
+                },
+    "installer":  {
+                      "kind":  "bat",
+                      "entryFile":  "Run_Simsima.vbs",
+                      "requiresAdmin":  false,
+                      "launchMode":  "extract_then_run",
+                      "arguments":  [
+
+                                    ],
+                      "workingDirectory":  "",
+                      "supportsManualPath":  false,
+                      "manualPathRequired":  false,
+                      "cleanupOnSuccess":  false,
+                      "selfManagedUi":  true
+                  },
+    "instructions":  {
+                         "shortText":  "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مسار مجلد Brotato إذا لم يتم العثور عليه.",
+                         "detailedText":  "بعد فتح واجهة التثبيت، استخدم التثبيت التلقائي للبحث عن Brotato، أو اختر المسار يدويا وحدد المجلد الذي يحتوي Brotato.pck. إذا ظهر خطأ صلاحيات، شغل Simsima كمسؤول ثم حاول مرة أخرى. يمكن استخدام زر الاسترجاع من نفس الواجهة لإعادة الملفات الأصلية.",
+                         "screenshots":  [
+
+                                         ]
+                     }
+}
