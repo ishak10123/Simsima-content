@@ -1,0 +1,48 @@
+﻿{
+    "id":  "oxygen-not-included-ar",
+    "slug":  "oxygen-not-included-ar",
+    "gameTitle":  "Oxygen Not Included",
+    "alternateTitles":  [
+                            "Oxygen Not Included Arabic Translation",
+                            "تعريب Oxygen Not Included"
+                        ],
+    "platforms":  [
+                      "windows"
+                  ],
+    "translationVersion":  "1.0.0",
+    "gameVersion":  "unknown",
+    "coverImageUrl":  "https://ishak10123.github.io/Simsima-content/rooms/oxygen-not-included-ar/cover.png",
+    "summary":  "تعريب عربي للعبة Oxygen Not Included يضيف مود الترجمة داخل مجلد مودات اللعبة المحلي.",
+    "description":  "حزمة تعريب عربية للعبة Oxygen Not Included. تفتح الحزمة واجهة تثبيت خاصة يمكن من خلالها التثبيت التلقائي، اختيار مسار مجلد بيانات اللعبة أو mods/local يدويا، أو إزالة التعريب واسترجاع الحالة السابقة عند توفر نسخة احتياطية.",
+    "releaseDate":  "2026-07-08",
+    "fileSize":  4277404,
+    "status":  "published",
+    "package":  {
+                    "url":  "https://github.com/ishak10123/Simsima-content/releases/download/oxygen-not-included-ar-v1.0.0/oxygen-not-included-ar-v1.0.0.zip",
+                    "fileName":  "oxygen-not-included-ar-v1.0.0.zip",
+                    "archiveType":  "zip",
+                    "size":  4277404,
+                    "checksum":  "sha256:6521749974498e9ee7f13925e1ed13d75b6135ede21e7f44ee49529d19e7e3a2"
+                },
+    "installer":  {
+                      "kind":  "bat",
+                      "entryFile":  "Run_Simsima.vbs",
+                      "requiresAdmin":  false,
+                      "launchMode":  "extract_then_run",
+                      "arguments":  [
+
+                                    ],
+                      "workingDirectory":  "",
+                      "supportsManualPath":  false,
+                      "manualPathRequired":  false,
+                      "cleanupOnSuccess":  false,
+                      "selfManagedUi":  true
+                  },
+    "instructions":  {
+                         "shortText":  "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مسار OxygenNotIncluded أو mods/local إذا احتجت لذلك.",
+                         "detailedText":  "بعد فتح واجهة التثبيت، استخدم التثبيت التلقائي لوضع مود التعريب داخل Documents/Klei/OxygenNotIncluded/mods/local. إذا كان مجلد بيانات اللعبة في مكان مختلف، اختر المسار يدويا وحدد مجلد OxygenNotIncluded أو mods/local. بعد التثبيت افتح اللعبة من قائمة Mods وفعل Arabic Translation. يمكن استخدام زر إلغاء التثبيت من نفس الواجهة لإزالة التعريب واسترجاع الحالة السابقة عند توفر نسخة احتياطية.",
+                         "screenshots":  [
+
+                                         ]
+                     }
+}
