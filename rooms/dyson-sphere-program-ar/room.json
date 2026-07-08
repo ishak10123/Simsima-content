@@ -1,0 +1,44 @@
+{
+  "id": "dyson-sphere-program-ar",
+  "slug": "dyson-sphere-program-ar",
+  "gameTitle": "Dyson Sphere Program",
+  "alternateTitles": [
+    "Dyson Sphere Program Arabic Translation",
+    "تعريب Dyson Sphere Program"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "translationVersion": "1.0.0",
+  "gameVersion": "unknown",
+  "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/dyson-sphere-program-ar/cover.jpg",
+  "summary": "تعريب عربي للعبة Dyson Sphere Program يضيف ملفات اللغة العربية إلى مجلد Locale الخاص باللعبة.",
+  "description": "حزمة تعريب عربية للعبة Dyson Sphere Program. تفتح الحزمة واجهة تثبيت خاصة يمكن من خلالها التثبيت التلقائي، اختيار مسار اللعبة أو مجلد Locale يدويا، أو إلغاء التثبيت واسترجاع الملفات الأصلية عند توفر نسخة احتياطية.",
+  "releaseDate": "2026-07-08",
+  "fileSize": 456275,
+  "status": "published",
+  "package": {
+    "url": "https://github.com/ishak10123/Simsima-content/releases/download/dyson-sphere-program-ar-v1.0.0/dyson-sphere-program-ar-v1.0.0.zip",
+    "fileName": "dyson-sphere-program-ar-v1.0.0.zip",
+    "archiveType": "zip",
+    "size": 456275,
+    "checksum": "sha256:bcb8922f0268b80980104d3146c5f5f0e1a9692326eb9a03df8be68965382806"
+  },
+  "installer": {
+    "kind": "bat",
+    "entryFile": "Run_Simsima.vbs",
+    "requiresAdmin": false,
+    "launchMode": "extract_then_run",
+    "arguments": [],
+    "workingDirectory": "",
+    "supportsManualPath": false,
+    "manualPathRequired": false,
+    "cleanupOnSuccess": false,
+    "selfManagedUi": true
+  },
+  "instructions": {
+    "shortText": "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مسار Dyson Sphere Program أو مجلد Locale إذا لم يتم العثور عليه.",
+    "detailedText": "بعد فتح واجهة التثبيت، استخدم التثبيت التلقائي للبحث عن Dyson Sphere Program وتثبيت التعريب. إذا لم يتم العثور على اللعبة، اختر المسار يدويا وحدد مجلد Dyson Sphere Program أو مجلد Locale داخله. يمكن استخدام زر إلغاء التثبيت من نفس الواجهة لاسترجاع ملفات اللعبة الأصلية عند توفر النسخة الاحتياطية.",
+    "screenshots": []
+  }
+}
