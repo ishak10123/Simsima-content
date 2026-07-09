@@ -1,0 +1,44 @@
+{
+  "id": "planet-crafter-ar",
+  "slug": "planet-crafter-ar",
+  "gameTitle": "The Planet Crafter",
+  "alternateTitles": [
+    "تعريب The Planet Crafter",
+    "بلانت كرافتر"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "translationVersion": "1.0.0",
+  "gameVersion": "unknown",
+  "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/planet-crafter-ar/cover.png",
+  "summary": "تعريب عربي للعبة The Planet Crafter مع واجهة تثبيت واسترجاع من داخل الحزمة.",
+  "description": "تضيف هذه الحزمة ترجمة عربية إلى The Planet Crafter. بعد نجاح التثبيت افتح اللعبة واختر Turkish من إعدادات اللغة لاستخدام النص العربي. إذا لم يتم العثور على اللعبة تلقائيا، استخدم اختيار المسار اليدوي داخل واجهة الحزمة.",
+  "releaseDate": "2026-07-09",
+  "fileSize": 2776239,
+  "status": "published",
+  "package": {
+    "url": "https://github.com/ishak10123/Simsima-content/releases/download/planet-crafter-ar-v1.0.0/planet-crafter-ar-v1.0.0.zip",
+    "fileName": "planet-crafter-ar-v1.0.0.zip",
+    "archiveType": "zip",
+    "size": 2776239,
+    "checksum": "sha256:902b961fbdfec65a1c1a0aa35f0b2a4648bb991815e04dc3f23328b58053405a"
+  },
+  "installer": {
+    "kind": "bat",
+    "entryFile": "Run_Simsima.vbs",
+    "requiresAdmin": false,
+    "launchMode": "extract_then_run",
+    "arguments": [],
+    "workingDirectory": "",
+    "supportsManualPath": false,
+    "manualPathRequired": false,
+    "cleanupOnSuccess": false,
+    "selfManagedUi": true
+  },
+  "instructions": {
+    "shortText": "افتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مجلد اللعبة يدويا.",
+    "detailedText": "تأكد أن مجلد اللعبة يحتوي على Planet Crafter.exe وPlanet Crafter_Data. بعد اكتمال التثبيت افتح اللعبة واختر Turkish من إعدادات اللغة. استخدم إلغاء التثبيت داخل واجهة الحزمة لاسترجاع الملف الأصلي عند الحاجة.",
+    "screenshots": []
+  }
+}
