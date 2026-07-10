@@ -1,0 +1,24 @@
+{
+  "catalogVersion": "1.0",
+  "lastUpdated": "2026-07-10T12:30:15.9353944+00:00",
+  "games": [
+    {
+      "id": "planet-crafter-ar",
+      "slug": "planet-crafter-ar",
+      "gameTitle": "The Planet Crafter",
+      "alternateTitles": [
+        "تعريب The Planet Crafter",
+        "بلانت كرافتر"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "translationVersion": "1.0.0",
+      "gameVersion": "unknown",
+      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/planet-crafter-ar/cover.png",
+      "summary": "تعريب عربي للعبة The Planet Crafter مع واجهة تثبيت واسترجاع من داخل الحزمة.",
+      "description": "تضيف هذه الحزمة ترجمة عربية إلى The Planet Crafter. بعد نجاح التثبيت افتح اللعبة واختر Turkish من إعدادات اللغة لاستخدام النص العربي. إذا لم يتم العثور على اللعبة تلقائيا، استخدم اختيار المسار اليدوي داخل واجهة الحزمة.",
+      "releaseDate": "2026-07-09"
+    }
+  ]
+}

@@ -1,293 +1,276 @@
 {
-    "catalogVersion":  "1.0",
-    "lastUpdated":  "2026-07-09T13:41:28.9190743Z",
-    "games":  [
-                  {
-                      "id":  "brotato-ar",
-                      "slug":  "brotato-ar",
-                      "gameTitle":  "Brotato",
-                      "alternateTitles":  [
-                                              "بروتاتو",
-                                              "Brotato Arabic Translation"
-                                          ],
-                      "platforms":  [
-                                        "windows"
-                                    ],
-                      "translationVersion":  "0.1.0",
-                      "gameVersion":  "unknown",
-                      "coverImageUrl":  "https://ishak10123.github.io/Simsima-content/rooms/brotato-ar/cover.jpg",
-                      "summary":  "تعريب عربي للعبة Brotato مع دعم اللعبة الأساسية وإضافة Abyssal Terrors عند توفرها.",
-                      "description":  "تفتح الحزمة واجهة تثبيت خاصة لتثبيت تعريب Brotato تلقائيا، اختيار مسار اللعبة يدويا، أو استرجاع الملفات الأصلية. بعد التثبيت، إذا لم تظهر العربية مباشرة فاختر Turkish من إعدادات اللغة داخل اللعبة.",
-                      "releaseDate":  "2026-07-03",
-                      "fileSize":  457182,
-                      "status":  "published",
-                      "package":  {
-                                      "url":  "https://github.com/ishak10123/Simsima-content/releases/download/brotato-ar-v0.1.0/brotato-ar-v0.1.0.zip",
-                                      "fileName":  "brotato-ar-v0.1.0.zip",
-                                      "archiveType":  "zip",
-                                      "size":  457182,
-                                      "checksum":  "sha256:d9db6e8cb15727ffd15a58bcf1e49938c4fed9ba99db5dce6724d51e7c4adb5f"
-                                  },
-                      "installer":  {
-                                        "kind":  "bat",
-                                        "entryFile":  "Run_Simsima.vbs",
-                                        "requiresAdmin":  false,
-                                        "launchMode":  "extract_then_run",
-                                        "arguments":  [
-
-                                                      ],
-                                        "workingDirectory":  "",
-                                        "supportsManualPath":  false,
-                                        "manualPathRequired":  false,
-                                        "cleanupOnSuccess":  false,
-                                        "selfManagedUi":  true
-                                    },
-                      "instructions":  {
-                                           "shortText":  "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مسار مجلد Brotato إذا لم يتم العثور عليه.",
-                                           "detailedText":  "بعد فتح واجهة التثبيت، استخدم التثبيت التلقائي للبحث عن Brotato، أو اختر المسار يدويا وحدد المجلد الذي يحتوي Brotato.pck. إذا ظهر خطأ صلاحيات، شغل Simsima كمسؤول ثم حاول مرة أخرى. يمكن استخدام زر الاسترجاع من نفس الواجهة لإعادة الملفات الأصلية.",
-                                           "screenshots":  [
-
-                                                           ]
-                                       }
-                  },
-                  {
-                      "id":  "dyson-sphere-program-ar",
-                      "slug":  "dyson-sphere-program-ar",
-                      "gameTitle":  "Dyson Sphere Program",
-                      "alternateTitles":  [
-                                              "Dyson Sphere Program Arabic Translation",
-                                              "تعريب Dyson Sphere Program"
-                                          ],
-                      "platforms":  [
-                                        "windows"
-                                    ],
-                      "translationVersion":  "1.0.1",
-                      "gameVersion":  "unknown",
-                      "coverImageUrl":  "https://ishak10123.github.io/Simsima-content/rooms/dyson-sphere-program-ar/cover.jpg",
-                      "summary":  "تعريب عربي للعبة Dyson Sphere Program يضيف ملفات اللغة العربية إلى مجلد Locale الخاص باللعبة.",
-                      "description":  "حزمة تعريب عربية للعبة Dyson Sphere Program. تفتح الحزمة واجهة تثبيت خاصة يمكن من خلالها التثبيت التلقائي، اختيار مسار اللعبة أو مجلد Locale يدويا، أو إلغاء التثبيت واسترجاع الملفات الأصلية عند توفر نسخة احتياطية.",
-                      "releaseDate":  "2026-07-08",
-                      "fileSize":  1317316,
-                      "status":  "published",
-                      "package":  {
-                                      "url":  "https://github.com/ishak10123/Simsima-content/releases/download/dyson-sphere-program-ar-v1.0.1/dyson-sphere-program-ar-v1.0.1.zip",
-                                      "fileName":  "dyson-sphere-program-ar-v1.0.1.zip",
-                                      "archiveType":  "zip",
-                                      "size":  1317316,
-                                      "checksum":  "sha256:68994b790687184982bef3aa427161a0cf9956f25fc6c3ea8d60e5d86dbe231b"
-                                  },
-                      "installer":  {
-                                        "kind":  "bat",
-                                        "entryFile":  "Run_Simsima.vbs",
-                                        "requiresAdmin":  false,
-                                        "launchMode":  "extract_then_run",
-                                        "arguments":  [
-
-                                                      ],
-                                        "workingDirectory":  "",
-                                        "supportsManualPath":  false,
-                                        "manualPathRequired":  false,
-                                        "cleanupOnSuccess":  false,
-                                        "selfManagedUi":  true
-                                    },
-                      "instructions":  {
-                                           "shortText":  "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مسار Dyson Sphere Program أو مجلد Locale إذا لم يتم العثور عليه.",
-                                           "detailedText":  "بعد فتح واجهة التثبيت، استخدم التثبيت التلقائي للبحث عن Dyson Sphere Program وتثبيت التعريب. إذا لم يتم العثور على اللعبة، اختر المسار يدويا وحدد مجلد Dyson Sphere Program أو مجلد Locale داخله. يمكن استخدام زر إلغاء التثبيت من نفس الواجهة لاسترجاع ملفات اللعبة الأصلية عند توفر النسخة الاحتياطية.",
-                                           "screenshots":  [
-
-                                                           ]
-                                       }
-                  },
-                  {
-                      "id":  "factorio-ar",
-                      "slug":  "factorio-ar",
-                      "gameTitle":  "Factorio",
-                      "alternateTitles":  [
-                                              "فاكتوريو",
-                                              "Factorio Arabic Translation"
-                                          ],
-                      "platforms":  [
-                                        "windows"
-                                    ],
-                      "translationVersion":  "0.1.0",
-                      "gameVersion":  "2.0+",
-                      "coverImageUrl":  "https://ishak10123.github.io/Simsima-content/rooms/factorio-ar/cover.png",
-                      "summary":  "تعريب عربي للعبة Factorio مع ملفات اللعبة الأساسية ومحتوى Space Age وQuality وElevated Rails حسب الملفات المرفقة.",
-                      "description":  "تفتح الحزمة واجهة تثبيت خاصة لتثبيت تعريب Factorio تلقائيا، تحديد مسار اللعبة يدويا، أو استرجاع الملفات الأصلية. تستهدف Factorio 2.0 وما بعدها بحسب ملفات الترجمة المرفقة، وتشمل اللعبة الأساسية ومحتوى Space Age وQuality وElevated Rails عند توفرها.",
-                      "releaseDate":  "2026-07-03",
-                      "fileSize":  2693778,
-                      "status":  "published",
-                      "package":  {
-                                      "url":  "https://github.com/ishak10123/Simsima-content/releases/download/factorio-ar-v0.1.0/factorio-ar-v0.1.0.zip",
-                                      "fileName":  "factorio-ar-v0.1.0.zip",
-                                      "archiveType":  "zip",
-                                      "size":  2693778,
-                                      "checksum":  "sha256:97e44a5683cb6841b2ab9d69c8cfd97afa739cfa389037bb8daf5fe9897e59b5"
-                                  },
-                      "installer":  {
-                                        "kind":  "bat",
-                                        "entryFile":  "Run_Simsima.vbs",
-                                        "requiresAdmin":  false,
-                                        "launchMode":  "extract_then_run",
-                                        "arguments":  [
-
-                                                      ],
-                                        "workingDirectory":  "",
-                                        "supportsManualPath":  false,
-                                        "manualPathRequired":  false,
-                                        "cleanupOnSuccess":  false,
-                                        "selfManagedUi":  true
-                                    },
-                      "instructions":  {
-                                           "shortText":  "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مسار مجلد Factorio إذا لم يتم العثور عليه.",
-                                           "detailedText":  "بعد فتح واجهة التثبيت، استخدم التثبيت التلقائي للبحث عن Factorio، أو اختر المسار يدويا وحدد مجلد Factorio أو مجلد data. إذا ظهر خطأ صلاحيات، شغل Simsima كمسؤول ثم حاول مرة أخرى. يمكن استخدام زر إلغاء التثبيت من نفس الواجهة لاسترجاع الملفات الأصلية.",
-                                           "screenshots":  [
-
-                                                           ]
-                                       }
-                  },
-                  {
-                      "id":  "oxygen-not-included-ar",
-                      "slug":  "oxygen-not-included-ar",
-                      "gameTitle":  "Oxygen Not Included",
-                      "alternateTitles":  [
-                                              "Oxygen Not Included Arabic Translation",
-                                              "تعريب Oxygen Not Included"
-                                          ],
-                      "platforms":  [
-                                        "windows"
-                                    ],
-                      "translationVersion":  "1.0.0",
-                      "gameVersion":  "unknown",
-                      "coverImageUrl":  "https://ishak10123.github.io/Simsima-content/rooms/oxygen-not-included-ar/cover.png",
-                      "summary":  "تعريب عربي للعبة Oxygen Not Included يضيف مود الترجمة داخل مجلد مودات اللعبة المحلي.",
-                      "description":  "حزمة تعريب عربية للعبة Oxygen Not Included. تفتح الحزمة واجهة تثبيت خاصة يمكن من خلالها التثبيت التلقائي، اختيار مسار مجلد بيانات اللعبة أو mods/local يدويا، أو إزالة التعريب واسترجاع الحالة السابقة عند توفر نسخة احتياطية.",
-                      "releaseDate":  "2026-07-08",
-                      "fileSize":  4277404,
-                      "status":  "published",
-                      "package":  {
-                                      "url":  "https://github.com/ishak10123/Simsima-content/releases/download/oxygen-not-included-ar-v1.0.0/oxygen-not-included-ar-v1.0.0.zip",
-                                      "fileName":  "oxygen-not-included-ar-v1.0.0.zip",
-                                      "archiveType":  "zip",
-                                      "size":  4277404,
-                                      "checksum":  "sha256:6521749974498e9ee7f13925e1ed13d75b6135ede21e7f44ee49529d19e7e3a2"
-                                  },
-                      "installer":  {
-                                        "kind":  "bat",
-                                        "entryFile":  "Run_Simsima.vbs",
-                                        "requiresAdmin":  false,
-                                        "launchMode":  "extract_then_run",
-                                        "arguments":  [
-
-                                                      ],
-                                        "workingDirectory":  "",
-                                        "supportsManualPath":  false,
-                                        "manualPathRequired":  false,
-                                        "cleanupOnSuccess":  false,
-                                        "selfManagedUi":  true
-                                    },
-                      "instructions":  {
-                                           "shortText":  "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مسار OxygenNotIncluded أو mods/local إذا احتجت لذلك.",
-                                           "detailedText":  "بعد فتح واجهة التثبيت، استخدم التثبيت التلقائي لوضع مود التعريب داخل Documents/Klei/OxygenNotIncluded/mods/local. إذا كان مجلد بيانات اللعبة في مكان مختلف، اختر المسار يدويا وحدد مجلد OxygenNotIncluded أو mods/local. بعد التثبيت افتح اللعبة من قائمة Mods وفعل Arabic Translation. يمكن استخدام زر إلغاء التثبيت من نفس الواجهة لإزالة التعريب واسترجاع الحالة السابقة عند توفر نسخة احتياطية.",
-                                           "screenshots":  [
-
-                                                           ]
-                                       }
-                  },
-                  {
-                      "id":  "stellaris-ar",
-                      "slug":  "stellaris-ar",
-                      "gameTitle":  "Stellaris",
-                      "alternateTitles":  [
-                                              "Stellaris Arabic Translation"
-                                          ],
-                      "platforms":  [
-                                        "windows"
-                                    ],
-                      "translationVersion":  "0.1.2",
-                      "gameVersion":  "4.4.3",
-                      "coverImageUrl":  "https://ishak10123.github.io/Simsima-content/rooms/stellaris-ar/cover.jpg",
-                      "summary":  "بطاقة اختبار للنظام الجديد: Simsima يفتح واجهة التثبيت الداخلية ذات الأزرار الثلاثة بدل اختيار المسار من البطاقة.",
-                      "description":  "ترجمة عربية للعبة Stellaris متوافقة مع إصدار 4.4.3. هذه النسخة تختبر واجهة الحزمة الداخلية التي توفر التثبيت التلقائي، تحديد المسار يدويا، واسترجاع ملفات اللعبة الأصلية.",
-                      "releaseDate":  "2026-07-03",
-                      "fileSize":  5432962,
-                      "status":  "published",
-                      "package":  {
-                                      "url":  "https://github.com/ishak10123/Simsima-content/releases/download/stellaris-ar-v0.1.2/stellaris-ar-v0.1.2.zip",
-                                      "fileName":  "stellaris-ar-v0.1.2.zip",
-                                      "archiveType":  "zip",
-                                      "size":  5432962,
-                                      "checksum":  "sha256:d9cd2f88aa9c967a6a1e5565f3f3fe0dfee2446da2a996c23d4893b856be1957"
-                                  },
-                      "installer":  {
-                                        "kind":  "bat",
-                                        "entryFile":  "Run_Simsima.vbs",
-                                        "requiresAdmin":  false,
-                                        "launchMode":  "extract_then_run",
-                                        "arguments":  [
-
-                                                      ],
-                                        "workingDirectory":  "",
-                                        "supportsManualPath":  false,
-                                        "manualPathRequired":  false,
-                                        "cleanupOnSuccess":  false,
-                                        "selfManagedUi":  true
-                                    },
-                      "instructions":  {
-                                           "shortText":  "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو المسار اليدوي أو الاسترجاع من نافذة الحزمة.",
-                                           "detailedText":  "بعد تحميل الحزمة يفتح Simsima واجهة التثبيت الداخلية، ولا يطلب مسار اللعبة من بطاقة Simsima. اختر التثبيت التلقائي للبحث عن Stellaris، أو المسار اليدوي إذا لم يتم العثور عليها، أو الاسترجاع لإعادة الملفات الأصلية.",
-                                           "screenshots":  [
-
-                                                           ]
-                                       }
-                  },
-                  {
-                      "id":  "planet-crafter-ar",
-                      "slug":  "planet-crafter-ar",
-                      "gameTitle":  "The Planet Crafter",
-                      "alternateTitles":  [
-                                              "تعريب The Planet Crafter",
-                                              "بلانت كرافتر"
-                                          ],
-                      "platforms":  [
-                                        "windows"
-                                    ],
-                      "translationVersion":  "1.0.0",
-                      "gameVersion":  "unknown",
-                      "coverImageUrl":  "https://ishak10123.github.io/Simsima-content/rooms/planet-crafter-ar/cover.png",
-                      "summary":  "تعريب عربي للعبة The Planet Crafter مع واجهة تثبيت واسترجاع من داخل الحزمة.",
-                      "description":  "تضيف هذه الحزمة ترجمة عربية إلى The Planet Crafter. بعد نجاح التثبيت افتح اللعبة واختر Turkish من إعدادات اللغة لاستخدام النص العربي. إذا لم يتم العثور على اللعبة تلقائيا، استخدم اختيار المسار اليدوي داخل واجهة الحزمة.",
-                      "releaseDate":  "2026-07-09",
-                      "fileSize":  2776239,
-                      "status":  "published",
-                      "package":  {
-                                      "url":  "https://github.com/ishak10123/Simsima-content/releases/download/planet-crafter-ar-v1.0.0/planet-crafter-ar-v1.0.0.zip",
-                                      "fileName":  "planet-crafter-ar-v1.0.0.zip",
-                                      "archiveType":  "zip",
-                                      "size":  2776239,
-                                      "checksum":  "sha256:902b961fbdfec65a1c1a0aa35f0b2a4648bb991815e04dc3f23328b58053405a"
-                                  },
-                      "installer":  {
-                                        "kind":  "bat",
-                                        "entryFile":  "Run_Simsima.vbs",
-                                        "requiresAdmin":  false,
-                                        "launchMode":  "extract_then_run",
-                                        "arguments":  [
-
-                                                      ],
-                                        "workingDirectory":  "",
-                                        "supportsManualPath":  false,
-                                        "manualPathRequired":  false,
-                                        "cleanupOnSuccess":  false,
-                                        "selfManagedUi":  true
-                                    },
-                      "instructions":  {
-                                           "shortText":  "افتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مجلد اللعبة يدويا.",
-                                           "detailedText":  "تأكد أن مجلد اللعبة يحتوي على Planet Crafter.exe وPlanet Crafter_Data. بعد اكتمال التثبيت افتح اللعبة واختر Turkish من إعدادات اللغة. استخدم إلغاء التثبيت داخل واجهة الحزمة لاسترجاع الملف الأصلي عند الحاجة.",
-                                           "screenshots":  [
-
-                                                           ]
-                                       }
-                  }
-              ]
+  "catalogVersion": "1.0",
+  "lastUpdated": "2026-07-10T12:30:15.260221+00:00",
+  "games": [
+    {
+      "id": "planet-crafter-ar",
+      "slug": "planet-crafter-ar",
+      "gameTitle": "The Planet Crafter",
+      "alternateTitles": [
+        "تعريب The Planet Crafter",
+        "بلانت كرافتر"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "translationVersion": "1.0.0",
+      "gameVersion": "unknown",
+      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/planet-crafter-ar/cover.png",
+      "summary": "تعريب عربي للعبة The Planet Crafter مع واجهة تثبيت واسترجاع من داخل الحزمة.",
+      "description": "تضيف هذه الحزمة ترجمة عربية إلى The Planet Crafter. بعد نجاح التثبيت افتح اللعبة واختر Turkish من إعدادات اللغة لاستخدام النص العربي. إذا لم يتم العثور على اللعبة تلقائيا، استخدم اختيار المسار اليدوي داخل واجهة الحزمة.",
+      "releaseDate": "2026-07-09",
+      "fileSize": 2776239,
+      "status": "published",
+      "package": {
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/planet-crafter-ar-v1.0.0/planet-crafter-ar-v1.0.0.zip",
+        "fileName": "planet-crafter-ar-v1.0.0.zip",
+        "archiveType": "zip",
+        "size": 2776239,
+        "checksum": "sha256:902b961fbdfec65a1c1a0aa35f0b2a4648bb991815e04dc3f23328b58053405a"
+      },
+      "installer": {
+        "kind": "bat",
+        "entryFile": "Run_Simsima.vbs",
+        "requiresAdmin": false,
+        "launchMode": "extract_then_run",
+        "arguments": [],
+        "workingDirectory": "",
+        "supportsManualPath": false,
+        "manualPathRequired": false,
+        "cleanupOnSuccess": false,
+        "selfManagedUi": true
+      },
+      "instructions": {
+        "shortText": "افتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مجلد اللعبة يدويا.",
+        "detailedText": "تأكد أن مجلد اللعبة يحتوي على Planet Crafter.exe وPlanet Crafter_Data. بعد اكتمال التثبيت افتح اللعبة واختر Turkish من إعدادات اللغة. استخدم إلغاء التثبيت داخل واجهة الحزمة لاسترجاع الملف الأصلي عند الحاجة.",
+        "screenshots": []
+      },
+      "publishing": {
+        "status": "published",
+        "channels": [
+          "app",
+          "site"
+        ]
+      }
+    },
+    {
+      "id": "dyson-sphere-program-ar",
+      "slug": "dyson-sphere-program-ar",
+      "gameTitle": "Dyson Sphere Program",
+      "alternateTitles": [
+        "Dyson Sphere Program Arabic Translation",
+        "تعريب Dyson Sphere Program"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "translationVersion": "1.0.1",
+      "gameVersion": "unknown",
+      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/dyson-sphere-program-ar/cover.jpg",
+      "summary": "تعريب عربي للعبة Dyson Sphere Program يضيف ملفات اللغة العربية إلى مجلد Locale الخاص باللعبة.",
+      "description": "حزمة تعريب عربية للعبة Dyson Sphere Program. تفتح الحزمة واجهة تثبيت خاصة يمكن من خلالها التثبيت التلقائي، اختيار مسار اللعبة أو مجلد Locale يدويا، أو إلغاء التثبيت واسترجاع الملفات الأصلية عند توفر نسخة احتياطية.",
+      "releaseDate": "2026-07-08",
+      "fileSize": 1317316,
+      "status": "published",
+      "package": {
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/dyson-sphere-program-ar-v1.0.1/dyson-sphere-program-ar-v1.0.1.zip",
+        "fileName": "dyson-sphere-program-ar-v1.0.1.zip",
+        "archiveType": "zip",
+        "size": 1317316,
+        "checksum": "sha256:68994b790687184982bef3aa427161a0cf9956f25fc6c3ea8d60e5d86dbe231b"
+      },
+      "installer": {
+        "kind": "bat",
+        "entryFile": "Run_Simsima.vbs",
+        "requiresAdmin": false,
+        "launchMode": "extract_then_run",
+        "arguments": [],
+        "workingDirectory": "",
+        "supportsManualPath": false,
+        "manualPathRequired": false,
+        "cleanupOnSuccess": false,
+        "selfManagedUi": true
+      },
+      "instructions": {
+        "shortText": "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مسار Dyson Sphere Program أو مجلد Locale إذا لم يتم العثور عليه.",
+        "detailedText": "بعد فتح واجهة التثبيت، استخدم التثبيت التلقائي للبحث عن Dyson Sphere Program وتثبيت التعريب. إذا لم يتم العثور على اللعبة، اختر المسار يدويا وحدد مجلد Dyson Sphere Program أو مجلد Locale داخله. يمكن استخدام زر إلغاء التثبيت من نفس الواجهة لاسترجاع ملفات اللعبة الأصلية عند توفر النسخة الاحتياطية.",
+        "screenshots": []
+      }
+    },
+    {
+      "id": "oxygen-not-included-ar",
+      "slug": "oxygen-not-included-ar",
+      "gameTitle": "Oxygen Not Included",
+      "alternateTitles": [
+        "Oxygen Not Included Arabic Translation",
+        "تعريب Oxygen Not Included"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "translationVersion": "1.0.0",
+      "gameVersion": "unknown",
+      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/oxygen-not-included-ar/cover.png",
+      "summary": "تعريب عربي للعبة Oxygen Not Included يضيف مود الترجمة داخل مجلد مودات اللعبة المحلي.",
+      "description": "حزمة تعريب عربية للعبة Oxygen Not Included. تفتح الحزمة واجهة تثبيت خاصة يمكن من خلالها التثبيت التلقائي، اختيار مسار مجلد بيانات اللعبة أو mods/local يدويا، أو إزالة التعريب واسترجاع الحالة السابقة عند توفر نسخة احتياطية.",
+      "releaseDate": "2026-07-08",
+      "fileSize": 4277404,
+      "status": "published",
+      "package": {
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/oxygen-not-included-ar-v1.0.0/oxygen-not-included-ar-v1.0.0.zip",
+        "fileName": "oxygen-not-included-ar-v1.0.0.zip",
+        "archiveType": "zip",
+        "size": 4277404,
+        "checksum": "sha256:6521749974498e9ee7f13925e1ed13d75b6135ede21e7f44ee49529d19e7e3a2"
+      },
+      "installer": {
+        "kind": "bat",
+        "entryFile": "Run_Simsima.vbs",
+        "requiresAdmin": false,
+        "launchMode": "extract_then_run",
+        "arguments": [],
+        "workingDirectory": "",
+        "supportsManualPath": false,
+        "manualPathRequired": false,
+        "cleanupOnSuccess": false,
+        "selfManagedUi": true
+      },
+      "instructions": {
+        "shortText": "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مسار OxygenNotIncluded أو mods/local إذا احتجت لذلك.",
+        "detailedText": "بعد فتح واجهة التثبيت، استخدم التثبيت التلقائي لوضع مود التعريب داخل Documents/Klei/OxygenNotIncluded/mods/local. إذا كان مجلد بيانات اللعبة في مكان مختلف، اختر المسار يدويا وحدد مجلد OxygenNotIncluded أو mods/local. بعد التثبيت افتح اللعبة من قائمة Mods وفعل Arabic Translation. يمكن استخدام زر إلغاء التثبيت من نفس الواجهة لإزالة التعريب واسترجاع الحالة السابقة عند توفر نسخة احتياطية.",
+        "screenshots": []
+      }
+    },
+    {
+      "id": "brotato-ar",
+      "slug": "brotato-ar",
+      "gameTitle": "Brotato",
+      "alternateTitles": [
+        "بروتاتو",
+        "Brotato Arabic Translation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "translationVersion": "0.1.0",
+      "gameVersion": "unknown",
+      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/brotato-ar/cover.jpg",
+      "summary": "تعريب عربي للعبة Brotato مع دعم اللعبة الأساسية وإضافة Abyssal Terrors عند توفرها.",
+      "description": "تفتح الحزمة واجهة تثبيت خاصة لتثبيت تعريب Brotato تلقائيا، اختيار مسار اللعبة يدويا، أو استرجاع الملفات الأصلية. بعد التثبيت، إذا لم تظهر العربية مباشرة فاختر Turkish من إعدادات اللغة داخل اللعبة.",
+      "releaseDate": "2026-07-03",
+      "fileSize": 457182,
+      "status": "published",
+      "package": {
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/brotato-ar-v0.1.0/brotato-ar-v0.1.0.zip",
+        "fileName": "brotato-ar-v0.1.0.zip",
+        "archiveType": "zip",
+        "size": 457182,
+        "checksum": "sha256:d9db6e8cb15727ffd15a58bcf1e49938c4fed9ba99db5dce6724d51e7c4adb5f"
+      },
+      "installer": {
+        "kind": "bat",
+        "entryFile": "Run_Simsima.vbs",
+        "requiresAdmin": false,
+        "launchMode": "extract_then_run",
+        "arguments": [],
+        "workingDirectory": "",
+        "supportsManualPath": false,
+        "manualPathRequired": false,
+        "cleanupOnSuccess": false,
+        "selfManagedUi": true
+      },
+      "instructions": {
+        "shortText": "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مسار مجلد Brotato إذا لم يتم العثور عليه.",
+        "detailedText": "بعد فتح واجهة التثبيت، استخدم التثبيت التلقائي للبحث عن Brotato، أو اختر المسار يدويا وحدد المجلد الذي يحتوي Brotato.pck. إذا ظهر خطأ صلاحيات، شغل Simsima كمسؤول ثم حاول مرة أخرى. يمكن استخدام زر الاسترجاع من نفس الواجهة لإعادة الملفات الأصلية.",
+        "screenshots": []
+      }
+    },
+    {
+      "id": "factorio-ar",
+      "slug": "factorio-ar",
+      "gameTitle": "Factorio",
+      "alternateTitles": [
+        "فاكتوريو",
+        "Factorio Arabic Translation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "translationVersion": "0.1.0",
+      "gameVersion": "2.0+",
+      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/factorio-ar/cover.png",
+      "summary": "تعريب عربي للعبة Factorio مع ملفات اللعبة الأساسية ومحتوى Space Age وQuality وElevated Rails حسب الملفات المرفقة.",
+      "description": "تفتح الحزمة واجهة تثبيت خاصة لتثبيت تعريب Factorio تلقائيا، تحديد مسار اللعبة يدويا، أو استرجاع الملفات الأصلية. تستهدف Factorio 2.0 وما بعدها بحسب ملفات الترجمة المرفقة، وتشمل اللعبة الأساسية ومحتوى Space Age وQuality وElevated Rails عند توفرها.",
+      "releaseDate": "2026-07-03",
+      "fileSize": 2693778,
+      "status": "published",
+      "package": {
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/factorio-ar-v0.1.0/factorio-ar-v0.1.0.zip",
+        "fileName": "factorio-ar-v0.1.0.zip",
+        "archiveType": "zip",
+        "size": 2693778,
+        "checksum": "sha256:97e44a5683cb6841b2ab9d69c8cfd97afa739cfa389037bb8daf5fe9897e59b5"
+      },
+      "installer": {
+        "kind": "bat",
+        "entryFile": "Run_Simsima.vbs",
+        "requiresAdmin": false,
+        "launchMode": "extract_then_run",
+        "arguments": [],
+        "workingDirectory": "",
+        "supportsManualPath": false,
+        "manualPathRequired": false,
+        "cleanupOnSuccess": false,
+        "selfManagedUi": true
+      },
+      "instructions": {
+        "shortText": "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مسار مجلد Factorio إذا لم يتم العثور عليه.",
+        "detailedText": "بعد فتح واجهة التثبيت، استخدم التثبيت التلقائي للبحث عن Factorio، أو اختر المسار يدويا وحدد مجلد Factorio أو مجلد data. إذا ظهر خطأ صلاحيات، شغل Simsima كمسؤول ثم حاول مرة أخرى. يمكن استخدام زر إلغاء التثبيت من نفس الواجهة لاسترجاع الملفات الأصلية.",
+        "screenshots": []
+      }
+    },
+    {
+      "id": "stellaris-ar",
+      "slug": "stellaris-ar",
+      "gameTitle": "Stellaris",
+      "alternateTitles": [
+        "Stellaris Arabic Translation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "translationVersion": "0.1.2",
+      "gameVersion": "4.4.3",
+      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/stellaris-ar/cover.jpg",
+      "summary": "بطاقة اختبار للنظام الجديد: Simsima يفتح واجهة التثبيت الداخلية ذات الأزرار الثلاثة بدل اختيار المسار من البطاقة.",
+      "description": "ترجمة عربية للعبة Stellaris متوافقة مع إصدار 4.4.3. هذه النسخة تختبر واجهة الحزمة الداخلية التي توفر التثبيت التلقائي، تحديد المسار يدويا، واسترجاع ملفات اللعبة الأصلية.",
+      "releaseDate": "2026-07-03",
+      "fileSize": 5432962,
+      "status": "published",
+      "package": {
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/stellaris-ar-v0.1.2/stellaris-ar-v0.1.2.zip",
+        "fileName": "stellaris-ar-v0.1.2.zip",
+        "archiveType": "zip",
+        "size": 5432962,
+        "checksum": "sha256:d9cd2f88aa9c967a6a1e5565f3f3fe0dfee2446da2a996c23d4893b856be1957"
+      },
+      "installer": {
+        "kind": "bat",
+        "entryFile": "Run_Simsima.vbs",
+        "requiresAdmin": false,
+        "launchMode": "extract_then_run",
+        "arguments": [],
+        "workingDirectory": "",
+        "supportsManualPath": false,
+        "manualPathRequired": false,
+        "cleanupOnSuccess": false,
+        "selfManagedUi": true
+      },
+      "instructions": {
+        "shortText": "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو المسار اليدوي أو الاسترجاع من نافذة الحزمة.",
+        "detailedText": "بعد تحميل الحزمة يفتح Simsima واجهة التثبيت الداخلية، ولا يطلب مسار اللعبة من بطاقة Simsima. اختر التثبيت التلقائي للبحث عن Stellaris، أو المسار اليدوي إذا لم يتم العثور عليها، أو الاسترجاع لإعادة الملفات الأصلية.",
+        "screenshots": []
+      }
+    }
+  ]
 }

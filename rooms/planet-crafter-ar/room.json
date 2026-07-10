@@ -40,5 +40,12 @@
     "shortText": "افتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مجلد اللعبة يدويا.",
     "detailedText": "تأكد أن مجلد اللعبة يحتوي على Planet Crafter.exe وPlanet Crafter_Data. بعد اكتمال التثبيت افتح اللعبة واختر Turkish من إعدادات اللغة. استخدم إلغاء التثبيت داخل واجهة الحزمة لاسترجاع الملف الأصلي عند الحاجة.",
     "screenshots": []
+  },
+  "publishing": {
+    "status": "published",
+    "channels": [
+      "app",
+      "site"
+    ]
   }
 }
