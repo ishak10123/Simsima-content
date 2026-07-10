@@ -1,14 +1,65 @@
 {
   "catalogVersion": "1.0",
-  "lastUpdated": "2026-07-10T12:30:15.260221+00:00",
+  "lastUpdated": "2026-07-10T18:33:16.4198598+00:00",
   "games": [
+    {
+      "id": "stellaris-ar",
+      "slug": "stellaris-ar",
+      "gameTitle": "Stellaris",
+      "alternateTitles": [
+        "\u0633\u062A\u064A\u0644\u0627\u0631\u064A\u0633",
+        "Stellaris Arabic Translation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "translationVersion": "0.1.3",
+      "gameVersion": "4.4.3",
+      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/stellaris-ar/cover.jpg",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0644\u0644\u0639\u0628\u0629 Stellaris \u0645\u0639 \u0648\u0627\u062C\u0647\u0629 \u062A\u062B\u0628\u064A\u062A \u062F\u0627\u062E\u0644\u064A\u0629 \u062A\u062F\u0639\u0645 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0648\u0627\u0644\u0627\u0633\u062A\u0631\u062C\u0627\u0639.",
+      "description": "\u062D\u0632\u0645\u0629 \u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A\u0629 \u0644\u0644\u0639\u0628\u0629 Stellaris \u0645\u062A\u0648\u0627\u0641\u0642\u0629 \u0645\u0639 \u0625\u0635\u062F\u0627\u0631 4.4.3. \u062A\u0641\u062A\u062D \u0627\u0644\u062D\u0632\u0645\u0629 \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062F\u0627\u062E\u0644\u064A\u0629 \u0627\u0644\u062E\u0627\u0635\u0629 \u0628\u0647\u0627 \u0644\u062A\u0646\u0641\u064A\u0630 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A\u060C \u0627\u062E\u062A\u064A\u0627\u0631 \u0645\u0633\u0627\u0631 \u0627\u0644\u0644\u0639\u0628\u0629 \u064A\u062F\u0648\u064A\u064B\u0627 \u0639\u0646\u062F \u0627\u0644\u062D\u0627\u062C\u0629\u060C \u0648\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0627\u0644\u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0623\u0635\u0644\u064A\u0629 \u0645\u0646 \u062F\u0627\u062E\u0644 \u0646\u0641\u0633 \u0627\u0644\u0648\u0627\u062C\u0647\u0629.",
+      "releaseDate": "2026-07-10",
+      "fileSize": 7251089,
+      "status": "published",
+      "package": {
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/stellaris-ar-v0.1.3/stellaris-ar-v0.1.3.zip",
+        "fileName": "stellaris-ar-v0.1.3.zip",
+        "archiveType": "zip",
+        "size": 7251089,
+        "checksum": "sha256:099d652bc95809e830fdc22943690bf716319fe91e9ff9ddb6124ea051a847b7"
+      },
+      "installer": {
+        "kind": "exe",
+        "entryFile": "Run_Simsima.vbs",
+        "requiresAdmin": false,
+        "launchMode": "extract_then_run",
+        "arguments": [],
+        "workingDirectory": "",
+        "supportsManualPath": false,
+        "manualPathRequired": false,
+        "cleanupOnSuccess": false,
+        "selfManagedUi": true
+      },
+      "instructions": {
+        "shortText": "\u0646\u0632\u0651\u0644 \u0627\u0644\u062D\u0632\u0645\u0629 \u0645\u0646 Simsima \u062B\u0645 \u0627\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062F\u0627\u062E\u0644\u064A\u0629.",
+        "detailedText": "\u0628\u0639\u062F \u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062D\u0632\u0645\u0629 \u0627\u062E\u062A\u0631 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A. \u0625\u0630\u0627 \u0644\u0645 \u064A\u062A\u0645 \u0627\u0644\u0639\u062B\u0648\u0631 \u0639\u0644\u0649 \u0627\u0644\u0644\u0639\u0628\u0629 \u062A\u0644\u0642\u0627\u0626\u064A\u064B\u0627 \u0641\u0627\u0633\u062A\u062E\u062F\u0645 \u0627\u062E\u062A\u064A\u0627\u0631 \u0627\u0644\u0645\u0633\u0627\u0631 \u0627\u0644\u064A\u062F\u0648\u064A \u0645\u0646 \u062F\u0627\u062E\u0644 \u0627\u0644\u0648\u0627\u062C\u0647\u0629\u060C \u0648\u064A\u0645\u0643\u0646\u0643 \u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u062E\u064A\u0627\u0631 \u0627\u0644\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0645\u0646 \u0646\u0641\u0633 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0644\u0625\u0639\u0627\u062F\u0629 \u0627\u0644\u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0623\u0635\u0644\u064A\u0629 \u0639\u0646\u062F \u0627\u0644\u062D\u0627\u062C\u0629.",
+        "screenshots": []
+      },
+      "publishing": {
+        "status": "published",
+        "channels": [
+          "app",
+          "site"
+        ]
+      }
+    },
     {
       "id": "planet-crafter-ar",
       "slug": "planet-crafter-ar",
       "gameTitle": "The Planet Crafter",
       "alternateTitles": [
-        "تعريب The Planet Crafter",
-        "بلانت كرافتر"
+        "\u062A\u0639\u0631\u064A\u0628 The Planet Crafter",
+        "\u0628\u0644\u0627\u0646\u062A \u0643\u0631\u0627\u0641\u062A\u0631"
       ],
       "platforms": [
         "windows"
@@ -16,8 +67,8 @@
       "translationVersion": "1.0.0",
       "gameVersion": "unknown",
       "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/planet-crafter-ar/cover.png",
-      "summary": "تعريب عربي للعبة The Planet Crafter مع واجهة تثبيت واسترجاع من داخل الحزمة.",
-      "description": "تضيف هذه الحزمة ترجمة عربية إلى The Planet Crafter. بعد نجاح التثبيت افتح اللعبة واختر Turkish من إعدادات اللغة لاستخدام النص العربي. إذا لم يتم العثور على اللعبة تلقائيا، استخدم اختيار المسار اليدوي داخل واجهة الحزمة.",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0644\u0644\u0639\u0628\u0629 The Planet Crafter \u0645\u0639 \u0648\u0627\u062C\u0647\u0629 \u062A\u062B\u0628\u064A\u062A \u0648\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0645\u0646 \u062F\u0627\u062E\u0644 \u0627\u0644\u062D\u0632\u0645\u0629.",
+      "description": "\u062A\u0636\u064A\u0641 \u0647\u0630\u0647 \u0627\u0644\u062D\u0632\u0645\u0629 \u062A\u0631\u062C\u0645\u0629 \u0639\u0631\u0628\u064A\u0629 \u0625\u0644\u0649 The Planet Crafter. \u0628\u0639\u062F \u0646\u062C\u0627\u062D \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0641\u062A\u062D \u0627\u0644\u0644\u0639\u0628\u0629 \u0648\u0627\u062E\u062A\u0631 Turkish \u0645\u0646 \u0625\u0639\u062F\u0627\u062F\u0627\u062A \u0627\u0644\u0644\u063A\u0629 \u0644\u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0627\u0644\u0646\u0635 \u0627\u0644\u0639\u0631\u0628\u064A. \u0625\u0630\u0627 \u0644\u0645 \u064A\u062A\u0645 \u0627\u0644\u0639\u062B\u0648\u0631 \u0639\u0644\u0649 \u0627\u0644\u0644\u0639\u0628\u0629 \u062A\u0644\u0642\u0627\u0626\u064A\u0627\u060C \u0627\u0633\u062A\u062E\u062F\u0645 \u0627\u062E\u062A\u064A\u0627\u0631 \u0627\u0644\u0645\u0633\u0627\u0631 \u0627\u0644\u064A\u062F\u0648\u064A \u062F\u0627\u062E\u0644 \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062D\u0632\u0645\u0629.",
       "releaseDate": "2026-07-09",
       "fileSize": 2776239,
       "status": "published",
@@ -41,8 +92,8 @@
         "selfManagedUi": true
       },
       "instructions": {
-        "shortText": "افتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مجلد اللعبة يدويا.",
-        "detailedText": "تأكد أن مجلد اللعبة يحتوي على Planet Crafter.exe وPlanet Crafter_Data. بعد اكتمال التثبيت افتح اللعبة واختر Turkish من إعدادات اللغة. استخدم إلغاء التثبيت داخل واجهة الحزمة لاسترجاع الملف الأصلي عند الحاجة.",
+        "shortText": "\u0627\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u062B\u0645 \u0627\u062E\u062A\u0631 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u062D\u062F\u062F \u0645\u062C\u0644\u062F \u0627\u0644\u0644\u0639\u0628\u0629 \u064A\u062F\u0648\u064A\u0627.",
+        "detailedText": "\u062A\u0623\u0643\u062F \u0623\u0646 \u0645\u062C\u0644\u062F \u0627\u0644\u0644\u0639\u0628\u0629 \u064A\u062D\u062A\u0648\u064A \u0639\u0644\u0649 Planet Crafter.exe \u0648Planet Crafter_Data. \u0628\u0639\u062F \u0627\u0643\u062A\u0645\u0627\u0644 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0641\u062A\u062D \u0627\u0644\u0644\u0639\u0628\u0629 \u0648\u0627\u062E\u062A\u0631 Turkish \u0645\u0646 \u0625\u0639\u062F\u0627\u062F\u0627\u062A \u0627\u0644\u0644\u063A\u0629. \u0627\u0633\u062A\u062E\u062F\u0645 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u062F\u0627\u062E\u0644 \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062D\u0632\u0645\u0629 \u0644\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0627\u0644\u0645\u0644\u0641 \u0627\u0644\u0623\u0635\u0644\u064A \u0639\u0646\u062F \u0627\u0644\u062D\u0627\u062C\u0629.",
         "screenshots": []
       },
       "publishing": {
@@ -59,7 +110,7 @@
       "gameTitle": "Dyson Sphere Program",
       "alternateTitles": [
         "Dyson Sphere Program Arabic Translation",
-        "تعريب Dyson Sphere Program"
+        "\u062A\u0639\u0631\u064A\u0628 Dyson Sphere Program"
       ],
       "platforms": [
         "windows"
@@ -67,8 +118,8 @@
       "translationVersion": "1.0.1",
       "gameVersion": "unknown",
       "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/dyson-sphere-program-ar/cover.jpg",
-      "summary": "تعريب عربي للعبة Dyson Sphere Program يضيف ملفات اللغة العربية إلى مجلد Locale الخاص باللعبة.",
-      "description": "حزمة تعريب عربية للعبة Dyson Sphere Program. تفتح الحزمة واجهة تثبيت خاصة يمكن من خلالها التثبيت التلقائي، اختيار مسار اللعبة أو مجلد Locale يدويا، أو إلغاء التثبيت واسترجاع الملفات الأصلية عند توفر نسخة احتياطية.",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0644\u0644\u0639\u0628\u0629 Dyson Sphere Program \u064A\u0636\u064A\u0641 \u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0625\u0644\u0649 \u0645\u062C\u0644\u062F Locale \u0627\u0644\u062E\u0627\u0635 \u0628\u0627\u0644\u0644\u0639\u0628\u0629.",
+      "description": "\u062D\u0632\u0645\u0629 \u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A\u0629 \u0644\u0644\u0639\u0628\u0629 Dyson Sphere Program. \u062A\u0641\u062A\u062D \u0627\u0644\u062D\u0632\u0645\u0629 \u0648\u0627\u062C\u0647\u0629 \u062A\u062B\u0628\u064A\u062A \u062E\u0627\u0635\u0629 \u064A\u0645\u0643\u0646 \u0645\u0646 \u062E\u0644\u0627\u0644\u0647\u0627 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A\u060C \u0627\u062E\u062A\u064A\u0627\u0631 \u0645\u0633\u0627\u0631 \u0627\u0644\u0644\u0639\u0628\u0629 \u0623\u0648 \u0645\u062C\u0644\u062F Locale \u064A\u062F\u0648\u064A\u0627\u060C \u0623\u0648 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0648\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0627\u0644\u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0623\u0635\u0644\u064A\u0629 \u0639\u0646\u062F \u062A\u0648\u0641\u0631 \u0646\u0633\u062E\u0629 \u0627\u062D\u062A\u064A\u0627\u0637\u064A\u0629.",
       "releaseDate": "2026-07-08",
       "fileSize": 1317316,
       "status": "published",
@@ -92,8 +143,8 @@
         "selfManagedUi": true
       },
       "instructions": {
-        "shortText": "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مسار Dyson Sphere Program أو مجلد Locale إذا لم يتم العثور عليه.",
-        "detailedText": "بعد فتح واجهة التثبيت، استخدم التثبيت التلقائي للبحث عن Dyson Sphere Program وتثبيت التعريب. إذا لم يتم العثور على اللعبة، اختر المسار يدويا وحدد مجلد Dyson Sphere Program أو مجلد Locale داخله. يمكن استخدام زر إلغاء التثبيت من نفس الواجهة لاسترجاع ملفات اللعبة الأصلية عند توفر النسخة الاحتياطية.",
+        "shortText": "\u0627\u0636\u063A\u0637 \u062A\u062D\u0645\u064A\u0644 \u0648\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u062B\u0645 \u0627\u062E\u062A\u0631 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u062D\u062F\u062F \u0645\u0633\u0627\u0631 Dyson Sphere Program \u0623\u0648 \u0645\u062C\u0644\u062F Locale \u0625\u0630\u0627 \u0644\u0645 \u064A\u062A\u0645 \u0627\u0644\u0639\u062B\u0648\u0631 \u0639\u0644\u064A\u0647.",
+        "detailedText": "\u0628\u0639\u062F \u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u0627\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0644\u0644\u0628\u062D\u062B \u0639\u0646 Dyson Sphere Program \u0648\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0639\u0631\u064A\u0628. \u0625\u0630\u0627 \u0644\u0645 \u064A\u062A\u0645 \u0627\u0644\u0639\u062B\u0648\u0631 \u0639\u0644\u0649 \u0627\u0644\u0644\u0639\u0628\u0629\u060C \u0627\u062E\u062A\u0631 \u0627\u0644\u0645\u0633\u0627\u0631 \u064A\u062F\u0648\u064A\u0627 \u0648\u062D\u062F\u062F \u0645\u062C\u0644\u062F Dyson Sphere Program \u0623\u0648 \u0645\u062C\u0644\u062F Locale \u062F\u0627\u062E\u0644\u0647. \u064A\u0645\u0643\u0646 \u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0632\u0631 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0645\u0646 \u0646\u0641\u0633 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0644\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0623\u0635\u0644\u064A\u0629 \u0639\u0646\u062F \u062A\u0648\u0641\u0631 \u0627\u0644\u0646\u0633\u062E\u0629 \u0627\u0644\u0627\u062D\u062A\u064A\u0627\u0637\u064A\u0629.",
         "screenshots": []
       }
     },
@@ -103,7 +154,7 @@
       "gameTitle": "Oxygen Not Included",
       "alternateTitles": [
         "Oxygen Not Included Arabic Translation",
-        "تعريب Oxygen Not Included"
+        "\u062A\u0639\u0631\u064A\u0628 Oxygen Not Included"
       ],
       "platforms": [
         "windows"
@@ -111,8 +162,8 @@
       "translationVersion": "1.0.0",
       "gameVersion": "unknown",
       "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/oxygen-not-included-ar/cover.png",
-      "summary": "تعريب عربي للعبة Oxygen Not Included يضيف مود الترجمة داخل مجلد مودات اللعبة المحلي.",
-      "description": "حزمة تعريب عربية للعبة Oxygen Not Included. تفتح الحزمة واجهة تثبيت خاصة يمكن من خلالها التثبيت التلقائي، اختيار مسار مجلد بيانات اللعبة أو mods/local يدويا، أو إزالة التعريب واسترجاع الحالة السابقة عند توفر نسخة احتياطية.",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0644\u0644\u0639\u0628\u0629 Oxygen Not Included \u064A\u0636\u064A\u0641 \u0645\u0648\u062F \u0627\u0644\u062A\u0631\u062C\u0645\u0629 \u062F\u0627\u062E\u0644 \u0645\u062C\u0644\u062F \u0645\u0648\u062F\u0627\u062A \u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0645\u062D\u0644\u064A.",
+      "description": "\u062D\u0632\u0645\u0629 \u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A\u0629 \u0644\u0644\u0639\u0628\u0629 Oxygen Not Included. \u062A\u0641\u062A\u062D \u0627\u0644\u062D\u0632\u0645\u0629 \u0648\u0627\u062C\u0647\u0629 \u062A\u062B\u0628\u064A\u062A \u062E\u0627\u0635\u0629 \u064A\u0645\u0643\u0646 \u0645\u0646 \u062E\u0644\u0627\u0644\u0647\u0627 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A\u060C \u0627\u062E\u062A\u064A\u0627\u0631 \u0645\u0633\u0627\u0631 \u0645\u062C\u0644\u062F \u0628\u064A\u0627\u0646\u0627\u062A \u0627\u0644\u0644\u0639\u0628\u0629 \u0623\u0648 mods/local \u064A\u062F\u0648\u064A\u0627\u060C \u0623\u0648 \u0625\u0632\u0627\u0644\u0629 \u0627\u0644\u062A\u0639\u0631\u064A\u0628 \u0648\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0627\u0644\u062D\u0627\u0644\u0629 \u0627\u0644\u0633\u0627\u0628\u0642\u0629 \u0639\u0646\u062F \u062A\u0648\u0641\u0631 \u0646\u0633\u062E\u0629 \u0627\u062D\u062A\u064A\u0627\u0637\u064A\u0629.",
       "releaseDate": "2026-07-08",
       "fileSize": 4277404,
       "status": "published",
@@ -136,8 +187,8 @@
         "selfManagedUi": true
       },
       "instructions": {
-        "shortText": "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مسار OxygenNotIncluded أو mods/local إذا احتجت لذلك.",
-        "detailedText": "بعد فتح واجهة التثبيت، استخدم التثبيت التلقائي لوضع مود التعريب داخل Documents/Klei/OxygenNotIncluded/mods/local. إذا كان مجلد بيانات اللعبة في مكان مختلف، اختر المسار يدويا وحدد مجلد OxygenNotIncluded أو mods/local. بعد التثبيت افتح اللعبة من قائمة Mods وفعل Arabic Translation. يمكن استخدام زر إلغاء التثبيت من نفس الواجهة لإزالة التعريب واسترجاع الحالة السابقة عند توفر نسخة احتياطية.",
+        "shortText": "\u0627\u0636\u063A\u0637 \u062A\u062D\u0645\u064A\u0644 \u0648\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u062B\u0645 \u0627\u062E\u062A\u0631 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u062D\u062F\u062F \u0645\u0633\u0627\u0631 OxygenNotIncluded \u0623\u0648 mods/local \u0625\u0630\u0627 \u0627\u062D\u062A\u062C\u062A \u0644\u0630\u0644\u0643.",
+        "detailedText": "\u0628\u0639\u062F \u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u0627\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0644\u0648\u0636\u0639 \u0645\u0648\u062F \u0627\u0644\u062A\u0639\u0631\u064A\u0628 \u062F\u0627\u062E\u0644 Documents/Klei/OxygenNotIncluded/mods/local. \u0625\u0630\u0627 \u0643\u0627\u0646 \u0645\u062C\u0644\u062F \u0628\u064A\u0627\u0646\u0627\u062A \u0627\u0644\u0644\u0639\u0628\u0629 \u0641\u064A \u0645\u0643\u0627\u0646 \u0645\u062E\u062A\u0644\u0641\u060C \u0627\u062E\u062A\u0631 \u0627\u0644\u0645\u0633\u0627\u0631 \u064A\u062F\u0648\u064A\u0627 \u0648\u062D\u062F\u062F \u0645\u062C\u0644\u062F OxygenNotIncluded \u0623\u0648 mods/local. \u0628\u0639\u062F \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0641\u062A\u062D \u0627\u0644\u0644\u0639\u0628\u0629 \u0645\u0646 \u0642\u0627\u0626\u0645\u0629 Mods \u0648\u0641\u0639\u0644 Arabic Translation. \u064A\u0645\u0643\u0646 \u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0632\u0631 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0645\u0646 \u0646\u0641\u0633 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0644\u0625\u0632\u0627\u0644\u0629 \u0627\u0644\u062A\u0639\u0631\u064A\u0628 \u0648\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0627\u0644\u062D\u0627\u0644\u0629 \u0627\u0644\u0633\u0627\u0628\u0642\u0629 \u0639\u0646\u062F \u062A\u0648\u0641\u0631 \u0646\u0633\u062E\u0629 \u0627\u062D\u062A\u064A\u0627\u0637\u064A\u0629.",
         "screenshots": []
       }
     },
@@ -146,7 +197,7 @@
       "slug": "brotato-ar",
       "gameTitle": "Brotato",
       "alternateTitles": [
-        "بروتاتو",
+        "\u0628\u0631\u0648\u062A\u0627\u062A\u0648",
         "Brotato Arabic Translation"
       ],
       "platforms": [
@@ -155,8 +206,8 @@
       "translationVersion": "0.1.0",
       "gameVersion": "unknown",
       "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/brotato-ar/cover.jpg",
-      "summary": "تعريب عربي للعبة Brotato مع دعم اللعبة الأساسية وإضافة Abyssal Terrors عند توفرها.",
-      "description": "تفتح الحزمة واجهة تثبيت خاصة لتثبيت تعريب Brotato تلقائيا، اختيار مسار اللعبة يدويا، أو استرجاع الملفات الأصلية. بعد التثبيت، إذا لم تظهر العربية مباشرة فاختر Turkish من إعدادات اللغة داخل اللعبة.",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0644\u0644\u0639\u0628\u0629 Brotato \u0645\u0639 \u062F\u0639\u0645 \u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064A\u0629 \u0648\u0625\u0636\u0627\u0641\u0629 Abyssal Terrors \u0639\u0646\u062F \u062A\u0648\u0641\u0631\u0647\u0627.",
+      "description": "\u062A\u0641\u062A\u062D \u0627\u0644\u062D\u0632\u0645\u0629 \u0648\u0627\u062C\u0647\u0629 \u062A\u062B\u0628\u064A\u062A \u062E\u0627\u0635\u0629 \u0644\u062A\u062B\u0628\u064A\u062A \u062A\u0639\u0631\u064A\u0628 Brotato \u062A\u0644\u0642\u0627\u0626\u064A\u0627\u060C \u0627\u062E\u062A\u064A\u0627\u0631 \u0645\u0633\u0627\u0631 \u0627\u0644\u0644\u0639\u0628\u0629 \u064A\u062F\u0648\u064A\u0627\u060C \u0623\u0648 \u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0627\u0644\u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0623\u0635\u0644\u064A\u0629. \u0628\u0639\u062F \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u0625\u0630\u0627 \u0644\u0645 \u062A\u0638\u0647\u0631 \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0645\u0628\u0627\u0634\u0631\u0629 \u0641\u0627\u062E\u062A\u0631 Turkish \u0645\u0646 \u0625\u0639\u062F\u0627\u062F\u0627\u062A \u0627\u0644\u0644\u063A\u0629 \u062F\u0627\u062E\u0644 \u0627\u0644\u0644\u0639\u0628\u0629.",
       "releaseDate": "2026-07-03",
       "fileSize": 457182,
       "status": "published",
@@ -180,8 +231,8 @@
         "selfManagedUi": true
       },
       "instructions": {
-        "shortText": "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مسار مجلد Brotato إذا لم يتم العثور عليه.",
-        "detailedText": "بعد فتح واجهة التثبيت، استخدم التثبيت التلقائي للبحث عن Brotato، أو اختر المسار يدويا وحدد المجلد الذي يحتوي Brotato.pck. إذا ظهر خطأ صلاحيات، شغل Simsima كمسؤول ثم حاول مرة أخرى. يمكن استخدام زر الاسترجاع من نفس الواجهة لإعادة الملفات الأصلية.",
+        "shortText": "\u0627\u0636\u063A\u0637 \u062A\u062D\u0645\u064A\u0644 \u0648\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u062B\u0645 \u0627\u062E\u062A\u0631 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u062D\u062F\u062F \u0645\u0633\u0627\u0631 \u0645\u062C\u0644\u062F Brotato \u0625\u0630\u0627 \u0644\u0645 \u064A\u062A\u0645 \u0627\u0644\u0639\u062B\u0648\u0631 \u0639\u0644\u064A\u0647.",
+        "detailedText": "\u0628\u0639\u062F \u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u0627\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0644\u0644\u0628\u062D\u062B \u0639\u0646 Brotato\u060C \u0623\u0648 \u0627\u062E\u062A\u0631 \u0627\u0644\u0645\u0633\u0627\u0631 \u064A\u062F\u0648\u064A\u0627 \u0648\u062D\u062F\u062F \u0627\u0644\u0645\u062C\u0644\u062F \u0627\u0644\u0630\u064A \u064A\u062D\u062A\u0648\u064A Brotato.pck. \u0625\u0630\u0627 \u0638\u0647\u0631 \u062E\u0637\u0623 \u0635\u0644\u0627\u062D\u064A\u0627\u062A\u060C \u0634\u063A\u0644 Simsima \u0643\u0645\u0633\u0624\u0648\u0644 \u062B\u0645 \u062D\u0627\u0648\u0644 \u0645\u0631\u0629 \u0623\u062E\u0631\u0649. \u064A\u0645\u0643\u0646 \u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0632\u0631 \u0627\u0644\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0645\u0646 \u0646\u0641\u0633 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0644\u0625\u0639\u0627\u062F\u0629 \u0627\u0644\u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0623\u0635\u0644\u064A\u0629.",
         "screenshots": []
       }
     },
@@ -190,17 +241,17 @@
       "slug": "factorio-ar",
       "gameTitle": "Factorio",
       "alternateTitles": [
-        "فاكتوريو",
+        "\u0641\u0627\u0643\u062A\u0648\u0631\u064A\u0648",
         "Factorio Arabic Translation"
       ],
       "platforms": [
         "windows"
       ],
       "translationVersion": "0.1.0",
-      "gameVersion": "2.0+",
+      "gameVersion": "2.0\u002B",
       "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/factorio-ar/cover.png",
-      "summary": "تعريب عربي للعبة Factorio مع ملفات اللعبة الأساسية ومحتوى Space Age وQuality وElevated Rails حسب الملفات المرفقة.",
-      "description": "تفتح الحزمة واجهة تثبيت خاصة لتثبيت تعريب Factorio تلقائيا، تحديد مسار اللعبة يدويا، أو استرجاع الملفات الأصلية. تستهدف Factorio 2.0 وما بعدها بحسب ملفات الترجمة المرفقة، وتشمل اللعبة الأساسية ومحتوى Space Age وQuality وElevated Rails عند توفرها.",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0644\u0644\u0639\u0628\u0629 Factorio \u0645\u0639 \u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064A\u0629 \u0648\u0645\u062D\u062A\u0648\u0649 Space Age \u0648Quality \u0648Elevated Rails \u062D\u0633\u0628 \u0627\u0644\u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0645\u0631\u0641\u0642\u0629.",
+      "description": "\u062A\u0641\u062A\u062D \u0627\u0644\u062D\u0632\u0645\u0629 \u0648\u0627\u062C\u0647\u0629 \u062A\u062B\u0628\u064A\u062A \u062E\u0627\u0635\u0629 \u0644\u062A\u062B\u0628\u064A\u062A \u062A\u0639\u0631\u064A\u0628 Factorio \u062A\u0644\u0642\u0627\u0626\u064A\u0627\u060C \u062A\u062D\u062F\u064A\u062F \u0645\u0633\u0627\u0631 \u0627\u0644\u0644\u0639\u0628\u0629 \u064A\u062F\u0648\u064A\u0627\u060C \u0623\u0648 \u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0627\u0644\u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0623\u0635\u0644\u064A\u0629. \u062A\u0633\u062A\u0647\u062F\u0641 Factorio 2.0 \u0648\u0645\u0627 \u0628\u0639\u062F\u0647\u0627 \u0628\u062D\u0633\u0628 \u0645\u0644\u0641\u0627\u062A \u0627\u0644\u062A\u0631\u062C\u0645\u0629 \u0627\u0644\u0645\u0631\u0641\u0642\u0629\u060C \u0648\u062A\u0634\u0645\u0644 \u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064A\u0629 \u0648\u0645\u062D\u062A\u0648\u0649 Space Age \u0648Quality \u0648Elevated Rails \u0639\u0646\u062F \u062A\u0648\u0641\u0631\u0647\u0627.",
       "releaseDate": "2026-07-03",
       "fileSize": 2693778,
       "status": "published",
@@ -224,51 +275,8 @@
         "selfManagedUi": true
       },
       "instructions": {
-        "shortText": "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مسار مجلد Factorio إذا لم يتم العثور عليه.",
-        "detailedText": "بعد فتح واجهة التثبيت، استخدم التثبيت التلقائي للبحث عن Factorio، أو اختر المسار يدويا وحدد مجلد Factorio أو مجلد data. إذا ظهر خطأ صلاحيات، شغل Simsima كمسؤول ثم حاول مرة أخرى. يمكن استخدام زر إلغاء التثبيت من نفس الواجهة لاسترجاع الملفات الأصلية.",
-        "screenshots": []
-      }
-    },
-    {
-      "id": "stellaris-ar",
-      "slug": "stellaris-ar",
-      "gameTitle": "Stellaris",
-      "alternateTitles": [
-        "Stellaris Arabic Translation"
-      ],
-      "platforms": [
-        "windows"
-      ],
-      "translationVersion": "0.1.2",
-      "gameVersion": "4.4.3",
-      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/stellaris-ar/cover.jpg",
-      "summary": "بطاقة اختبار للنظام الجديد: Simsima يفتح واجهة التثبيت الداخلية ذات الأزرار الثلاثة بدل اختيار المسار من البطاقة.",
-      "description": "ترجمة عربية للعبة Stellaris متوافقة مع إصدار 4.4.3. هذه النسخة تختبر واجهة الحزمة الداخلية التي توفر التثبيت التلقائي، تحديد المسار يدويا، واسترجاع ملفات اللعبة الأصلية.",
-      "releaseDate": "2026-07-03",
-      "fileSize": 5432962,
-      "status": "published",
-      "package": {
-        "url": "https://github.com/ishak10123/Simsima-content/releases/download/stellaris-ar-v0.1.2/stellaris-ar-v0.1.2.zip",
-        "fileName": "stellaris-ar-v0.1.2.zip",
-        "archiveType": "zip",
-        "size": 5432962,
-        "checksum": "sha256:d9cd2f88aa9c967a6a1e5565f3f3fe0dfee2446da2a996c23d4893b856be1957"
-      },
-      "installer": {
-        "kind": "bat",
-        "entryFile": "Run_Simsima.vbs",
-        "requiresAdmin": false,
-        "launchMode": "extract_then_run",
-        "arguments": [],
-        "workingDirectory": "",
-        "supportsManualPath": false,
-        "manualPathRequired": false,
-        "cleanupOnSuccess": false,
-        "selfManagedUi": true
-      },
-      "instructions": {
-        "shortText": "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو المسار اليدوي أو الاسترجاع من نافذة الحزمة.",
-        "detailedText": "بعد تحميل الحزمة يفتح Simsima واجهة التثبيت الداخلية، ولا يطلب مسار اللعبة من بطاقة Simsima. اختر التثبيت التلقائي للبحث عن Stellaris، أو المسار اليدوي إذا لم يتم العثور عليها، أو الاسترجاع لإعادة الملفات الأصلية.",
+        "shortText": "\u0627\u0636\u063A\u0637 \u062A\u062D\u0645\u064A\u0644 \u0648\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u062B\u0645 \u0627\u062E\u062A\u0631 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u062D\u062F\u062F \u0645\u0633\u0627\u0631 \u0645\u062C\u0644\u062F Factorio \u0625\u0630\u0627 \u0644\u0645 \u064A\u062A\u0645 \u0627\u0644\u0639\u062B\u0648\u0631 \u0639\u0644\u064A\u0647.",
+        "detailedText": "\u0628\u0639\u062F \u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u0627\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0644\u0644\u0628\u062D\u062B \u0639\u0646 Factorio\u060C \u0623\u0648 \u0627\u062E\u062A\u0631 \u0627\u0644\u0645\u0633\u0627\u0631 \u064A\u062F\u0648\u064A\u0627 \u0648\u062D\u062F\u062F \u0645\u062C\u0644\u062F Factorio \u0623\u0648 \u0645\u062C\u0644\u062F data. \u0625\u0630\u0627 \u0638\u0647\u0631 \u062E\u0637\u0623 \u0635\u0644\u0627\u062D\u064A\u0627\u062A\u060C \u0634\u063A\u0644 Simsima \u0643\u0645\u0633\u0624\u0648\u0644 \u062B\u0645 \u062D\u0627\u0648\u0644 \u0645\u0631\u0629 \u0623\u062E\u0631\u0649. \u064A\u0645\u0643\u0646 \u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0632\u0631 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0645\u0646 \u0646\u0641\u0633 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0644\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0627\u0644\u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0623\u0635\u0644\u064A\u0629.",
         "screenshots": []
       }
     }
