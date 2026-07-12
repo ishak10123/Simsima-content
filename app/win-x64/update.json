@@ -1,8 +1,8 @@
 {
-  "version": "0.1.10",
-  "installerUrl": "https://github.com/ishak10123/Simsima-content/releases/download/simsima-v0.1.10/Simsima-0.1.10-win-x64-Classic-Setup.exe",
-  "fileName": "Simsima-0.1.10-win-x64-Classic-Setup.exe",
-  "size": 48381037,
-  "sha256": "ED4045A60E5DA7713F4423095FA16E8041E460A68E0EA10DB143AE38967AC16A",
-  "releaseNotes": "Update 0.1.10 orders cards by newest release date and removes extra package action confirmation and success popups."
+  "version": "0.1.11",
+  "installerUrl": "https://github.com/ishak10123/Simsima-content/releases/download/simsima-v0.1.11/Simsima-0.1.11-win-x64-Classic-Setup.exe",
+  "fileName": "Simsima-0.1.11-win-x64-Classic-Setup.exe",
+  "size": 48408942,
+  "sha256": "7A7B7878DF1EBB20E4720216F592C3690BA2CC69BAB4AFFD3E4F5A2B5412C8F7",
+  "releaseNotes": "Update 0.1.11 adds a YouTube button and points Discord to the Simsima community invite."
 }
