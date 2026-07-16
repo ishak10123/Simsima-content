@@ -1,48 +1,50 @@
 {
-    "id":  "brotato-ar",
-    "slug":  "brotato-ar",
-    "gameTitle":  "Brotato",
-    "alternateTitles":  [
-                            "بروتاتو",
-                            "Brotato Arabic Translation"
-                        ],
-    "platforms":  [
-                      "windows"
-                  ],
-    "translationVersion":  "0.1.0",
-    "gameVersion":  "unknown",
-    "coverImageUrl":  "https://ishak10123.github.io/Simsima-content/rooms/brotato-ar/cover.jpg",
-    "summary":  "تعريب عربي للعبة Brotato مع دعم اللعبة الأساسية وإضافة Abyssal Terrors عند توفرها.",
-    "description":  "تفتح الحزمة واجهة تثبيت خاصة لتثبيت تعريب Brotato تلقائيا، اختيار مسار اللعبة يدويا، أو استرجاع الملفات الأصلية. بعد التثبيت، إذا لم تظهر العربية مباشرة فاختر Turkish من إعدادات اللغة داخل اللعبة.",
-    "releaseDate":  "2026-07-03",
-    "fileSize":  457182,
-    "status":  "published",
-    "package":  {
-                    "url":  "https://github.com/ishak10123/Simsima-content/releases/download/brotato-ar-v0.1.0/brotato-ar-v0.1.0.zip",
-                    "fileName":  "brotato-ar-v0.1.0.zip",
-                    "archiveType":  "zip",
-                    "size":  457182,
-                    "checksum":  "sha256:d9db6e8cb15727ffd15a58bcf1e49938c4fed9ba99db5dce6724d51e7c4adb5f"
-                },
-    "installer":  {
-                      "kind":  "bat",
-                      "entryFile":  "Run_Simsima.vbs",
-                      "requiresAdmin":  false,
-                      "launchMode":  "extract_then_run",
-                      "arguments":  [
-
-                                    ],
-                      "workingDirectory":  "",
-                      "supportsManualPath":  false,
-                      "manualPathRequired":  false,
-                      "cleanupOnSuccess":  false,
-                      "selfManagedUi":  true
-                  },
-    "instructions":  {
-                         "shortText":  "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مسار مجلد Brotato إذا لم يتم العثور عليه.",
-                         "detailedText":  "بعد فتح واجهة التثبيت، استخدم التثبيت التلقائي للبحث عن Brotato، أو اختر المسار يدويا وحدد المجلد الذي يحتوي Brotato.pck. إذا ظهر خطأ صلاحيات، شغل Simsima كمسؤول ثم حاول مرة أخرى. يمكن استخدام زر الاسترجاع من نفس الواجهة لإعادة الملفات الأصلية.",
-                         "screenshots":  [
-
-                                         ]
-                     }
+  "id": "brotato-ar",
+  "slug": "brotato-ar",
+  "gameTitle": "Brotato",
+  "alternateTitles": [
+    "\u062A\u0639\u0631\u064A\u0628 Brotato",
+    "Brotato Arabic Translation"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "translationVersion": "0.1.1",
+  "gameVersion": "unknown",
+  "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/brotato-ar/cover.jpg",
+  "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0644\u0644\u0639\u0628\u0629 Brotato \u064A\u062D\u0642\u0646 \u0627\u0644\u0646\u0635\u0648\u0635 \u0648\u0627\u0644\u062E\u0637\u0648\u0637 \u062F\u0627\u062E\u0644 \u0645\u0644\u0641\u0627\u062A PCK \u0639\u0628\u0631 \u0648\u0627\u062C\u0647\u0629 \u062A\u062B\u0628\u064A\u062A \u0645\u0633\u062A\u0642\u0644\u0629.",
+  "description": "\u062D\u0632\u0645\u0629 \u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A\u0629 \u0644\u0644\u0639\u0628\u0629 Brotato\u060C \u0645\u0639 \u062F\u0639\u0645 \u0625\u0636\u0627\u0641\u0629 Abyssal Terrors \u0639\u0646\u062F \u0648\u062C\u0648\u062F\u0647\u0627. \u062A\u062A\u064A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u0628\u062D\u062B \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0639\u0646 \u0627\u0644\u0644\u0639\u0628\u0629 \u0623\u0648 \u0627\u062E\u062A\u064A\u0627\u0631 \u0627\u0644\u0645\u0633\u0627\u0631 \u064A\u062F\u0648\u064A\u0627\u060C \u0648\u062A\u062D\u0641\u0638 \u0645\u0644\u0641\u0627\u062A PCK \u0627\u0644\u0623\u0635\u0644\u064A\u0629 \u0644\u0627\u0633\u062A\u0639\u0627\u062F\u062A\u0647\u0627 \u0639\u0646\u062F \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A.",
+  "releaseDate": "2026-07-14",
+  "fileSize": 10266065,
+  "status": "published",
+  "package": {
+    "url": "https://github.com/ishak10123/Simsima-content/releases/download/brotato-ar-v0.1.1/brotato-ar-v0.1.1.zip",
+    "fileName": "brotato-ar-v0.1.1.zip",
+    "archiveType": "zip",
+    "size": 10266065,
+    "checksum": "sha256:ffd3319b540a4df8402112a8db9979b0c80fdd39b588882ae26160ba868f9e39"
+  },
+  "installer": {
+    "kind": "bat",
+    "entryFile": "Run_Simsima.vbs",
+    "requiresAdmin": false,
+    "launchMode": "extract_then_run",
+    "arguments": [],
+    "workingDirectory": "",
+    "supportsManualPath": false,
+    "manualPathRequired": false,
+    "cleanupOnSuccess": false,
+    "selfManagedUi": true
+  },
+  "instructions": {
+    "shortText": "\u0627\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0645\u0646 Simsima\u060C \u062B\u0645 \u0627\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u0628\u062D\u062B \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u0627\u062E\u062A\u0631 \u0645\u062C\u0644\u062F Brotato \u0627\u0644\u0630\u064A \u064A\u062D\u062A\u0648\u064A Brotato.pck.",
+    "detailedText": "\u062C\u0631\u0651\u0628 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648\u0644\u0627. \u0625\u0630\u0627 \u0644\u0645 \u064A\u062A\u0645 \u0627\u0644\u0639\u062B\u0648\u0631 \u0639\u0644\u0649 \u0627\u0644\u0644\u0639\u0628\u0629\u060C \u0627\u062E\u062A\u0631 \u0645\u062C\u0644\u062F Brotato \u0627\u0644\u0630\u064A \u064A\u062D\u062A\u0648\u064A \u0639\u0644\u0649 Brotato.pck. \u0633\u062A\u064F\u062D\u0642\u0646 \u062A\u0631\u062C\u0645\u0629 \u0625\u0636\u0627\u0641\u0629 Abyssal Terrors \u0623\u064A\u0636\u0627 \u0639\u0646\u062F \u0648\u062C\u0648\u062F BrotatoAbyssalTerrors.pck. \u0628\u0639\u062F \u0646\u062C\u0627\u062D \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u062E\u062A\u0631 \u0627\u0644\u0644\u063A\u0629 Turkish \u0645\u0646 \u0625\u0639\u062F\u0627\u062F\u0627\u062A \u0627\u0644\u0644\u0639\u0628\u0629 \u0625\u0630\u0627 \u0644\u0645 \u062A\u0638\u0647\u0631 \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0645\u0628\u0627\u0634\u0631\u0629. \u064A\u0645\u0643\u0646 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0645\u0646 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0644\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0645\u0644\u0641\u0627\u062A PCK \u0627\u0644\u0623\u0635\u0644\u064A\u0629.",
+    "screenshots": []
+  },
+  "publishing": {
+    "status": "published",
+    "channels": [
+      "app"
+    ]
+  }
 }
