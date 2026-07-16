@@ -1,6 +1,6 @@
 {
   "catalogVersion": "1.0",
-  "lastUpdated": "2026-07-16T04:55:14.5476415+00:00",
+  "lastUpdated": "2026-07-16T05:59:37.9245077+00:00",
   "games": [
     {
       "id": "planet-crafter-ar",
@@ -213,20 +213,20 @@
       "platforms": [
         "windows"
       ],
-      "translationVersion": "1.0.2",
+      "translationVersion": "1.0.3",
       "gameVersion": "unknown",
       "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/dyson-sphere-program-ar/cover.jpg",
       "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0644\u0644\u0639\u0628\u0629 Dyson Sphere Program \u064A\u0636\u064A\u0641 \u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0625\u0644\u0649 \u0645\u062C\u0644\u062F Locale \u0627\u0644\u062E\u0627\u0635 \u0628\u0627\u0644\u0644\u0639\u0628\u0629.",
       "description": "\u062D\u0632\u0645\u0629 \u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A\u0629 \u0644\u0644\u0639\u0628\u0629 Dyson Sphere Program. \u062A\u0641\u062A\u062D \u0627\u0644\u062D\u0632\u0645\u0629 \u0648\u0627\u062C\u0647\u0629 \u062A\u062B\u0628\u064A\u062A \u062E\u0627\u0635\u0629 \u064A\u0645\u0643\u0646 \u0645\u0646 \u062E\u0644\u0627\u0644\u0647\u0627 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A\u060C \u0627\u062E\u062A\u064A\u0627\u0631 \u0645\u0633\u0627\u0631 \u0627\u0644\u0644\u0639\u0628\u0629 \u0623\u0648 \u0645\u062C\u0644\u062F Locale \u064A\u062F\u0648\u064A\u0627\u060C \u0623\u0648 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0648\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0627\u0644\u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0623\u0635\u0644\u064A\u0629 \u0639\u0646\u062F \u062A\u0648\u0641\u0631 \u0646\u0633\u062E\u0629 \u0627\u062D\u062A\u064A\u0627\u0637\u064A\u0629.",
       "releaseDate": "2026-07-08",
-      "fileSize": 11184239,
+      "fileSize": 11184254,
       "status": "published",
       "package": {
-        "url": "https://github.com/ishak10123/Simsima-content/releases/download/dyson-sphere-program-ar-v1.0.2/dyson-sphere-program-ar-v1.0.2.zip",
-        "fileName": "dyson-sphere-program-ar-v1.0.2.zip",
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/dyson-sphere-program-ar-v1.0.3/dyson-sphere-program-ar-v1.0.3.zip",
+        "fileName": "dyson-sphere-program-ar-v1.0.3.zip",
         "archiveType": "zip",
-        "size": 11184239,
-        "checksum": "sha256:7646900641de35a05ffe9d95b354ca7ae400c465d8c3570df4478eeda2f67ed5"
+        "size": 11184254,
+        "checksum": "sha256:327165abd326352935ff6d149d8ebc05458a9ac00f5abda01522a41cd03e51ed"
       },
       "installer": {
         "kind": "bat",
