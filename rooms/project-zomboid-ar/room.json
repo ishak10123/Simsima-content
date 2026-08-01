@@ -1,0 +1,50 @@
+{
+  "id": "project-zomboid-ar",
+  "slug": "project-zomboid-ar",
+  "gameTitle": "Project Zomboid",
+  "alternateTitles": [
+    "\u062A\u0639\u0631\u064A\u0628 Project Zomboid",
+    "Project Zomboid Arabic Translation"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "translationVersion": "0.2.3",
+  "gameVersion": "42.20.x",
+  "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/project-zomboid-ar/cover.png",
+  "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0645\u0631\u0626\u064A \u0645\u0646 \u0627\u0644\u064A\u0645\u064A\u0646 \u0625\u0644\u0649 \u0627\u0644\u064A\u0633\u0627\u0631 \u0644\u0644\u0639\u0628\u0629 Project Zomboid Build 42 \u0645\u0639 \u062E\u0637\u0648\u0637 Vazirmatn \u0648\u0645\u062B\u0628\u0651\u062A \u0622\u0645\u0646.",
+  "description": "\u062D\u0632\u0645\u0629 Project Zomboid \u0627\u0644\u0639\u0631\u0628\u064A\u0629 0.2.3 \u062A\u062A\u0636\u0645\u0646 47249 \u0646\u0635\u0627 \u0645\u0639\u062A\u0645\u062F\u0627 \u064878 \u0645\u0644\u0641 \u062A\u0631\u062C\u0645\u0629 \u0648\u062E\u0637 \u0648\u062A\u0634\u063A\u064A\u0644. \u062A\u062B\u0628\u062A \u0641\u064A \u062E\u0627\u0646\u0629 SIMA_AR \u0627\u0644\u0645\u0633\u062A\u0642\u0644\u0629\u060C \u0648\u062A\u062D\u0627\u0641\u0638 \u0639\u0644\u0649 AR \u0627\u0644\u0631\u0633\u0645\u064A\u0629\u060C \u0648\u062A\u0648\u0641\u0631 \u0643\u0634\u0641 Steam \u0648\u0627\u0644\u0646\u0633\u062E \u0627\u0644\u0627\u062D\u062A\u064A\u0627\u0637\u064A \u0648\u0627\u0644\u0627\u0633\u062A\u0639\u0627\u062F\u0629 \u062F\u0648\u0646 \u062A\u0634\u063A\u064A\u0644 \u0627\u0644\u0644\u0639\u0628\u0629.",
+  "releaseDate": "2026-07-29",
+  "fileSize": 14731074,
+  "status": "published",
+  "package": {
+    "url": "https://github.com/ishak10123/Simsima-content/releases/download/project-zomboid-ar-v0.2.3/project-zomboid-ar-v0.2.3.zip",
+    "fileName": "project-zomboid-ar-v0.2.3.zip",
+    "archiveType": "zip",
+    "size": 14731074,
+    "checksum": "sha256:f6829f7707928849dee9b141a44370ea5c44f3b1fa8b50900694b583f4a090d5"
+  },
+  "installer": {
+    "kind": "bat",
+    "entryFile": "Run_Simsima.vbs",
+    "requiresAdmin": false,
+    "launchMode": "extract_then_run",
+    "arguments": [],
+    "workingDirectory": "",
+    "supportsManualPath": false,
+    "manualPathRequired": false,
+    "cleanupOnSuccess": false,
+    "selfManagedUi": true
+  },
+  "instructions": {
+    "shortText": "\u0623\u063A\u0644\u0642 \u0627\u0644\u0644\u0639\u0628\u0629\u060C \u0627\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u062B\u0645 \u0627\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u062D\u062F\u062F \u0645\u062C\u0644\u062F ProjectZomboid \u064A\u062F\u0648\u064A\u0627.",
+    "detailedText": "\u064A\u0628\u062D\u062B \u0627\u0644\u0645\u062B\u0628\u0651\u062A \u0639\u0646 Project Zomboid \u0641\u064A \u0645\u0643\u062A\u0628\u0627\u062A Steam\u060C \u0648\u064A\u062A\u062D\u0642\u0642 \u0645\u0646 \u0627\u0644\u062D\u0645\u0648\u0644\u0629\u060C \u0648\u064A\u062D\u0641\u0638 \u0646\u0633\u062E\u0629 \u0627\u062D\u062A\u064A\u0627\u0637\u064A\u0629\u060C \u062B\u0645 \u064A\u062B\u0628\u062A SIMA_AR \u0648\u0627\u0644\u062E\u0637\u0648\u0637 \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0648\u064A\u062E\u062A\u0627\u0631 \u0627\u0644\u0644\u063A\u0629. \u0644\u0627 \u064A\u0634\u063A\u0651\u0644 \u0627\u0644\u0644\u0639\u0628\u0629. \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0631\u0627\u062C\u0639 \u0628\u0623\u0645\u0627\u0646 \u0645\u0646 \u0632\u0631 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A.",
+    "screenshots": []
+  },
+  "publishing": {
+    "status": "published",
+    "channels": [
+      "app"
+    ]
+  }
+}
