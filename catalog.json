@@ -1,6 +1,6 @@
 {
   "catalogVersion": "1.0",
-  "lastUpdated": "2026-08-03T23:56:37.0071786+00:00",
+  "lastUpdated": "2026-08-08T19:57:07.6616132Z",
   "games": [
     {
       "id": "palworld-ar",
@@ -13,20 +13,20 @@
       "platforms": [
         "windows"
       ],
-      "translationVersion": "0.1.10",
+      "translationVersion": "0.1.12",
       "gameVersion": "unknown",
       "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/palworld-ar/cover.png",
-      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0644\u0644\u0639\u0628\u0629 Palworld \u0628\u0625\u0635\u062F\u0627\u0631 0.1.10 \u064A\u062B\u0628\u062A \u0645\u0644\u0641 \u0627\u0644\u0645\u0648\u062F \u062F\u0627\u062E\u0644 \u0645\u062C\u0644\u062F Paks \u0648\u064A\u0639\u0645\u0644 \u0639\u0628\u0631 \u0648\u0627\u062C\u0647\u0629 \u062A\u062B\u0628\u064A\u062A \u062F\u0627\u062E\u0644\u064A\u0629.",
-      "description": "\u062D\u0632\u0645\u0629 \u062A\u0639\u0631\u064A\u0628 Palworld \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0628\u0625\u0635\u062F\u0627\u0631 0.1.10\u060C \u0648\u062A\u062A\u0636\u0645\u0646 \u0625\u0635\u0644\u0627\u062D\u0627\u062A \u0648\u062A\u062D\u0633\u064A\u0646\u0627\u062A \u0639\u0644\u0649 \u0627\u0644\u062A\u0631\u062C\u0645\u0629 \u0648\u062E\u0637\u0648\u0637\u0627 \u0639\u0631\u0628\u064A\u0629 \u0645\u0636\u0645\u0651\u0646\u0629. \u064A\u062A\u064A\u062D \u0628\u0631\u0646\u0627\u0645\u062C Simsima \u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u062A\u062B\u0628\u064A\u062A \u062F\u0627\u062E\u0644\u064A\u0629 \u0644\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u0627\u062E\u062A\u064A\u0627\u0631 \u0645\u0633\u0627\u0631 \u0627\u0644\u0644\u0639\u0628\u0629 \u064A\u062F\u0648\u064A\u0627\u060C \u0645\u0639 \u0625\u0645\u0643\u0627\u0646\u064A\u0629 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0644\u0627\u062D\u0642\u0627. \u0628\u0639\u062F \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u062E\u062A\u0631 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u062A\u0631\u0643\u064A\u0629 \u0645\u0646 \u0625\u0639\u062F\u0627\u062F\u0627\u062A \u0627\u0644\u0644\u0639\u0628\u0629 \u062D\u062A\u0649 \u062A\u0638\u0647\u0631 \u0627\u0644\u0646\u0635\u0648\u0635 \u0627\u0644\u0639\u0631\u0628\u064A\u0629.",
-      "releaseDate": "2026-08-04",
-      "fileSize": 15653669,
+      "summary": "تعريب Palworld 0.1.12 لنسخة Steam مع دعم تجريبي لنسخة PC Game Pass وأداة تشخيص محلية.",
+      "description": "يحافظ الإصدار 0.1.12 على تثبيت Steam والنسخ الاحتياطي والاستعادة، ويضيف اكتشاف XboxGames والمسار اليدوي عبر MicrosoftGame.config أو ملف WinGDK، مع تقرير تشخيص محلي للقراءة فقط. حمولة التعريب مبنية على Gold Set 0.1.7؛ توافق تحميل ملف PAK داخل PC Game Pass ما زال تجريبيا إلى أن ينجح اختبار حقيقي. بعد التثبيت اختر اللغة التركية لعرض العربية.",
+      "releaseDate": "2026-08-08",
+      "fileSize": 15480123,
       "status": "published",
       "package": {
-        "url": "https://github.com/ishak10123/Simsima-content/releases/download/palworld-ar-v0.1.10/palworld-ar-v0.1.10.zip",
-        "fileName": "palworld-ar-v0.1.10.zip",
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/palworld-ar-v0.1.12/palworld-ar-v0.1.12.zip",
+        "fileName": "palworld-ar-v0.1.12.zip",
         "archiveType": "zip",
-        "size": 15653669,
-        "checksum": "sha256:886d7faf4d982f1de22d5cc38b40ee72f0a976e267c450d67f73b78b920f5461"
+        "size": 15480123,
+        "checksum": "sha256:36dd6aad5fb2a92bece41b1b26189608d7009cd6ceca5603cff942adb7c993e0"
       },
       "installer": {
         "kind": "bat",
@@ -41,8 +41,8 @@
         "selfManagedUi": true
       },
       "instructions": {
-        "shortText": "\u0627\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0645\u0646 Simsima\u060C \u062B\u0645 \u0627\u062E\u062A\u0631 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u062D\u062F\u062F \u0645\u062C\u0644\u062F \u0627\u0644\u0644\u0639\u0628\u0629 \u064A\u062F\u0648\u064A\u0627 \u0639\u0646\u062F \u0627\u0644\u062D\u0627\u062C\u0629.",
-        "detailedText": "\u0628\u0639\u062F \u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u062C\u0631\u0651\u0628 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648\u0644\u0627. \u0625\u0630\u0627 \u0644\u0645 \u064A\u062A\u0645 \u0627\u0644\u0639\u062B\u0648\u0631 \u0639\u0644\u0649 \u0627\u0644\u0644\u0639\u0628\u0629\u060C \u0627\u062E\u062A\u0631 \u0645\u062C\u0644\u062F Palworld \u0627\u0644\u0630\u064A \u064A\u062D\u062A\u0648\u064A \u0639\u0644\u0649 Palworld.exe \u0648Pal/Content/Paks\u060C \u062B\u0645 \u0623\u0639\u062F \u0627\u0644\u062A\u062B\u0628\u064A\u062A. \u0628\u0639\u062F \u0646\u062C\u0627\u062D \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0641\u062A\u062D \u0627\u0644\u0644\u0639\u0628\u0629 \u0648\u0627\u062E\u062A\u0631 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u062A\u0631\u0643\u064A\u0629 \u0645\u0646 \u0627\u0644\u0625\u0639\u062F\u0627\u062F\u0627\u062A. \u064A\u0645\u0643\u0646 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0644\u0627\u062D\u0642\u0627 \u0645\u0646 \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062D\u0632\u0645\u0629 \u0646\u0641\u0633\u0647\u0627.",
+        "shortText": "افتح واجهة التثبيت واختر Steam أو PC Game Pass تلقائيا أو عبر علامة ملف يدوية؛ دعم Xbox على الكمبيوتر تجريبي.",
+        "detailedText": "جرّب التثبيت التلقائي أولا. إذا وُجدت نسختا Steam وXbox معا، استخدم المسار اليدوي واختر Palworld.exe أو ملف Win64 لنسخة Steam، أو MicrosoftGame.config أو ملف WinGDK لنسخة Xbox. زر تشخيص Xbox ينشئ تقريرا محليا للقراءة فقط دون رفع بيانات. بعد التثبيت اختر اللغة التركية، ويمكن إلغاء التثبيت من الواجهة نفسها.",
         "screenshots": []
       },
       "publishing": {
