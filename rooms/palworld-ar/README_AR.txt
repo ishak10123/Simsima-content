@@ -1,8 +1,8 @@
 حزمة التعريب العربية للعبة Palworld
 
-الإصدار: 0.1.12
+الإصدار: 0.1.13
 
-يدعم هذا الإصدار Steam، ويضيف دعما تجريبيا لنسخة PC Game Pass مع أداة تشخيص محلية للقراءة فقط.
+يدعم هذا الإصدار Steam، ويصلح التثبيت اليدوي لنسخة PC Game Pass عندما تكون اللعبة داخل مسار مخصص.
 
 تثبت هذه الحزمة ملف المود:
 
@@ -12,7 +12,7 @@ Palworld_Arabic_P.pak
 
 Pal/Content/Paks/~mods
 
-افتح الحزمة من برنامج Simsima، ثم استخدم التثبيت التلقائي. عند وجود نسختي Steam وXbox معا استخدم المسار اليدوي واختر Palworld.exe أو ملف Win64 لنسخة Steam، أو MicrosoftGame.config أو ملف WinGDK لنسخة Xbox.
+افتح الحزمة من برنامج Simsima، ثم استخدم التثبيت التلقائي للمسارات الافتراضية. للمسار اليدوي اختر Palworld.exe أو ملف Win64 لنسخة Steam. لنسخة Xbox المخصصة اختر MicrosoftGame.config أو gamelaunchhelper.exe أو أي ملف من جذر اللعبة الصحيح. لن يُقبل المسار إلا عند وجود MicrosoftGame.config وPal/Content/Paks معا.
 
 توافق تحميل ملف PAK داخل PC Game Pass ما زال تجريبيا. يمكن استخدام زر تشخيص Xbox لإنشاء تقرير محلي دون رفع بيانات.
 
