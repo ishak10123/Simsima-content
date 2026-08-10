@@ -1,7 +1,57 @@
 {
   "catalogVersion": "1.0",
-  "lastUpdated": "2026-08-10T01:26:41Z",
+  "lastUpdated": "2026-08-10T21:59:51.4352499+00:00",
   "games": [
+    {
+      "id": "foundry-ar",
+      "slug": "foundry-ar",
+      "gameTitle": "FOUNDRY",
+      "alternateTitles": [
+        "\u062A\u0639\u0631\u064A\u0628 FOUNDRY",
+        "FOUNDRY Arabic Translation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "translationVersion": "0.1.6",
+      "gameVersion": "unknown",
+      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/foundry-ar/cover.png",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0644\u0644\u0639\u0628\u0629 FOUNDRY \u0628\u0625\u0635\u062F\u0627\u0631 0.1.6 \u0645\u0639 \u0648\u0627\u062C\u0647\u0629 \u062A\u062B\u0628\u064A\u062A \u0645\u0633\u062A\u0642\u0644\u0629 \u0648\u062F\u0639\u0645 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0648\u0627\u0644\u0627\u0633\u062A\u0639\u0627\u062F\u0629 \u0627\u0644\u0622\u0645\u0646\u064A\u0646.",
+      "description": "\u062D\u0632\u0645\u0629 \u062A\u0639\u0631\u064A\u0628 FOUNDRY \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0628\u0625\u0635\u062F\u0627\u0631 0.1.6 \u0644\u0646\u0633\u062E\u0629 Steam \u0639\u0644\u0649 Windows. \u062A\u0633\u062A\u0628\u062F\u0644 \u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629 \u0628\u062A\u0631\u062C\u0645\u0629 \u0639\u0631\u0628\u064A\u0629 \u0648\u062A\u062B\u0628\u062A \u0645\u0644\u062D\u0642 \u062E\u0637 \u0639\u0631\u0628\u064A \u062E\u0627\u0635\u064B\u0627 \u0628\u0627\u0644\u062D\u0632\u0645\u0629\u060C \u0645\u0639 \u062D\u0641\u0638 \u0627\u0644\u062D\u0627\u0644\u0629 \u0627\u0644\u0633\u0627\u0628\u0642\u0629 \u0648\u0625\u062A\u0627\u062D\u062A\u0647\u0627 \u0644\u0644\u0627\u0633\u062A\u0639\u0627\u062F\u0629 \u0645\u0646 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0646\u0641\u0633\u0647\u0627. \u0644\u0627 \u062A\u062A\u0636\u0645\u0646 \u0627\u0644\u062D\u0632\u0645\u0629 \u062F\u0639\u0645 Xbox \u0623\u0648 Game Pass.",
+      "releaseDate": "2026-08-10",
+      "fileSize": 12702093,
+      "status": "published",
+      "package": {
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/foundry-ar-v0.1.6/foundry-ar-v0.1.6.zip",
+        "fileName": "foundry-ar-v0.1.6.zip",
+        "archiveType": "zip",
+        "size": 12702093,
+        "checksum": "sha256:1ef6c07dd84e43d9fd1a2bee6eb8bb74f5bf46e9c36f4e3178167b05332ec248"
+      },
+      "installer": {
+        "kind": "bat",
+        "entryFile": "Run_Simsima.vbs",
+        "requiresAdmin": false,
+        "launchMode": "extract_then_run",
+        "arguments": [],
+        "workingDirectory": "",
+        "supportsManualPath": false,
+        "manualPathRequired": false,
+        "cleanupOnSuccess": false,
+        "selfManagedUi": true
+      },
+      "instructions": {
+        "shortText": "\u0623\u063A\u0644\u0642 \u0627\u0644\u0644\u0639\u0628\u0629\u060C \u0627\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u062B\u0645 \u062C\u0631\u0651\u0628 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u062D\u062F\u062F Foundry.exe \u064A\u062F\u0648\u064A\u064B\u0627 \u0639\u0646\u062F \u0627\u0644\u062D\u0627\u062C\u0629.",
+        "detailedText": "\u0628\u0639\u062F \u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u062C\u0631\u0651\u0628 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648\u0644\u064B\u0627. \u0625\u0630\u0627 \u0644\u0645 \u064A\u064F\u0639\u062B\u0631 \u0639\u0644\u0649 \u0627\u0644\u0644\u0639\u0628\u0629\u060C \u0627\u0636\u063A\u0637 \u0645\u0633\u0627\u0631 \u064A\u062F\u0648\u064A \u0648\u062D\u062F\u062F Foundry.exe \u0645\u0646 \u062C\u0630\u0631 FOUNDRY. \u0628\u0639\u062F \u0646\u062C\u0627\u062D \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u062E\u062A\u0631 Italiano \u0645\u0646 \u0625\u0639\u062F\u0627\u062F\u0627\u062A \u0627\u0644\u0644\u063A\u0629\u060C \u0648\u0623\u0639\u062F \u062A\u0634\u063A\u064A\u0644 \u0627\u0644\u0644\u0639\u0628\u0629\u060C \u0648\u0627\u062A\u0631\u0643 \u0645\u0644\u062D\u0642 Simsima Arabic Font \u0645\u0641\u0639\u0651\u0644\u064B\u0627 \u0645\u0646 \u0642\u0627\u0626\u0645\u0629 Mods. \u064A\u0645\u0643\u0646 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0644\u0627\u062D\u0642\u064B\u0627 \u0645\u0646 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0646\u0641\u0633\u0647\u0627.",
+        "screenshots": []
+      },
+      "publishing": {
+        "status": "published",
+        "channels": [
+          "app"
+        ]
+      }
+    },
     {
       "id": "palworld-ar",
       "slug": "palworld-ar",
@@ -16,8 +66,8 @@
       "translationVersion": "0.2.4",
       "gameVersion": "unknown",
       "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/palworld-ar/cover.png",
-      "summary": "تعريب Palworld 0.2.4 المصحح لنسختي Steam وXbox PC / Game Pass.",
-      "description": "يصحح الإصدار 0.2.4 بنية ZIP ليجد Simsima ملف التشغيل مباشرة بعد فك الحزمة. تبقى حمولتا Steam وXbox المختبرتان دون تغيير: ملف PAK لنسخة Steam وملفات IoStore لنسخة Xbox. يعمل التعريب عبر مسار اللغة الإنجليزية دون تغيير لغة Windows، مع تثبيت وإلغاء تثبيت ونسخ احتياطي مستقل لكل منصة.",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 Palworld 0.2.4 \u0627\u0644\u0645\u0635\u062D\u062D \u0644\u0646\u0633\u062E\u062A\u064A Steam \u0648Xbox PC / Game Pass.",
+      "description": "\u064A\u0635\u062D\u062D \u0627\u0644\u0625\u0635\u062F\u0627\u0631 0.2.4 \u0628\u0646\u064A\u0629 ZIP \u0644\u064A\u062C\u062F Simsima \u0645\u0644\u0641 \u0627\u0644\u062A\u0634\u063A\u064A\u0644 \u0645\u0628\u0627\u0634\u0631\u0629 \u0628\u0639\u062F \u0641\u0643 \u0627\u0644\u062D\u0632\u0645\u0629. \u062A\u0628\u0642\u0649 \u062D\u0645\u0648\u0644\u062A\u0627 Steam \u0648Xbox \u0627\u0644\u0645\u062E\u062A\u0628\u0631\u062A\u0627\u0646 \u062F\u0648\u0646 \u062A\u063A\u064A\u064A\u0631: \u0645\u0644\u0641 PAK \u0644\u0646\u0633\u062E\u0629 Steam \u0648\u0645\u0644\u0641\u0627\u062A IoStore \u0644\u0646\u0633\u062E\u0629 Xbox. \u064A\u0639\u0645\u0644 \u0627\u0644\u062A\u0639\u0631\u064A\u0628 \u0639\u0628\u0631 \u0645\u0633\u0627\u0631 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629 \u062F\u0648\u0646 \u062A\u063A\u064A\u064A\u0631 \u0644\u063A\u0629 Windows\u060C \u0645\u0639 \u062A\u062B\u0628\u064A\u062A \u0648\u0625\u0644\u063A\u0627\u0621 \u062A\u062B\u0628\u064A\u062A \u0648\u0646\u0633\u062E \u0627\u062D\u062A\u064A\u0627\u0637\u064A \u0645\u0633\u062A\u0642\u0644 \u0644\u0643\u0644 \u0645\u0646\u0635\u0629.",
       "releaseDate": "2026-08-10",
       "fileSize": 22341363,
       "status": "published",
@@ -41,8 +91,8 @@
         "selfManagedUi": true
       },
       "instructions": {
-        "shortText": "اختر Steam أو Xbox PC / Game Pass من واجهة الحزمة، ثم ثبّت النسخة المحددة تلقائيا أو عبر مسار يدوي.",
-        "detailedText": "لنسخة Steam اختر Palworld.exe أو ملف Win64. لنسخة Xbox اختر MicrosoftGame.config أو gamelaunchhelper.exe أو ملفا من جذر اللعبة. يعمل التعريب عبر اللغة الإنجليزية تلقائيا ولا تحتاج إلى تغيير لغة اللعبة أو Windows. يمكن إلغاء التثبيت واستعادة النسخة السابقة من الواجهة نفسها.",
+        "shortText": "\u0627\u062E\u062A\u0631 Steam \u0623\u0648 Xbox PC / Game Pass \u0645\u0646 \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062D\u0632\u0645\u0629\u060C \u062B\u0645 \u062B\u0628\u0651\u062A \u0627\u0644\u0646\u0633\u062E\u0629 \u0627\u0644\u0645\u062D\u062F\u062F\u0629 \u062A\u0644\u0642\u0627\u0626\u064A\u0627 \u0623\u0648 \u0639\u0628\u0631 \u0645\u0633\u0627\u0631 \u064A\u062F\u0648\u064A.",
+        "detailedText": "\u0644\u0646\u0633\u062E\u0629 Steam \u0627\u062E\u062A\u0631 Palworld.exe \u0623\u0648 \u0645\u0644\u0641 Win64. \u0644\u0646\u0633\u062E\u0629 Xbox \u0627\u062E\u062A\u0631 MicrosoftGame.config \u0623\u0648 gamelaunchhelper.exe \u0623\u0648 \u0645\u0644\u0641\u0627 \u0645\u0646 \u062C\u0630\u0631 \u0627\u0644\u0644\u0639\u0628\u0629. \u064A\u0639\u0645\u0644 \u0627\u0644\u062A\u0639\u0631\u064A\u0628 \u0639\u0628\u0631 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629 \u062A\u0644\u0642\u0627\u0626\u064A\u0627 \u0648\u0644\u0627 \u062A\u062D\u062A\u0627\u062C \u0625\u0644\u0649 \u062A\u063A\u064A\u064A\u0631 \u0644\u063A\u0629 \u0627\u0644\u0644\u0639\u0628\u0629 \u0623\u0648 Windows. \u064A\u0645\u0643\u0646 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0648\u0627\u0633\u062A\u0639\u0627\u062F\u0629 \u0627\u0644\u0646\u0633\u062E\u0629 \u0627\u0644\u0633\u0627\u0628\u0642\u0629 \u0645\u0646 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0646\u0641\u0633\u0647\u0627.",
         "screenshots": []
       },
       "publishing": {
