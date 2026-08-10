@@ -1,6 +1,6 @@
 {
   "catalogVersion": "1.0",
-  "lastUpdated": "2026-08-10T00:38:21Z",
+  "lastUpdated": "2026-08-10T01:26:41Z",
   "games": [
     {
       "id": "palworld-ar",
@@ -13,20 +13,20 @@
       "platforms": [
         "windows"
       ],
-      "translationVersion": "0.2.3",
+      "translationVersion": "0.2.4",
       "gameVersion": "unknown",
       "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/palworld-ar/cover.png",
-      "summary": "تعريب Palworld 0.2.3 الموحد لنسختي Steam وXbox PC / Game Pass.",
-      "description": "يقدم الإصدار 0.2.3 حزمة موحدة تدعم Steam وXbox PC / Game Pass، ويختار المثبت الحمولة الصحيحة لكل منصة: ملف PAK لنسخة Steam وملفات IoStore لنسخة Xbox. يعمل التعريب عبر مسار اللغة الإنجليزية دون تغيير لغة Windows، مع تثبيت وإلغاء تثبيت ونسخ احتياطي مستقل لكل منصة.",
+      "summary": "تعريب Palworld 0.2.4 المصحح لنسختي Steam وXbox PC / Game Pass.",
+      "description": "يصحح الإصدار 0.2.4 بنية ZIP ليجد Simsima ملف التشغيل مباشرة بعد فك الحزمة. تبقى حمولتا Steam وXbox المختبرتان دون تغيير: ملف PAK لنسخة Steam وملفات IoStore لنسخة Xbox. يعمل التعريب عبر مسار اللغة الإنجليزية دون تغيير لغة Windows، مع تثبيت وإلغاء تثبيت ونسخ احتياطي مستقل لكل منصة.",
       "releaseDate": "2026-08-10",
-      "fileSize": 22378449,
+      "fileSize": 22341363,
       "status": "published",
       "package": {
-        "url": "https://github.com/ishak10123/Simsima-content/releases/download/palworld-ar-v0.2.3/palworld-ar-v0.2.3.zip",
-        "fileName": "palworld-ar-v0.2.3.zip",
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/palworld-ar-v0.2.4/palworld-ar-v0.2.4.zip",
+        "fileName": "palworld-ar-v0.2.4.zip",
         "archiveType": "zip",
-        "size": 22378449,
-        "checksum": "sha256:e450c6953ef0c82f855a05e17f030626268e8eefb600fb02bf859b2cc73d1ce6"
+        "size": 22341363,
+        "checksum": "sha256:632bb0ce97e76ba5e6f6c7b651b122d5779b2bfdeac1430f757c6965dce7cc03"
       },
       "installer": {
         "kind": "bat",
