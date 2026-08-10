@@ -9,20 +9,20 @@
   "platforms": [
     "windows"
   ],
-  "translationVersion": "0.1.13",
+  "translationVersion": "0.2.3",
   "gameVersion": "unknown",
   "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/palworld-ar/cover.png",
-  "summary": "تعريب Palworld 0.1.13 لنسخة Steam مع تثبيت يدوي آمن لمسارات PC Game Pass المخصصة.",
-  "description": "يحافظ الإصدار 0.1.13 على التثبيت التلقائي الافتراضي كما كان، ويصلح التثبيت اليدوي لنسخة Xbox الموجودة في أي مسار مخصص. يمكن اختيار MicrosoftGame.config أو gamelaunchhelper.exe أو ملف من جذر اللعبة، ولا يقبل المثبت المسار إلا بعد وجود MicrosoftGame.config وPal/Content/Paks معا. يبقى تحميل PAK داخل PC Game Pass تجريبيا، وبعد التثبيت اختر اللغة التركية لعرض العربية.",
-  "releaseDate": "2026-08-09",
-  "fileSize": 15481509,
+  "summary": "تعريب Palworld 0.2.3 الموحد لنسختي Steam وXbox PC / Game Pass.",
+  "description": "يقدم الإصدار 0.2.3 حزمة موحدة تدعم Steam وXbox PC / Game Pass، ويختار المثبت الحمولة الصحيحة لكل منصة: ملف PAK لنسخة Steam وملفات IoStore لنسخة Xbox. يعمل التعريب عبر مسار اللغة الإنجليزية دون تغيير لغة Windows، مع تثبيت وإلغاء تثبيت ونسخ احتياطي مستقل لكل منصة.",
+  "releaseDate": "2026-08-10",
+  "fileSize": 22378449,
   "status": "published",
   "package": {
-    "url": "https://github.com/ishak10123/Simsima-content/releases/download/palworld-ar-v0.1.13/palworld-ar-v0.1.13.zip",
-    "fileName": "palworld-ar-v0.1.13.zip",
+    "url": "https://github.com/ishak10123/Simsima-content/releases/download/palworld-ar-v0.2.3/palworld-ar-v0.2.3.zip",
+    "fileName": "palworld-ar-v0.2.3.zip",
     "archiveType": "zip",
-    "size": 15481509,
-    "checksum": "sha256:dfcbbf99872aec30853dc0c52b376d1e968c47ba70e3252c6f9ec8c1c448f47f"
+    "size": 22378449,
+    "checksum": "sha256:e450c6953ef0c82f855a05e17f030626268e8eefb600fb02bf859b2cc73d1ce6"
   },
   "installer": {
     "kind": "bat",
@@ -37,8 +37,8 @@
     "selfManagedUi": true
   },
   "instructions": {
-    "shortText": "استخدم التثبيت التلقائي للمسارات الافتراضية، أو المسار اليدوي الآمن إذا كانت نسخة Xbox في مجلد مخصص.",
-    "detailedText": "لنسخة Steam اختر Palworld.exe أو ملف Win64. لنسخة Xbox المخصصة اختر MicrosoftGame.config، ويمكن اختيار gamelaunchhelper.exe أو أي ملف من جذر اللعبة؛ لن يقبل المثبت المسار إلا مع وجود MicrosoftGame.config وPal/Content/Paks. بعد التثبيت اختر اللغة التركية، ويمكن إلغاء التثبيت من الواجهة نفسها.",
+    "shortText": "اختر Steam أو Xbox PC / Game Pass من واجهة الحزمة، ثم ثبّت النسخة المحددة تلقائيا أو عبر مسار يدوي.",
+    "detailedText": "لنسخة Steam اختر Palworld.exe أو ملف Win64. لنسخة Xbox اختر MicrosoftGame.config أو gamelaunchhelper.exe أو ملفا من جذر اللعبة. يعمل التعريب عبر اللغة الإنجليزية تلقائيا ولا تحتاج إلى تغيير لغة اللعبة أو Windows. يمكن إلغاء التثبيت واستعادة النسخة السابقة من الواجهة نفسها.",
     "screenshots": []
   },
   "publishing": {
