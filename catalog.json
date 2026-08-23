@@ -1,7 +1,57 @@
 {
   "catalogVersion": "1.0",
-  "lastUpdated": "2026-08-19T01:04:40.192946+00:00",
+  "lastUpdated": "2026-08-23T00:08:29.8153638+00:00",
   "games": [
+    {
+      "id": "frostpunk-ar",
+      "slug": "frostpunk-ar",
+      "gameTitle": "Frostpunk",
+      "alternateTitles": [
+        "\u062A\u0639\u0631\u064A\u0628 Frostpunk",
+        "Frostpunk Arabic Translation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "translationVersion": "0.5.1",
+      "gameVersion": "unknown",
+      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/frostpunk-ar/cover.png",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 Frostpunk \u0627\u0644\u0639\u0631\u0628\u064A v0.5.1 \u0628\u062E\u0637\u0648\u0637 \u0645\u0647\u064A\u0623\u0629 \u0648\u0646\u0638\u0627\u0645 \u062D\u0642\u0646 \u0648\u0646\u0633\u062E \u0627\u062D\u062A\u064A\u0627\u0637\u064A \u0622\u0645\u0646.",
+      "description": "\u062D\u0632\u0645\u0629 \u0639\u0631\u0628\u064A\u0629 \u0645\u0633\u062A\u0642\u0644\u0629 \u0644\u0644\u0639\u0628\u0629 Frostpunk \u0628\u0625\u0635\u062F\u0627\u0631 \u062A\u063A\u0644\u064A\u0641 0.5.1 \u0648\u062D\u0645\u0648\u0644\u0629 \u062A\u0631\u062C\u0645\u0629 0.5.0 \u0627\u0644\u0645\u062B\u0628\u062A\u0629 \u0628\u0627\u0644\u0628\u0635\u0645\u0627\u062A. \u062A\u062A\u062D\u0642\u0642 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0645\u0646 \u062C\u0630\u0631 \u0627\u0644\u0644\u0639\u0628\u0629 \u0648\u0645\u0646 \u0633\u0644\u0627\u0645\u0629 \u0627\u0644\u062D\u0645\u0648\u0644\u0629\u060C \u062B\u0645 \u062A\u062D\u0641\u0638 \u0627\u0644\u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0623\u0635\u0644\u064A\u0629 \u0642\u0628\u0644 \u0627\u0644\u0627\u0633\u062A\u0628\u062F\u0627\u0644 \u0648\u062A\u062A\u064A\u062D \u0627\u0633\u062A\u0631\u062C\u0627\u0639\u0647\u0627 \u0644\u0627\u062D\u0642\u064B\u0627.",
+      "releaseDate": "2026-08-23",
+      "fileSize": 620768393,
+      "status": "published",
+      "package": {
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/frostpunk-ar-v0.5.1/frostpunk-ar-v0.5.1.zip",
+        "fileName": "frostpunk-ar-v0.5.1.zip",
+        "archiveType": "zip",
+        "size": 620768393,
+        "checksum": "sha256:4229067a105f2aaa40a1ff50987bc02e0fccb26f4dd9dc72a60eafb7c5201bdb"
+      },
+      "installer": {
+        "kind": "bat",
+        "entryFile": "Run_Simsima.vbs",
+        "requiresAdmin": false,
+        "launchMode": "extract_then_run",
+        "arguments": [],
+        "workingDirectory": "",
+        "supportsManualPath": false,
+        "manualPathRequired": false,
+        "cleanupOnSuccess": false,
+        "selfManagedUi": true
+      },
+      "instructions": {
+        "shortText": "\u0623\u063A\u0644\u0642 Frostpunk\u060C \u062B\u0645 \u0627\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u0627\u062E\u062A\u0631 Frostpunk.exe \u0645\u0646 \u062C\u0630\u0631 \u0627\u0644\u0644\u0639\u0628\u0629.",
+        "detailedText": "\u062C\u0631\u0651\u0628 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648\u0644\u064B\u0627. \u0625\u0630\u0627 \u0644\u0645 \u064A\u0639\u062B\u0631 \u0639\u0644\u0649 \u0627\u0644\u0644\u0639\u0628\u0629 \u0641\u0627\u062E\u062A\u0631 \u0645\u0633\u0627\u0631\u064B\u0627 \u064A\u062F\u0648\u064A\u064B\u0627 \u0648\u062D\u062F\u062F Frostpunk.exe \u0627\u0644\u0645\u0648\u062C\u0648\u062F \u0628\u062C\u0648\u0627\u0631 common.dat \u0648localizations.dat. \u0644\u0627 \u062A\u064F\u063A\u0644\u0642 \u0627\u0644\u0645\u062B\u0628\u062A \u0623\u062B\u0646\u0627\u0621 \u0646\u0633\u062E common.dat \u0627\u0644\u0643\u0628\u064A\u0631. \u064A\u0645\u0643\u0646 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0645\u0646 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0646\u0641\u0633\u0647\u0627 \u0645\u0627 \u062F\u0627\u0645\u062A \u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0644\u0639\u0628\u0629 \u0644\u0645 \u062A\u062A\u063A\u064A\u0631 \u0628\u0639\u062F \u0627\u0644\u062A\u062B\u0628\u064A\u062A.",
+        "screenshots": []
+      },
+      "publishing": {
+        "status": "published",
+        "channels": [
+          "app"
+        ]
+      }
+    },
     {
       "id": "captain-of-industry-ar",
       "slug": "captain-of-industry-ar",
