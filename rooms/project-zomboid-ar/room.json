@@ -15,14 +15,14 @@
   "summary": "تعريب عربي مرئي من اليمين إلى اليسار للعبة Project Zomboid Build 42 مع خطوط Vazirmatn ومثبّت آمن.",
   "description": "حزمة Project Zomboid العربية 0.2.4 تتضمن 47249 نصا معتمدا و78 ملف ترجمة وخط وتشغيل. تثبت في خانة SIMA_AR المستقلة، وتحافظ على AR الرسمية، وتوفر كشف Steam والنسخ الاحتياطي والاستعادة دون تشغيل اللعبة.",
   "releaseDate": "2026-09-09",
-  "fileSize": 14606741,
+  "fileSize": 14450952,
   "status": "published",
   "package": {
     "url": "https://github.com/ishak10123/Simsima-content/releases/download/project-zomboid-ar-v0.2.4/project-zomboid-ar-v0.2.4.zip",
     "fileName": "project-zomboid-ar-v0.2.4.zip",
     "archiveType": "zip",
-    "size": 14606741,
-    "checksum": "sha256:3a43d1d0d656ab56b251bf4a245ca23e719f0575b102eb867c230c9a3351aeaf"
+    "size": 14450952,
+    "checksum": "sha256:a4a7dc65901dab2d7eaf86fc3a6e7b6faba07d20b7551ce3e781d8b68e3f423a"
   },
   "installer": {
     "kind": "bat",
@@ -37,8 +37,8 @@
     "selfManagedUi": true
   },
   "instructions": {
-    "shortText": "أغلق اللعبة، افتح واجهة التثبيت، ثم استخدم التثبيت التلقائي أو حدد مجلد ProjectZomboid يدويا.",
-    "detailedText": "يبحث المثبّت عن Project Zomboid في مكتبات Steam، ويتحقق من الحمولة، ويحفظ نسخة احتياطية، ثم يثبت SIMA_AR والخطوط العربية ويختار اللغة. لا يشغّل اللعبة. يمكن التراجع بأمان من زر إلغاء التثبيت.",
+    "shortText": "أغلق اللعبة، افتح واجهة التثبيت، ثم استخدم التثبيت التلقائي أو حدد ملف ProjectZomboid64.exe يدويا.",
+    "detailedText": "يبحث المثبّت عن Project Zomboid في مكتبات Steam، ويتحقق من الحمولة، ويحفظ نسخة احتياطية، ثم يثبت SIMA_AR والخطوط العربية ويختار اللغة. لا يشغّل اللعبة. يمكن التراجع بأمان من زر إلغاء التثبيت أو تحديد ملف ProjectZomboid64.exe يدويا.",
     "screenshots": []
   },
   "publishing": {
