@@ -15,14 +15,14 @@
   "summary": "تعريب عربي مرئي من اليمين إلى اليسار للعبة Project Zomboid Build 42 مع خطوط Vazirmatn ومثبّت آمن.",
   "description": "حزمة Project Zomboid العربية 0.2.4 تتضمن 47249 نصا معتمدا و78 ملف ترجمة وخط وتشغيل. تثبت في خانة SIMA_AR المستقلة، وتحافظ على AR الرسمية، وتوفر كشف Steam والنسخ الاحتياطي والاستعادة دون تشغيل اللعبة.",
   "releaseDate": "2026-09-09",
-  "fileSize": 14730661,
+  "fileSize": 14606741,
   "status": "published",
   "package": {
     "url": "https://github.com/ishak10123/Simsima-content/releases/download/project-zomboid-ar-v0.2.4/project-zomboid-ar-v0.2.4.zip",
     "fileName": "project-zomboid-ar-v0.2.4.zip",
     "archiveType": "zip",
-    "size": 14730661,
-    "checksum": "sha256:ca8f07888baef759abbc4638736401b9dfc09d83a543e56187b89b65992b9aa3"
+    "size": 14606741,
+    "checksum": "sha256:3a43d1d0d656ab56b251bf4a245ca23e719f0575b102eb867c230c9a3351aeaf"
   },
   "installer": {
     "kind": "bat",
