@@ -1,82 +1,33 @@
 {
   "catalogVersion": "1.0",
-  "lastUpdated": "2026-09-09T22:15:24.000Z",
+  "lastUpdated": "2026-09-10T16:55:26.4996853+00:00",
   "games": [
     {
-      "id": "timberborn-ar",
-      "slug": "timberborn-ar",
-      "gameTitle": "Timberborn",
+      "id": "citizen-sleeper-2-ar",
+      "slug": "citizen-sleeper-2-ar",
+      "gameTitle": "Citizen Sleeper 2: Starward Vector",
       "alternateTitles": [
-        "تعريب Timberborn",
-        "Timberborn Arabic Translation"
-      ],
-      "platforms": [
-        "windows"
-      ],
-      "translationVersion": "0.1.0",
-      "gameVersion": "1.0.0.0",
-      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/timberborn-ar/cover.png",
-      "summary": "تعريب عربي متكامل ودعم كامل للخطوط للعبة Timberborn (الإصدار 0.1.0) بواسطة محرك سمسمة.",
-      "description": "حزمة تعريب Timberborn العربية بإصدار 0.1.0، تتضمن ترجمة كاملة للنصوص، أسماء القنادس، وتوجيه النصوص Visual RTL ودعم خطوط Noto Sans Arabic و Segoe UI. يتيح برنامج Simsima التثبيت التلقائي أو تحديد مسار اللعبة يدوياً، مع إمكانية إلغاء التثبيت لاحقاً.",
-      "releaseDate": "2026-09-07",
-      "fileSize": 12450152,
-      "status": "published",
-      "package": {
-        "url": "https://github.com/ishak10123/Simsima-content/releases/download/timberborn-ar-v0.1.0/timberborn-ar-v0.1.0.zip",
-        "fileName": "timberborn-ar-v0.1.0.zip",
-        "archiveType": "zip",
-        "size": 12450152,
-        "checksum": "sha256:e45c602d208dad13d0a5bb077e65c74711184698ab6e983ecaf4b30790a06949"
-      },
-      "installer": {
-        "kind": "bat",
-        "entryFile": "Run_Simsima.vbs",
-        "requiresAdmin": false,
-        "launchMode": "extract_then_run",
-        "arguments": [],
-        "workingDirectory": "",
-        "supportsManualPath": false,
-        "manualPathRequired": false,
-        "cleanupOnSuccess": false,
-        "selfManagedUi": true
-      },
-      "instructions": {
-        "shortText": "افتح واجهة التثبيت من Simsima، ثم اختر التثبيت التلقائي أو حدد مسار اللعبة يدوياً عند الحاجة.",
-        "detailedText": "بعد فتح واجهة التثبيت، اضغط تثبيت تلقائي للبحث عن اللعبة ومجلد المودات وتثبيت التعريب. إذا لم يتم العثور على اللعبة تلقائياً، اضغط مسار يدوي واختر ملف Timberborn.exe أو مجلد اللعبة. بعد التثبيت، شغّل لعبة Timberborn وتأكد من تفعيل المود من قائمة Mods، واختر اللغة الإنجليزية من الإعدادات وستظهر اللعبة باللغة العربية فوراً.",
-        "screenshots": []
-      },
-      "publishing": {
-        "status": "published",
-        "channels": [
-          "app"
-        ]
-      }
-    },
-    {
-      "id": "space-haven-ar",
-      "slug": "space-haven-ar",
-      "gameTitle": "Space Haven",
-      "alternateTitles": [
-        "تعريب Space Haven",
-        "Space Haven Arabic Translation"
+        "\u062A\u0639\u0631\u064A\u0628 Citizen Sleeper 2: Starward Vector",
+        "Citizen Sleeper 2",
+        "\u0633\u064A\u062A\u064A\u0632\u0646 \u0633\u0644\u064A\u0628\u0631 2"
       ],
       "platforms": [
         "windows"
       ],
       "translationVersion": "0.1.1",
       "gameVersion": "unknown",
-      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/space-haven-ar/cover.png",
-      "summary": "تعريب عربي كامل للعبة Space Haven الإصدار 0.1.1 مع نظام التقطيع الذكي Smart Pre-Wrapping وواجهة تثبيت ذاتية الإدارة.",
-      "description": "حزمة تعريب لعبة Space Haven الإصدار v0.1.1. تحتوي على 6,829 مقطعاً معتمداً مع حل جذري لمشكلة قراءة السطور الملتفة عبر خوارزمية التقطيع المسبق الذكي (Smart Pre-Wrapping) وعكس BiDi المستقل لكل سطر، وخط عربي متناسق (Tahoma) مربوط بجميع أنماط خطوط واجهة اللعبة الـ 12. تتيح واجهة Simsima التثبيت التلقائي عبر Steam أو تحديد مجلد اللعبة يدوياً، مع نسخ احتياطي آمن وإمكانية الإزالة واسترجاع الملفات الأصلية بنقرة واحدة. بعد التثبيت، اختر لغة العربية (Arabic) من قائمة اللغات في اللعبة (موقع لغة الإسبانية ES سابقاً).",
-      "releaseDate": "2026-09-05",
-      "fileSize": 13373660,
+      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/citizen-sleeper-2-ar/cover.png",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0643\u0627\u0645\u0644 \u0644\u0644\u0639\u0628\u0629 Citizen Sleeper 2: Starward Vector \u0628\u0646\u0638\u0627\u0645 \u0627\u0644\u062D\u0642\u0646 \u0648\u0627\u0644\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0627\u0644\u0623\u0648\u062A\u0648\u0645\u0627\u062A\u064A\u0643\u064A \u0644\u0640 Simsima.",
+      "description": "\u062D\u0632\u0645\u0629 \u062A\u0639\u0631\u064A\u0628 \u0634\u0627\u0645\u0644\u0629 100% \u0644\u0644\u0639\u0628\u0629 Citizen Sleeper 2: Starward Vector \u062A\u0634\u0645\u0644 \u0623\u0643\u062B\u0631 \u0645\u0646 192,000 \u0643\u0644\u0645\u0629 \u0623\u062F\u0628\u064A\u0629 \u0648\u062C\u0645\u064A\u0639 \u0627\u0644\u062D\u0648\u0627\u0631\u0627\u062A \u0648\u0627\u0644\u062E\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u062A\u0641\u0627\u0639\u0644\u064A\u0629 \u0648\u0627\u0644\u0642\u0648\u0627\u0626\u0645 \u0648\u0627\u0644\u0648\u0627\u062C\u0647\u0629\u060C \u0645\u0639 \u0646\u0638\u0627\u0645 \u062D\u0642\u0646 \u0623\u0648\u062A\u0648\u0645\u0627\u062A\u064A\u0643\u064A \u0630\u0643\u064A \u0648\u0643\u0634\u0641 \u0645\u0633\u0627\u0631 \u0627\u0644\u0644\u0639\u0628\u0629 \u0648\u0646\u0633\u062E \u0627\u062D\u062A\u064A\u0627\u0637\u064A \u0648\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0622\u0645\u0646. \u0628\u0639\u062F \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u062E\u062A\u0631 Fran\u00E7ais \u0645\u0646 \u0625\u0639\u062F\u0627\u062F\u0627\u062A \u0627\u0644\u0644\u063A\u0629 \u0641\u064A \u0627\u0644\u0644\u0639\u0628\u0629.",
+      "releaseDate": "2026-09-10",
+      "fileSize": 51947450,
       "status": "published",
       "package": {
-        "url": "https://github.com/ishak10123/Simsima-content/releases/download/space-haven-ar-v0.1.1/space-haven-ar-v0.1.1.zip",
-        "fileName": "space-haven-ar-v0.1.1.zip",
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/citizen-sleeper-2-ar-v0.1.1/citizen-sleeper-2-ar-v0.1.1.zip",
+        "fileName": "citizen-sleeper-2-ar-v0.1.1.zip",
         "archiveType": "zip",
-        "size": 13373660,
-        "checksum": "sha256:c22e49a67f4489262669bc65f2209abfd5546a4a7a81c667cb2f8eff23d9faaf"
+        "size": 51947450,
+        "checksum": "sha256:b896b2a399c38cd83839d667b9980e4f7bbe5e3fe14bb815d829f9853bfe797e"
       },
       "installer": {
         "kind": "bat",
@@ -91,358 +42,8 @@
         "selfManagedUi": true
       },
       "instructions": {
-        "shortText": "افتح واجهة التثبيت من Simsima، ثم اضغط تثبيت تلقائي أو حدد مسار اللعبة يدوياً.",
-        "detailedText": "بعد فتح واجهة التثبيت، جرّب التثبيت التلقائي أولاً لاكتشاف اللعبة على Steam. إذا لم يتم العثور عليها، اضغط مسار يدوي واختر ملف spacehaven.exe أو spacehaven.jar من مجلد اللعبة. بعد اكتمال التثبيت، افتح اللعبة واختر العربية (Arabic) من إعدادات اللغة. يمكنك إلغاء التثبيت لاحقاً بنقرة واحدة من نفس الواجهة.",
-        "screenshots": []
-      },
-      "publishing": {
-        "status": "published",
-        "channels": [
-          "app"
-        ]
-      }
-    },
-    {
-      "id": "planet-crafter-ar",
-      "slug": "planet-crafter-ar",
-      "gameTitle": "The Planet Crafter",
-      "alternateTitles": [
-        "تعريب The Planet Crafter",
-        "بلانت كرافتر"
-      ],
-      "platforms": [
-        "windows"
-      ],
-      "translationVersion": "1.0.4",
-      "gameVersion": "Steam build 24452417",
-      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/planet-crafter-ar/cover.png",
-      "summary": "تعريب عربي شامل واحترافي للعبة The Planet Crafter متوافق مع تحديث كوكب Skeo وبناء Steam الأخير.",
-      "description": "يقدم الإصدار 1.0.4 إعادة ترجمة كاملة للعبة من الصفر بنموذج DeepSeek الذكي، متضمنةً جميع نصوص التحديث الأخير وتحديث كوكب Skeo، مع إصلاح الترجمات الحرفية القديمة لأسماء الكواكب وأطوار اللعب، وتشكيل بصري سليم ومثبت آمن بمعاملة متوافقة مع ملفات اللعبة. بعد نجاح التثبيت افتح اللعبة واختر Turkish من إعدادات اللغة لاستخدام النص العربي.",
-      "releaseDate": "2026-09-05",
-      "fileSize": 31834158,
-      "status": "published",
-      "package": {
-        "url": "https://github.com/ishak10123/Simsima-content/releases/download/planet-crafter-ar-v1.0.4/planet-crafter-ar-v1.0.4.zip",
-        "fileName": "planet-crafter-ar-v1.0.4.zip",
-        "archiveType": "zip",
-        "size": 31834158,
-        "checksum": "sha256:f46915f4c5349e220afbb49c1845d9b6e9a0e1fc0f05f34fcdd1a5fef52eb878"
-      },
-      "installer": {
-        "kind": "exe",
-        "entryFile": "Run_Simsima.vbs",
-        "requiresAdmin": false,
-        "launchMode": "extract_then_run",
-        "arguments": [],
-        "workingDirectory": "",
-        "supportsManualPath": false,
-        "manualPathRequired": false,
-        "cleanupOnSuccess": false,
-        "selfManagedUi": true
-      },
-      "instructions": {
-        "shortText": "افتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مجلد اللعبة يدويًا.",
-        "detailedText": "أغلق اللعبة قبل التثبيت. يجب أن يحتوي مجلد اللعبة على Planet Crafter.exe ومجلد Planet Crafter_Data. بعد نجاح التثبيت افتح اللعبة واختر Turkish من إعدادات اللغة. استخدم زر إلغاء التثبيت داخل الواجهة لاسترجاع الملفين الأصليين.",
-        "screenshots": []
-      },
-      "publishing": {
-        "status": "published",
-        "channels": [
-          "app"
-        ]
-      }
-    },
-    {
-      "id": "diplomacy-is-not-an-option-ar",
-      "slug": "diplomacy-is-not-an-option-ar",
-      "gameTitle": "Diplomacy is Not an Option",
-      "alternateTitles": [
-        "تعريب Diplomacy is Not an Option",
-        "Diplomacy is Not an Option Arabic Translation"
-      ],
-      "platforms": [
-        "windows"
-      ],
-      "translationVersion": "0.3.0",
-      "gameVersion": "unknown",
-      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/diplomacy-is-not-an-option-ar/cover.png",
-      "summary": "تعريب عربي كامل للعبة Diplomacy is Not an Option الإصدار 0.3.0 مع دعم الخط العربي والمحاذاة وواجهة تثبيت ذاتية الإدارة.",
-      "description": "حزمة تعريب لعبة Diplomacy is Not an Option العربية الإصدار 0.3.0. تتضمن مراجعة وتدقيقاً كاملاً لـ 7,326 مقطعاً بنسبة 100% مع خط Cairo ودعم المحاذاة من اليمين إلى اليسار (Visual RTL). يتيح برنامج Simsima التثبيت التلقائي واكتشاف اللعبة على Steam أو اختيار ملف التشغيل يدوياً، مع إمكانية إلغاء التثبيت واسترجاع ملفات اللعبة الأصلية في أي وقت. بعد التثبيت اختر اللغة الإنجليزية (English) من إعدادات اللعبة.",
-      "releaseDate": "2026-09-03",
-      "fileSize": 13888999,
-      "status": "published",
-      "package": {
-        "url": "https://github.com/ishak10123/Simsima-content/releases/download/diplomacy-is-not-an-option-ar-v0.3.0/diplomacy-is-not-an-option-ar-v0.3.0.zip",
-        "fileName": "diplomacy-is-not-an-option-ar-v0.3.0.zip",
-        "archiveType": "zip",
-        "size": 13888999,
-        "checksum": "sha256:cc86535803c4aa3d8c3ca095c7108ecc9e4370ef9c7f9df59954537d438d68fb"
-      },
-      "installer": {
-        "kind": "bat",
-        "entryFile": "Run_Simsima.vbs",
-        "requiresAdmin": false,
-        "launchMode": "extract_then_run",
-        "arguments": [],
-        "workingDirectory": "",
-        "supportsManualPath": false,
-        "manualPathRequired": false,
-        "cleanupOnSuccess": false,
-        "selfManagedUi": true
-      },
-      "instructions": {
-        "shortText": "افتح واجهة التثبيت من Simsima، ثم اضغط تثبيت تلقائي أو حدد مسار اللعبة يدوياً.",
-        "detailedText": "بعد فتح واجهة التثبيت، جرّب التثبيت التلقائي أولاً لاكتشاف اللعبة على Steam. إذا لم يتم العثور عليها، اضغط مسار يدوي واختر ملف Diplomacy is Not an Option.exe من مجلد اللعبة. بعد اكتمال التثبيت، افتح اللعبة واختر اللغة الإنجليزية من إعدادات اللغة لتفعيل التعريب. يمكنك إلغاء التثبيت لاحقاً بنقرة واحدة من نفس الواجهة.",
-        "screenshots": []
-      },
-      "publishing": {
-        "status": "published",
-        "channels": [
-          "app"
-        ]
-      }
-    },
-    {
-      "id": "norland-ar",
-      "slug": "norland-ar",
-      "gameTitle": "Norland",
-      "alternateTitles": [
-        "تعريب Norland",
-        "Norland Arabic Translation"
-      ],
-      "platforms": [
-        "windows"
-      ],
-      "translationVersion": "0.2.1",
-      "gameVersion": "unknown",
-      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/norland-ar/cover.png",
-      "summary": "تعريب عربي للعبة Norland بإصدار 0.2.1 مع واجهة تثبيت واسترجاع سهلة ودعم الخط العربي.",
-      "description": "حزمة تعريب عربية للعبة Norland تتضمن 11,463 مقطعًا مترجمًا وخطوط Noto Sans Arabic. يحدّث الإصدار 0.2.1 نظام التثبيت والحقن مع إبقاء محتوى الترجمة من الإصدار 0.2.0، وينشئ نسخة احتياطية قبل استبدال ملفات اللغة والخطوط لإتاحة الاسترجاع الآمن.",
-      "releaseDate": "2026-08-24",
-      "fileSize": 20530118,
-      "status": "published",
-      "package": {
-        "url": "https://github.com/ishak10123/Simsima-content/releases/download/norland-ar-v0.2.1/norland-ar-v0.2.1.zip",
-        "fileName": "norland-ar-v0.2.1.zip",
-        "archiveType": "zip",
-        "size": 20530118,
-        "checksum": "sha256:6063b0b6329676f662b9a03356aff223e83cdbb2769e5f3ec59d7be83e28b2f3"
-      },
-      "installer": {
-        "kind": "bat",
-        "entryFile": "Run_Simsima.vbs",
-        "requiresAdmin": false,
-        "launchMode": "extract_then_run",
-        "arguments": [],
-        "workingDirectory": "",
-        "supportsManualPath": false,
-        "manualPathRequired": false,
-        "cleanupOnSuccess": false,
-        "selfManagedUi": true
-      },
-      "instructions": {
-        "shortText": "أغلق Norland، ثم افتح واجهة التثبيت واختر التثبيت التلقائي أو حدد Norland.exe يدويًا عند الحاجة.",
-        "detailedText": "أغلق لعبة Norland قبل التثبيت. افتح واجهة الحزمة، ثم استخدم التثبيت التلقائي أو اختر Norland.exe يدويًا إذا لم يُكتشف المسار. بعد نجاح التثبيت اختر العربية من إعدادات اللغة وأعد تشغيل اللعبة. لإزالة التعريب استخدم زر إلغاء التثبيت في الواجهة لاستعادة الملفات السابقة من النسخة الاحتياطية.",
-        "screenshots": []
-      },
-      "publishing": {
-        "status": "published",
-        "channels": [
-          "app"
-        ]
-      }
-    },
-    {
-      "id": "frostpunk-ar",
-      "slug": "frostpunk-ar",
-      "gameTitle": "Frostpunk",
-      "alternateTitles": [
-        "تعريب Frostpunk",
-        "Frostpunk Arabic Translation"
-      ],
-      "platforms": [
-        "windows"
-      ],
-      "translationVersion": "0.5.1",
-      "gameVersion": "unknown",
-      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/frostpunk-ar/cover.png",
-      "summary": "تعريب Frostpunk العربي v0.5.1 بخطوط مهيأة ونظام حقن ونسخ احتياطي آمن.",
-      "description": "حزمة عربية مستقلة للعبة Frostpunk بإصدار تغليف 0.5.1 وحمولة ترجمة 0.5.0 المثبتة بالبصمات. تتحقق الواجهة من جذر اللعبة ومن سلامة الحمولة، ثم تحفظ الملفات الأصلية قبل الاستبدال وتتيح استرجاعها لاحقًا.",
-      "releaseDate": "2026-08-23",
-      "fileSize": 620768393,
-      "status": "published",
-      "package": {
-        "url": "https://github.com/ishak10123/Simsima-content/releases/download/frostpunk-ar-v0.5.1/frostpunk-ar-v0.5.1.zip",
-        "fileName": "frostpunk-ar-v0.5.1.zip",
-        "archiveType": "zip",
-        "size": 620768393,
-        "checksum": "sha256:4229067a105f2aaa40a1ff50987bc02e0fccb26f4dd9dc72a60eafb7c5201bdb"
-      },
-      "installer": {
-        "kind": "bat",
-        "entryFile": "Run_Simsima.vbs",
-        "requiresAdmin": false,
-        "launchMode": "extract_then_run",
-        "arguments": [],
-        "workingDirectory": "",
-        "supportsManualPath": false,
-        "manualPathRequired": false,
-        "cleanupOnSuccess": false,
-        "selfManagedUi": true
-      },
-      "instructions": {
-        "shortText": "أغلق Frostpunk، ثم استخدم التثبيت التلقائي أو اختر Frostpunk.exe من جذر اللعبة.",
-        "detailedText": "جرّب التثبيت التلقائي أولًا. إذا لم يعثر على اللعبة فاختر مسارًا يدويًا وحدد Frostpunk.exe الموجود بجوار common.dat وlocalizations.dat. لا تُغلق المثبت أثناء نسخ common.dat الكبير. يمكن إلغاء التثبيت من الواجهة نفسها ما دامت ملفات اللعبة لم تتغير بعد التثبيت.",
-        "screenshots": []
-      },
-      "publishing": {
-        "status": "published",
-        "channels": [
-          "app"
-        ]
-      }
-    },
-    {
-      "id": "captain-of-industry-ar",
-      "slug": "captain-of-industry-ar",
-      "gameTitle": "Captain of Industry",
-      "alternateTitles": [
-        "تعريب Captain of Industry",
-        "Captain of Industry Arabic Translation"
-      ],
-      "platforms": [
-        "windows"
-      ],
-      "translationVersion": "0.1.8",
-      "gameVersion": "v0.8.7",
-      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/captain-of-industry-ar/cover.png",
-      "summary": "تعريب عربي كامل للعبة Captain of Industry يشمل جميع المحتويات والإضافات وتحديث الفضاء، مع تثبيت تلقائي واسترجاع آمن.",
-      "description": "إصدار 0.1.8 متوافق مع تحديث اللعبة v0.8.7 (Update 4)، ويشمل 4768 نصا عربيا مع خط Noto Naskh Arabic والإصلاح الجذري الشامل لترتيب الأسطر العربية في جميع شاشات الدليل والرسائل والدروس. يدعم اختيار ملف التشغيل exe مباشرة في التثبيت اليدوي، وتحفظ نسخة أصلية قابلة للاسترجاع. بعد التثبيت اختر اللغة التركية داخل اللعبة.",
-      "releaseDate": "2026-08-19",
-      "fileSize": 26862553,
-      "status": "published",
-      "package": {
-        "url": "https://github.com/ishak10123/Simsima-content/releases/download/captain-of-industry-ar-v0.1.8/captain-of-industry-ar-v0.1.8.zip",
-        "fileName": "captain-of-industry-ar-v0.1.8.zip",
-        "archiveType": "zip",
-        "size": 26862553,
-        "checksum": "sha256:2265a341076683d7b609cf09f88d2e7ad63b538026492f00bfc0cecc8cca5171"
-      },
-      "installer": {
-        "kind": "bat",
-        "entryFile": "Run_Simsima.vbs",
-        "requiresAdmin": false,
-        "launchMode": "extract_then_run",
-        "arguments": [],
-        "workingDirectory": "",
-        "supportsManualPath": false,
-        "manualPathRequired": false,
-        "cleanupOnSuccess": false,
-        "selfManagedUi": true
-      },
-      "instructions": {
-        "shortText": "افتح الواجهة من Simsima ثم استخدم التثبيت التلقائي، أو حدد مجلد اللعبة يدويا عند الحاجة.",
-        "detailedText": "أغلق اللعبة قبل التثبيت. جرّب التثبيت التلقائي أولا. إذا لم تُكتشف اللعبة، اختر مجلد Captain of Industry الذي يحتوي على Translations/en.json وAssetBundles/ui toolkit_8c84. بعد نجاح التثبيت اختر اللغة التركية داخل اللعبة. يمكن استرجاع الملفين الأصليين من زر إلغاء التثبيت.",
-        "screenshots": []
-      },
-      "publishing": {
-        "status": "published",
-        "channels": [
-          "app"
-        ]
-      }
-    },
-    {
-      "id": "foundry-ar",
-      "slug": "foundry-ar",
-      "gameTitle": "FOUNDRY",
-      "alternateTitles": [
-        "تعريب FOUNDRY",
-        "FOUNDRY Arabic Translation"
-      ],
-      "platforms": [
-        "windows"
-      ],
-      "translationVersion": "0.1.6",
-      "gameVersion": "unknown",
-      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/foundry-ar/cover.png",
-      "summary": "تعريب عربي للعبة FOUNDRY بإصدار 0.1.6 مع واجهة تثبيت مستقلة ودعم التثبيت والاستعادة الآمنين.",
-      "description": "حزمة تعريب FOUNDRY العربية بإصدار 0.1.6 لنسخة Steam على Windows. تستبدل ملفات اللغة الإيطالية بترجمة عربية وتثبت ملحق خط عربي خاصًا بالحزمة، مع حفظ الحالة السابقة وإتاحتها للاستعادة من الواجهة نفسها. لا تتضمن الحزمة دعم Xbox أو Game Pass.",
-      "releaseDate": "2026-08-10",
-      "fileSize": 12702093,
-      "status": "published",
-      "package": {
-        "url": "https://github.com/ishak10123/Simsima-content/releases/download/foundry-ar-v0.1.6/foundry-ar-v0.1.6.zip",
-        "fileName": "foundry-ar-v0.1.6.zip",
-        "archiveType": "zip",
-        "size": 12702093,
-        "checksum": "sha256:1ef6c07dd84e43d9fd1a2bee6eb8bb74f5bf46e9c36f4e3178167b05332ec248"
-      },
-      "installer": {
-        "kind": "bat",
-        "entryFile": "Run_Simsima.vbs",
-        "requiresAdmin": false,
-        "launchMode": "extract_then_run",
-        "arguments": [],
-        "workingDirectory": "",
-        "supportsManualPath": false,
-        "manualPathRequired": false,
-        "cleanupOnSuccess": false,
-        "selfManagedUi": true
-      },
-      "instructions": {
-        "shortText": "أغلق اللعبة، افتح واجهة التثبيت، ثم جرّب التثبيت التلقائي أو حدد Foundry.exe يدويًا عند الحاجة.",
-        "detailedText": "بعد فتح واجهة التثبيت جرّب التثبيت التلقائي أولًا. إذا لم يُعثر على اللعبة، اضغط مسار يدوي وحدد Foundry.exe من جذر FOUNDRY. بعد نجاح التثبيت اختر Italiano من إعدادات اللغة، وأعد تشغيل اللعبة، واترك ملحق Simsima Arabic Font مفعّلًا من قائمة Mods. يمكن إلغاء التثبيت لاحقًا من الواجهة نفسها.",
-        "screenshots": []
-      },
-      "publishing": {
-        "status": "published",
-        "channels": [
-          "app"
-        ]
-      }
-    },
-    {
-      "id": "palworld-ar",
-      "slug": "palworld-ar",
-      "gameTitle": "Palworld",
-      "alternateTitles": [
-        "تعريب Palworld",
-        "Palworld Arabic Translation"
-      ],
-      "platforms": [
-        "windows"
-      ],
-      "translationVersion": "0.2.4",
-      "gameVersion": "unknown",
-      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/palworld-ar/cover.png",
-      "summary": "تعريب Palworld 0.2.4 المصحح لنسختي Steam وXbox PC / Game Pass.",
-      "description": "يصحح الإصدار 0.2.4 بنية ZIP ليجد Simsima ملف التشغيل مباشرة بعد فك الحزمة. تبقى حمولتا Steam وXbox المختبرتان دون تغيير: ملف PAK لنسخة Steam وملفات IoStore لنسخة Xbox. يعمل التعريب عبر مسار اللغة الإنجليزية دون تغيير لغة Windows، مع تثبيت وإلغاء تثبيت ونسخ احتياطي مستقل لكل منصة.",
-      "releaseDate": "2026-08-10",
-      "fileSize": 22341363,
-      "status": "published",
-      "package": {
-        "url": "https://github.com/ishak10123/Simsima-content/releases/download/palworld-ar-v0.2.4/palworld-ar-v0.2.4.zip",
-        "fileName": "palworld-ar-v0.2.4.zip",
-        "archiveType": "zip",
-        "size": 22341363,
-        "checksum": "sha256:632bb0ce97e76ba5e6f6c7b651b122d5779b2bfdeac1430f757c6965dce7cc03"
-      },
-      "installer": {
-        "kind": "bat",
-        "entryFile": "Run_Simsima.vbs",
-        "requiresAdmin": false,
-        "launchMode": "extract_then_run",
-        "arguments": [],
-        "workingDirectory": "",
-        "supportsManualPath": false,
-        "manualPathRequired": false,
-        "cleanupOnSuccess": false,
-        "selfManagedUi": true
-      },
-      "instructions": {
-        "shortText": "اختر Steam أو Xbox PC / Game Pass من واجهة الحزمة، ثم ثبّت النسخة المحددة تلقائيا أو عبر مسار يدوي.",
-        "detailedText": "لنسخة Steam اختر Palworld.exe أو ملف Win64. لنسخة Xbox اختر MicrosoftGame.config أو gamelaunchhelper.exe أو ملفا من جذر اللعبة. يعمل التعريب عبر اللغة الإنجليزية تلقائيا ولا تحتاج إلى تغيير لغة اللعبة أو Windows. يمكن إلغاء التثبيت واستعادة النسخة السابقة من الواجهة نفسها.",
+        "shortText": "\u0627\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u062B\u0645 \u0627\u0636\u063A\u0637 \u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0639\u0631\u064A\u0628 \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u062D\u062F\u062F \u0645\u0633\u0627\u0631 Citizen Sleeper 2.exe \u064A\u062F\u0648\u064A\u0627\u064B.",
+        "detailedText": "\u0627\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u0648\u0627\u0636\u063A\u0637 \u0027\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0639\u0631\u064A\u0628\u0027. \u0625\u0630\u0627 \u0644\u0645 \u064A\u062A\u0645 \u0627\u0643\u062A\u0634\u0627\u0641 \u0627\u0644\u0644\u0639\u0628\u0629 \u062A\u0644\u0642\u0627\u0626\u064A\u0627\u064B\u060C \u0627\u0636\u063A\u0637 \u0027\u0645\u0633\u0627\u0631 \u064A\u062F\u0648\u064A\u0027 \u0648\u0627\u062E\u062A\u0631 Citizen Sleeper 2.exe \u0645\u0646 \u0645\u062C\u0644\u062F \u0627\u0644\u0644\u0639\u0628\u0629. \u0628\u0639\u062F \u0627\u0643\u062A\u0645\u0627\u0644 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0634\u063A\u0651\u0644 \u0627\u0644\u0644\u0639\u0628\u0629 \u0648\u0627\u062E\u062A\u0631 \u0644\u063A\u0629 Fran\u00E7ais \u0645\u0646 \u0642\u0627\u0626\u0645\u0629 Settings -\u003E Language. \u064A\u0645\u0643\u0646\u0643 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0648\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0623\u0635\u0644\u064A\u0629 \u0628\u0646\u0642\u0631\u0629 \u0648\u0627\u062D\u062F\u0629 \u0645\u0646 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0646\u0641\u0633\u0647\u0627.",
         "screenshots": []
       },
       "publishing": {
@@ -457,7 +58,7 @@
       "slug": "project-zomboid-ar",
       "gameTitle": "Project Zomboid",
       "alternateTitles": [
-        "تعريب Project Zomboid",
+        "\u062A\u0639\u0631\u064A\u0628 Project Zomboid",
         "Project Zomboid Arabic Translation"
       ],
       "platforms": [
@@ -466,8 +67,8 @@
       "translationVersion": "0.2.4",
       "gameVersion": "42.20.x",
       "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/project-zomboid-ar/cover.png",
-      "summary": "تعريب عربي مرئي من اليمين إلى اليسار للعبة Project Zomboid Build 42 مع خطوط Vazirmatn ومثبّت آمن.",
-      "description": "حزمة Project Zomboid العربية 0.2.4 تتضمن 47249 نصا معتمدا و78 ملف ترجمة وخط وتشغيل. تثبت في خانة SIMA_AR المستقلة، وتحافظ على AR الرسمية، وتوفر كشف Steam والنسخ الاحتياطي والاستعادة دون تشغيل اللعبة.",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0645\u0631\u0626\u064A \u0645\u0646 \u0627\u0644\u064A\u0645\u064A\u0646 \u0625\u0644\u0649 \u0627\u0644\u064A\u0633\u0627\u0631 \u0644\u0644\u0639\u0628\u0629 Project Zomboid Build 42 \u0645\u0639 \u062E\u0637\u0648\u0637 Vazirmatn \u0648\u0645\u062B\u0628\u0651\u062A \u0622\u0645\u0646.",
+      "description": "\u062D\u0632\u0645\u0629 Project Zomboid \u0627\u0644\u0639\u0631\u0628\u064A\u0629 0.2.4 \u062A\u062A\u0636\u0645\u0646 47249 \u0646\u0635\u0627 \u0645\u0639\u062A\u0645\u062F\u0627 \u064878 \u0645\u0644\u0641 \u062A\u0631\u062C\u0645\u0629 \u0648\u062E\u0637 \u0648\u062A\u0634\u063A\u064A\u0644. \u062A\u062B\u0628\u062A \u0641\u064A \u062E\u0627\u0646\u0629 SIMA_AR \u0627\u0644\u0645\u0633\u062A\u0642\u0644\u0629\u060C \u0648\u062A\u062D\u0627\u0641\u0638 \u0639\u0644\u0649 AR \u0627\u0644\u0631\u0633\u0645\u064A\u0629\u060C \u0648\u062A\u0648\u0641\u0631 \u0643\u0634\u0641 Steam \u0648\u0627\u0644\u0646\u0633\u062E \u0627\u0644\u0627\u062D\u062A\u064A\u0627\u0637\u064A \u0648\u0627\u0644\u0627\u0633\u062A\u0639\u0627\u062F\u0629 \u062F\u0648\u0646 \u062A\u0634\u063A\u064A\u0644 \u0627\u0644\u0644\u0639\u0628\u0629.",
       "releaseDate": "2026-09-09",
       "fileSize": 14450952,
       "status": "published",
@@ -491,8 +92,458 @@
         "selfManagedUi": true
       },
       "instructions": {
-        "shortText": "أغلق اللعبة، افتح واجهة التثبيت، ثم استخدم التثبيت التلقائي أو حدد ملف ProjectZomboid64.exe يدويا.",
-        "detailedText": "يبحث المثبّت عن Project Zomboid في مكتبات Steam، ويتحقق من الحمولة، ويحفظ نسخة احتياطية، ثم يثبت SIMA_AR والخطوط العربية ويختار اللغة. لا يشغّل اللعبة. يمكن التراجع بأمان من زر إلغاء التثبيت أو تحديد ملف ProjectZomboid64.exe يدويا.",
+        "shortText": "\u0623\u063A\u0644\u0642 \u0627\u0644\u0644\u0639\u0628\u0629\u060C \u0627\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u062B\u0645 \u0627\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u062D\u062F\u062F \u0645\u0644\u0641 ProjectZomboid64.exe \u064A\u062F\u0648\u064A\u0627.",
+        "detailedText": "\u064A\u0628\u062D\u062B \u0627\u0644\u0645\u062B\u0628\u0651\u062A \u0639\u0646 Project Zomboid \u0641\u064A \u0645\u0643\u062A\u0628\u0627\u062A Steam\u060C \u0648\u064A\u062A\u062D\u0642\u0642 \u0645\u0646 \u0627\u0644\u062D\u0645\u0648\u0644\u0629\u060C \u0648\u064A\u062D\u0641\u0638 \u0646\u0633\u062E\u0629 \u0627\u062D\u062A\u064A\u0627\u0637\u064A\u0629\u060C \u062B\u0645 \u064A\u062B\u0628\u062A SIMA_AR \u0648\u0627\u0644\u062E\u0637\u0648\u0637 \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0648\u064A\u062E\u062A\u0627\u0631 \u0627\u0644\u0644\u063A\u0629. \u0644\u0627 \u064A\u0634\u063A\u0651\u0644 \u0627\u0644\u0644\u0639\u0628\u0629. \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0631\u0627\u062C\u0639 \u0628\u0623\u0645\u0627\u0646 \u0645\u0646 \u0632\u0631 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0623\u0648 \u062A\u062D\u062F\u064A\u062F \u0645\u0644\u0641 ProjectZomboid64.exe \u064A\u062F\u0648\u064A\u0627.",
+        "screenshots": []
+      },
+      "publishing": {
+        "status": "published",
+        "channels": [
+          "app"
+        ]
+      }
+    },
+    {
+      "id": "timberborn-ar",
+      "slug": "timberborn-ar",
+      "gameTitle": "Timberborn",
+      "alternateTitles": [
+        "\u062A\u0639\u0631\u064A\u0628 Timberborn",
+        "Timberborn Arabic Translation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "translationVersion": "0.1.0",
+      "gameVersion": "1.0.0.0",
+      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/timberborn-ar/cover.png",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0645\u062A\u0643\u0627\u0645\u0644 \u0648\u062F\u0639\u0645 \u0643\u0627\u0645\u0644 \u0644\u0644\u062E\u0637\u0648\u0637 \u0644\u0644\u0639\u0628\u0629 Timberborn (\u0627\u0644\u0625\u0635\u062F\u0627\u0631 0.1.0) \u0628\u0648\u0627\u0633\u0637\u0629 \u0645\u062D\u0631\u0643 \u0633\u0645\u0633\u0645\u0629.",
+      "description": "\u062D\u0632\u0645\u0629 \u062A\u0639\u0631\u064A\u0628 Timberborn \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0628\u0625\u0635\u062F\u0627\u0631 0.1.0\u060C \u062A\u062A\u0636\u0645\u0646 \u062A\u0631\u062C\u0645\u0629 \u0643\u0627\u0645\u0644\u0629 \u0644\u0644\u0646\u0635\u0648\u0635\u060C \u0623\u0633\u0645\u0627\u0621 \u0627\u0644\u0642\u0646\u0627\u062F\u0633\u060C \u0648\u062A\u0648\u062C\u064A\u0647 \u0627\u0644\u0646\u0635\u0648\u0635 Visual RTL \u0648\u062F\u0639\u0645 \u062E\u0637\u0648\u0637 Noto Sans Arabic \u0648 Segoe UI. \u064A\u062A\u064A\u062D \u0628\u0631\u0646\u0627\u0645\u062C Simsima \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u062A\u062D\u062F\u064A\u062F \u0645\u0633\u0627\u0631 \u0627\u0644\u0644\u0639\u0628\u0629 \u064A\u062F\u0648\u064A\u0627\u064B\u060C \u0645\u0639 \u0625\u0645\u0643\u0627\u0646\u064A\u0629 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0644\u0627\u062D\u0642\u0627\u064B.",
+      "releaseDate": "2026-09-07",
+      "fileSize": 12450152,
+      "status": "published",
+      "package": {
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/timberborn-ar-v0.1.0/timberborn-ar-v0.1.0.zip",
+        "fileName": "timberborn-ar-v0.1.0.zip",
+        "archiveType": "zip",
+        "size": 12450152,
+        "checksum": "sha256:e45c602d208dad13d0a5bb077e65c74711184698ab6e983ecaf4b30790a06949"
+      },
+      "installer": {
+        "kind": "bat",
+        "entryFile": "Run_Simsima.vbs",
+        "requiresAdmin": false,
+        "launchMode": "extract_then_run",
+        "arguments": [],
+        "workingDirectory": "",
+        "supportsManualPath": false,
+        "manualPathRequired": false,
+        "cleanupOnSuccess": false,
+        "selfManagedUi": true
+      },
+      "instructions": {
+        "shortText": "\u0627\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0645\u0646 Simsima\u060C \u062B\u0645 \u0627\u062E\u062A\u0631 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u062D\u062F\u062F \u0645\u0633\u0627\u0631 \u0627\u0644\u0644\u0639\u0628\u0629 \u064A\u062F\u0648\u064A\u0627\u064B \u0639\u0646\u062F \u0627\u0644\u062D\u0627\u062C\u0629.",
+        "detailedText": "\u0628\u0639\u062F \u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u0627\u0636\u063A\u0637 \u062A\u062B\u0628\u064A\u062A \u062A\u0644\u0642\u0627\u0626\u064A \u0644\u0644\u0628\u062D\u062B \u0639\u0646 \u0627\u0644\u0644\u0639\u0628\u0629 \u0648\u0645\u062C\u0644\u062F \u0627\u0644\u0645\u0648\u062F\u0627\u062A \u0648\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0639\u0631\u064A\u0628. \u0625\u0630\u0627 \u0644\u0645 \u064A\u062A\u0645 \u0627\u0644\u0639\u062B\u0648\u0631 \u0639\u0644\u0649 \u0627\u0644\u0644\u0639\u0628\u0629 \u062A\u0644\u0642\u0627\u0626\u064A\u0627\u064B\u060C \u0627\u0636\u063A\u0637 \u0645\u0633\u0627\u0631 \u064A\u062F\u0648\u064A \u0648\u0627\u062E\u062A\u0631 \u0645\u0644\u0641 Timberborn.exe \u0623\u0648 \u0645\u062C\u0644\u062F \u0627\u0644\u0644\u0639\u0628\u0629. \u0628\u0639\u062F \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u0634\u063A\u0651\u0644 \u0644\u0639\u0628\u0629 Timberborn \u0648\u062A\u0623\u0643\u062F \u0645\u0646 \u062A\u0641\u0639\u064A\u0644 \u0627\u0644\u0645\u0648\u062F \u0645\u0646 \u0642\u0627\u0626\u0645\u0629 Mods\u060C \u0648\u0627\u062E\u062A\u0631 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629 \u0645\u0646 \u0627\u0644\u0625\u0639\u062F\u0627\u062F\u0627\u062A \u0648\u0633\u062A\u0638\u0647\u0631 \u0627\u0644\u0644\u0639\u0628\u0629 \u0628\u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0641\u0648\u0631\u0627\u064B.",
+        "screenshots": []
+      },
+      "publishing": {
+        "status": "published",
+        "channels": [
+          "app"
+        ]
+      }
+    },
+    {
+      "id": "space-haven-ar",
+      "slug": "space-haven-ar",
+      "gameTitle": "Space Haven",
+      "alternateTitles": [
+        "\u062A\u0639\u0631\u064A\u0628 Space Haven",
+        "Space Haven Arabic Translation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "translationVersion": "0.1.1",
+      "gameVersion": "unknown",
+      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/space-haven-ar/cover.png",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0643\u0627\u0645\u0644 \u0644\u0644\u0639\u0628\u0629 Space Haven \u0627\u0644\u0625\u0635\u062F\u0627\u0631 0.1.1 \u0645\u0639 \u0646\u0638\u0627\u0645 \u0627\u0644\u062A\u0642\u0637\u064A\u0639 \u0627\u0644\u0630\u0643\u064A Smart Pre-Wrapping \u0648\u0648\u0627\u062C\u0647\u0629 \u062A\u062B\u0628\u064A\u062A \u0630\u0627\u062A\u064A\u0629 \u0627\u0644\u0625\u062F\u0627\u0631\u0629.",
+      "description": "\u062D\u0632\u0645\u0629 \u062A\u0639\u0631\u064A\u0628 \u0644\u0639\u0628\u0629 Space Haven \u0627\u0644\u0625\u0635\u062F\u0627\u0631 v0.1.1. \u062A\u062D\u062A\u0648\u064A \u0639\u0644\u0649 6,829 \u0645\u0642\u0637\u0639\u0627\u064B \u0645\u0639\u062A\u0645\u062F\u0627\u064B \u0645\u0639 \u062D\u0644 \u062C\u0630\u0631\u064A \u0644\u0645\u0634\u0643\u0644\u0629 \u0642\u0631\u0627\u0621\u0629 \u0627\u0644\u0633\u0637\u0648\u0631 \u0627\u0644\u0645\u0644\u062A\u0641\u0629 \u0639\u0628\u0631 \u062E\u0648\u0627\u0631\u0632\u0645\u064A\u0629 \u0627\u0644\u062A\u0642\u0637\u064A\u0639 \u0627\u0644\u0645\u0633\u0628\u0642 \u0627\u0644\u0630\u0643\u064A (Smart Pre-Wrapping) \u0648\u0639\u0643\u0633 BiDi \u0627\u0644\u0645\u0633\u062A\u0642\u0644 \u0644\u0643\u0644 \u0633\u0637\u0631\u060C \u0648\u062E\u0637 \u0639\u0631\u0628\u064A \u0645\u062A\u0646\u0627\u0633\u0642 (Tahoma) \u0645\u0631\u0628\u0648\u0637 \u0628\u062C\u0645\u064A\u0639 \u0623\u0646\u0645\u0627\u0637 \u062E\u0637\u0648\u0637 \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0640 12. \u062A\u062A\u064A\u062D \u0648\u0627\u062C\u0647\u0629 Simsima \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0639\u0628\u0631 Steam \u0623\u0648 \u062A\u062D\u062F\u064A\u062F \u0645\u062C\u0644\u062F \u0627\u0644\u0644\u0639\u0628\u0629 \u064A\u062F\u0648\u064A\u0627\u064B\u060C \u0645\u0639 \u0646\u0633\u062E \u0627\u062D\u062A\u064A\u0627\u0637\u064A \u0622\u0645\u0646 \u0648\u0625\u0645\u0643\u0627\u0646\u064A\u0629 \u0627\u0644\u0625\u0632\u0627\u0644\u0629 \u0648\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0627\u0644\u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0623\u0635\u0644\u064A\u0629 \u0628\u0646\u0642\u0631\u0629 \u0648\u0627\u062D\u062F\u0629. \u0628\u0639\u062F \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u0627\u062E\u062A\u0631 \u0644\u063A\u0629 \u0627\u0644\u0639\u0631\u0628\u064A\u0629 (Arabic) \u0645\u0646 \u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0644\u063A\u0627\u062A \u0641\u064A \u0627\u0644\u0644\u0639\u0628\u0629 (\u0645\u0648\u0642\u0639 \u0644\u063A\u0629 \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629 ES \u0633\u0627\u0628\u0642\u0627\u064B).",
+      "releaseDate": "2026-09-05",
+      "fileSize": 13373660,
+      "status": "published",
+      "package": {
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/space-haven-ar-v0.1.1/space-haven-ar-v0.1.1.zip",
+        "fileName": "space-haven-ar-v0.1.1.zip",
+        "archiveType": "zip",
+        "size": 13373660,
+        "checksum": "sha256:c22e49a67f4489262669bc65f2209abfd5546a4a7a81c667cb2f8eff23d9faaf"
+      },
+      "installer": {
+        "kind": "bat",
+        "entryFile": "Run_Simsima.vbs",
+        "requiresAdmin": false,
+        "launchMode": "extract_then_run",
+        "arguments": [],
+        "workingDirectory": "",
+        "supportsManualPath": false,
+        "manualPathRequired": false,
+        "cleanupOnSuccess": false,
+        "selfManagedUi": true
+      },
+      "instructions": {
+        "shortText": "\u0627\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0645\u0646 Simsima\u060C \u062B\u0645 \u0627\u0636\u063A\u0637 \u062A\u062B\u0628\u064A\u062A \u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u062D\u062F\u062F \u0645\u0633\u0627\u0631 \u0627\u0644\u0644\u0639\u0628\u0629 \u064A\u062F\u0648\u064A\u0627\u064B.",
+        "detailedText": "\u0628\u0639\u062F \u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u062C\u0631\u0651\u0628 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648\u0644\u0627\u064B \u0644\u0627\u0643\u062A\u0634\u0627\u0641 \u0627\u0644\u0644\u0639\u0628\u0629 \u0639\u0644\u0649 Steam. \u0625\u0630\u0627 \u0644\u0645 \u064A\u062A\u0645 \u0627\u0644\u0639\u062B\u0648\u0631 \u0639\u0644\u064A\u0647\u0627\u060C \u0627\u0636\u063A\u0637 \u0645\u0633\u0627\u0631 \u064A\u062F\u0648\u064A \u0648\u0627\u062E\u062A\u0631 \u0645\u0644\u0641 spacehaven.exe \u0623\u0648 spacehaven.jar \u0645\u0646 \u0645\u062C\u0644\u062F \u0627\u0644\u0644\u0639\u0628\u0629. \u0628\u0639\u062F \u0627\u0643\u062A\u0645\u0627\u0644 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u0627\u0641\u062A\u062D \u0627\u0644\u0644\u0639\u0628\u0629 \u0648\u0627\u062E\u062A\u0631 \u0627\u0644\u0639\u0631\u0628\u064A\u0629 (Arabic) \u0645\u0646 \u0625\u0639\u062F\u0627\u062F\u0627\u062A \u0627\u0644\u0644\u063A\u0629. \u064A\u0645\u0643\u0646\u0643 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0644\u0627\u062D\u0642\u0627\u064B \u0628\u0646\u0642\u0631\u0629 \u0648\u0627\u062D\u062F\u0629 \u0645\u0646 \u0646\u0641\u0633 \u0627\u0644\u0648\u0627\u062C\u0647\u0629.",
+        "screenshots": []
+      },
+      "publishing": {
+        "status": "published",
+        "channels": [
+          "app"
+        ]
+      }
+    },
+    {
+      "id": "planet-crafter-ar",
+      "slug": "planet-crafter-ar",
+      "gameTitle": "The Planet Crafter",
+      "alternateTitles": [
+        "\u062A\u0639\u0631\u064A\u0628 The Planet Crafter",
+        "\u0628\u0644\u0627\u0646\u062A \u0643\u0631\u0627\u0641\u062A\u0631"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "translationVersion": "1.0.4",
+      "gameVersion": "Steam build 24452417",
+      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/planet-crafter-ar/cover.png",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0634\u0627\u0645\u0644 \u0648\u0627\u062D\u062A\u0631\u0627\u0641\u064A \u0644\u0644\u0639\u0628\u0629 The Planet Crafter \u0645\u062A\u0648\u0627\u0641\u0642 \u0645\u0639 \u062A\u062D\u062F\u064A\u062B \u0643\u0648\u0643\u0628 Skeo \u0648\u0628\u0646\u0627\u0621 Steam \u0627\u0644\u0623\u062E\u064A\u0631.",
+      "description": "\u064A\u0642\u062F\u0645 \u0627\u0644\u0625\u0635\u062F\u0627\u0631 1.0.4 \u0625\u0639\u0627\u062F\u0629 \u062A\u0631\u062C\u0645\u0629 \u0643\u0627\u0645\u0644\u0629 \u0644\u0644\u0639\u0628\u0629 \u0645\u0646 \u0627\u0644\u0635\u0641\u0631 \u0628\u0646\u0645\u0648\u0630\u062C DeepSeek \u0627\u0644\u0630\u0643\u064A\u060C \u0645\u062A\u0636\u0645\u0646\u0629\u064B \u062C\u0645\u064A\u0639 \u0646\u0635\u0648\u0635 \u0627\u0644\u062A\u062D\u062F\u064A\u062B \u0627\u0644\u0623\u062E\u064A\u0631 \u0648\u062A\u062D\u062F\u064A\u062B \u0643\u0648\u0643\u0628 Skeo\u060C \u0645\u0639 \u0625\u0635\u0644\u0627\u062D \u0627\u0644\u062A\u0631\u062C\u0645\u0627\u062A \u0627\u0644\u062D\u0631\u0641\u064A\u0629 \u0627\u0644\u0642\u062F\u064A\u0645\u0629 \u0644\u0623\u0633\u0645\u0627\u0621 \u0627\u0644\u0643\u0648\u0627\u0643\u0628 \u0648\u0623\u0637\u0648\u0627\u0631 \u0627\u0644\u0644\u0639\u0628\u060C \u0648\u062A\u0634\u0643\u064A\u0644 \u0628\u0635\u0631\u064A \u0633\u0644\u064A\u0645 \u0648\u0645\u062B\u0628\u062A \u0622\u0645\u0646 \u0628\u0645\u0639\u0627\u0645\u0644\u0629 \u0645\u062A\u0648\u0627\u0641\u0642\u0629 \u0645\u0639 \u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0644\u0639\u0628\u0629. \u0628\u0639\u062F \u0646\u062C\u0627\u062D \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0641\u062A\u062D \u0627\u0644\u0644\u0639\u0628\u0629 \u0648\u0627\u062E\u062A\u0631 Turkish \u0645\u0646 \u0625\u0639\u062F\u0627\u062F\u0627\u062A \u0627\u0644\u0644\u063A\u0629 \u0644\u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0627\u0644\u0646\u0635 \u0627\u0644\u0639\u0631\u0628\u064A.",
+      "releaseDate": "2026-09-05",
+      "fileSize": 31834158,
+      "status": "published",
+      "package": {
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/planet-crafter-ar-v1.0.4/planet-crafter-ar-v1.0.4.zip",
+        "fileName": "planet-crafter-ar-v1.0.4.zip",
+        "archiveType": "zip",
+        "size": 31834158,
+        "checksum": "sha256:f46915f4c5349e220afbb49c1845d9b6e9a0e1fc0f05f34fcdd1a5fef52eb878"
+      },
+      "installer": {
+        "kind": "exe",
+        "entryFile": "Run_Simsima.vbs",
+        "requiresAdmin": false,
+        "launchMode": "extract_then_run",
+        "arguments": [],
+        "workingDirectory": "",
+        "supportsManualPath": false,
+        "manualPathRequired": false,
+        "cleanupOnSuccess": false,
+        "selfManagedUi": true
+      },
+      "instructions": {
+        "shortText": "\u0627\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u062B\u0645 \u0627\u062E\u062A\u0631 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u062D\u062F\u062F \u0645\u062C\u0644\u062F \u0627\u0644\u0644\u0639\u0628\u0629 \u064A\u062F\u0648\u064A\u064B\u0627.",
+        "detailedText": "\u0623\u063A\u0644\u0642 \u0627\u0644\u0644\u0639\u0628\u0629 \u0642\u0628\u0644 \u0627\u0644\u062A\u062B\u0628\u064A\u062A. \u064A\u062C\u0628 \u0623\u0646 \u064A\u062D\u062A\u0648\u064A \u0645\u062C\u0644\u062F \u0627\u0644\u0644\u0639\u0628\u0629 \u0639\u0644\u0649 Planet Crafter.exe \u0648\u0645\u062C\u0644\u062F Planet Crafter_Data. \u0628\u0639\u062F \u0646\u062C\u0627\u062D \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0641\u062A\u062D \u0627\u0644\u0644\u0639\u0628\u0629 \u0648\u0627\u062E\u062A\u0631 Turkish \u0645\u0646 \u0625\u0639\u062F\u0627\u062F\u0627\u062A \u0627\u0644\u0644\u063A\u0629. \u0627\u0633\u062A\u062E\u062F\u0645 \u0632\u0631 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u062F\u0627\u062E\u0644 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0644\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0627\u0644\u0645\u0644\u0641\u064A\u0646 \u0627\u0644\u0623\u0635\u0644\u064A\u064A\u0646.",
+        "screenshots": []
+      },
+      "publishing": {
+        "status": "published",
+        "channels": [
+          "app"
+        ]
+      }
+    },
+    {
+      "id": "diplomacy-is-not-an-option-ar",
+      "slug": "diplomacy-is-not-an-option-ar",
+      "gameTitle": "Diplomacy is Not an Option",
+      "alternateTitles": [
+        "\u062A\u0639\u0631\u064A\u0628 Diplomacy is Not an Option",
+        "Diplomacy is Not an Option Arabic Translation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "translationVersion": "0.3.0",
+      "gameVersion": "unknown",
+      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/diplomacy-is-not-an-option-ar/cover.png",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0643\u0627\u0645\u0644 \u0644\u0644\u0639\u0628\u0629 Diplomacy is Not an Option \u0627\u0644\u0625\u0635\u062F\u0627\u0631 0.3.0 \u0645\u0639 \u062F\u0639\u0645 \u0627\u0644\u062E\u0637 \u0627\u0644\u0639\u0631\u0628\u064A \u0648\u0627\u0644\u0645\u062D\u0627\u0630\u0627\u0629 \u0648\u0648\u0627\u062C\u0647\u0629 \u062A\u062B\u0628\u064A\u062A \u0630\u0627\u062A\u064A\u0629 \u0627\u0644\u0625\u062F\u0627\u0631\u0629.",
+      "description": "\u062D\u0632\u0645\u0629 \u062A\u0639\u0631\u064A\u0628 \u0644\u0639\u0628\u0629 Diplomacy is Not an Option \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0627\u0644\u0625\u0635\u062F\u0627\u0631 0.3.0. \u062A\u062A\u0636\u0645\u0646 \u0645\u0631\u0627\u062C\u0639\u0629 \u0648\u062A\u062F\u0642\u064A\u0642\u0627\u064B \u0643\u0627\u0645\u0644\u0627\u064B \u0644\u0640 7,326 \u0645\u0642\u0637\u0639\u0627\u064B \u0628\u0646\u0633\u0628\u0629 100% \u0645\u0639 \u062E\u0637 Cairo \u0648\u062F\u0639\u0645 \u0627\u0644\u0645\u062D\u0627\u0630\u0627\u0629 \u0645\u0646 \u0627\u0644\u064A\u0645\u064A\u0646 \u0625\u0644\u0649 \u0627\u0644\u064A\u0633\u0627\u0631 (Visual RTL). \u064A\u062A\u064A\u062D \u0628\u0631\u0646\u0627\u0645\u062C Simsima \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0648\u0627\u0643\u062A\u0634\u0627\u0641 \u0627\u0644\u0644\u0639\u0628\u0629 \u0639\u0644\u0649 Steam \u0623\u0648 \u0627\u062E\u062A\u064A\u0627\u0631 \u0645\u0644\u0641 \u0627\u0644\u062A\u0634\u063A\u064A\u0644 \u064A\u062F\u0648\u064A\u0627\u064B\u060C \u0645\u0639 \u0625\u0645\u0643\u0627\u0646\u064A\u0629 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0648\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0623\u0635\u0644\u064A\u0629 \u0641\u064A \u0623\u064A \u0648\u0642\u062A. \u0628\u0639\u062F \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u062E\u062A\u0631 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629 (English) \u0645\u0646 \u0625\u0639\u062F\u0627\u062F\u0627\u062A \u0627\u0644\u0644\u0639\u0628\u0629.",
+      "releaseDate": "2026-09-03",
+      "fileSize": 13888999,
+      "status": "published",
+      "package": {
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/diplomacy-is-not-an-option-ar-v0.3.0/diplomacy-is-not-an-option-ar-v0.3.0.zip",
+        "fileName": "diplomacy-is-not-an-option-ar-v0.3.0.zip",
+        "archiveType": "zip",
+        "size": 13888999,
+        "checksum": "sha256:cc86535803c4aa3d8c3ca095c7108ecc9e4370ef9c7f9df59954537d438d68fb"
+      },
+      "installer": {
+        "kind": "bat",
+        "entryFile": "Run_Simsima.vbs",
+        "requiresAdmin": false,
+        "launchMode": "extract_then_run",
+        "arguments": [],
+        "workingDirectory": "",
+        "supportsManualPath": false,
+        "manualPathRequired": false,
+        "cleanupOnSuccess": false,
+        "selfManagedUi": true
+      },
+      "instructions": {
+        "shortText": "\u0627\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0645\u0646 Simsima\u060C \u062B\u0645 \u0627\u0636\u063A\u0637 \u062A\u062B\u0628\u064A\u062A \u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u062D\u062F\u062F \u0645\u0633\u0627\u0631 \u0627\u0644\u0644\u0639\u0628\u0629 \u064A\u062F\u0648\u064A\u0627\u064B.",
+        "detailedText": "\u0628\u0639\u062F \u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u062C\u0631\u0651\u0628 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648\u0644\u0627\u064B \u0644\u0627\u0643\u062A\u0634\u0627\u0641 \u0627\u0644\u0644\u0639\u0628\u0629 \u0639\u0644\u0649 Steam. \u0625\u0630\u0627 \u0644\u0645 \u064A\u062A\u0645 \u0627\u0644\u0639\u062B\u0648\u0631 \u0639\u0644\u064A\u0647\u0627\u060C \u0627\u0636\u063A\u0637 \u0645\u0633\u0627\u0631 \u064A\u062F\u0648\u064A \u0648\u0627\u062E\u062A\u0631 \u0645\u0644\u0641 Diplomacy is Not an Option.exe \u0645\u0646 \u0645\u062C\u0644\u062F \u0627\u0644\u0644\u0639\u0628\u0629. \u0628\u0639\u062F \u0627\u0643\u062A\u0645\u0627\u0644 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u0627\u0641\u062A\u062D \u0627\u0644\u0644\u0639\u0628\u0629 \u0648\u0627\u062E\u062A\u0631 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629 \u0645\u0646 \u0625\u0639\u062F\u0627\u062F\u0627\u062A \u0627\u0644\u0644\u063A\u0629 \u0644\u062A\u0641\u0639\u064A\u0644 \u0627\u0644\u062A\u0639\u0631\u064A\u0628. \u064A\u0645\u0643\u0646\u0643 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0644\u0627\u062D\u0642\u0627\u064B \u0628\u0646\u0642\u0631\u0629 \u0648\u0627\u062D\u062F\u0629 \u0645\u0646 \u0646\u0641\u0633 \u0627\u0644\u0648\u0627\u062C\u0647\u0629.",
+        "screenshots": []
+      },
+      "publishing": {
+        "status": "published",
+        "channels": [
+          "app"
+        ]
+      }
+    },
+    {
+      "id": "norland-ar",
+      "slug": "norland-ar",
+      "gameTitle": "Norland",
+      "alternateTitles": [
+        "\u062A\u0639\u0631\u064A\u0628 Norland",
+        "Norland Arabic Translation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "translationVersion": "0.2.1",
+      "gameVersion": "unknown",
+      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/norland-ar/cover.png",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0644\u0644\u0639\u0628\u0629 Norland \u0628\u0625\u0635\u062F\u0627\u0631 0.2.1 \u0645\u0639 \u0648\u0627\u062C\u0647\u0629 \u062A\u062B\u0628\u064A\u062A \u0648\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0633\u0647\u0644\u0629 \u0648\u062F\u0639\u0645 \u0627\u0644\u062E\u0637 \u0627\u0644\u0639\u0631\u0628\u064A.",
+      "description": "\u062D\u0632\u0645\u0629 \u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A\u0629 \u0644\u0644\u0639\u0628\u0629 Norland \u062A\u062A\u0636\u0645\u0646 11,463 \u0645\u0642\u0637\u0639\u064B\u0627 \u0645\u062A\u0631\u062C\u0645\u064B\u0627 \u0648\u062E\u0637\u0648\u0637 Noto Sans Arabic. \u064A\u062D\u062F\u0651\u062B \u0627\u0644\u0625\u0635\u062F\u0627\u0631 0.2.1 \u0646\u0638\u0627\u0645 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0648\u0627\u0644\u062D\u0642\u0646 \u0645\u0639 \u0625\u0628\u0642\u0627\u0621 \u0645\u062D\u062A\u0648\u0649 \u0627\u0644\u062A\u0631\u062C\u0645\u0629 \u0645\u0646 \u0627\u0644\u0625\u0635\u062F\u0627\u0631 0.2.0\u060C \u0648\u064A\u0646\u0634\u0626 \u0646\u0633\u062E\u0629 \u0627\u062D\u062A\u064A\u0627\u0637\u064A\u0629 \u0642\u0628\u0644 \u0627\u0633\u062A\u0628\u062F\u0627\u0644 \u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0644\u063A\u0629 \u0648\u0627\u0644\u062E\u0637\u0648\u0637 \u0644\u0625\u062A\u0627\u062D\u0629 \u0627\u0644\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0627\u0644\u0622\u0645\u0646.",
+      "releaseDate": "2026-08-24",
+      "fileSize": 20530118,
+      "status": "published",
+      "package": {
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/norland-ar-v0.2.1/norland-ar-v0.2.1.zip",
+        "fileName": "norland-ar-v0.2.1.zip",
+        "archiveType": "zip",
+        "size": 20530118,
+        "checksum": "sha256:6063b0b6329676f662b9a03356aff223e83cdbb2769e5f3ec59d7be83e28b2f3"
+      },
+      "installer": {
+        "kind": "bat",
+        "entryFile": "Run_Simsima.vbs",
+        "requiresAdmin": false,
+        "launchMode": "extract_then_run",
+        "arguments": [],
+        "workingDirectory": "",
+        "supportsManualPath": false,
+        "manualPathRequired": false,
+        "cleanupOnSuccess": false,
+        "selfManagedUi": true
+      },
+      "instructions": {
+        "shortText": "\u0623\u063A\u0644\u0642 Norland\u060C \u062B\u0645 \u0627\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0648\u0627\u062E\u062A\u0631 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u062D\u062F\u062F Norland.exe \u064A\u062F\u0648\u064A\u064B\u0627 \u0639\u0646\u062F \u0627\u0644\u062D\u0627\u062C\u0629.",
+        "detailedText": "\u0623\u063A\u0644\u0642 \u0644\u0639\u0628\u0629 Norland \u0642\u0628\u0644 \u0627\u0644\u062A\u062B\u0628\u064A\u062A. \u0627\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062D\u0632\u0645\u0629\u060C \u062B\u0645 \u0627\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u0627\u062E\u062A\u0631 Norland.exe \u064A\u062F\u0648\u064A\u064B\u0627 \u0625\u0630\u0627 \u0644\u0645 \u064A\u064F\u0643\u062A\u0634\u0641 \u0627\u0644\u0645\u0633\u0627\u0631. \u0628\u0639\u062F \u0646\u062C\u0627\u062D \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u062E\u062A\u0631 \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0645\u0646 \u0625\u0639\u062F\u0627\u062F\u0627\u062A \u0627\u0644\u0644\u063A\u0629 \u0648\u0623\u0639\u062F \u062A\u0634\u063A\u064A\u0644 \u0627\u0644\u0644\u0639\u0628\u0629. \u0644\u0625\u0632\u0627\u0644\u0629 \u0627\u0644\u062A\u0639\u0631\u064A\u0628 \u0627\u0633\u062A\u062E\u062F\u0645 \u0632\u0631 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0641\u064A \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0644\u0627\u0633\u062A\u0639\u0627\u062F\u0629 \u0627\u0644\u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0633\u0627\u0628\u0642\u0629 \u0645\u0646 \u0627\u0644\u0646\u0633\u062E\u0629 \u0627\u0644\u0627\u062D\u062A\u064A\u0627\u0637\u064A\u0629.",
+        "screenshots": []
+      },
+      "publishing": {
+        "status": "published",
+        "channels": [
+          "app"
+        ]
+      }
+    },
+    {
+      "id": "frostpunk-ar",
+      "slug": "frostpunk-ar",
+      "gameTitle": "Frostpunk",
+      "alternateTitles": [
+        "\u062A\u0639\u0631\u064A\u0628 Frostpunk",
+        "Frostpunk Arabic Translation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "translationVersion": "0.5.1",
+      "gameVersion": "unknown",
+      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/frostpunk-ar/cover.png",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 Frostpunk \u0627\u0644\u0639\u0631\u0628\u064A v0.5.1 \u0628\u062E\u0637\u0648\u0637 \u0645\u0647\u064A\u0623\u0629 \u0648\u0646\u0638\u0627\u0645 \u062D\u0642\u0646 \u0648\u0646\u0633\u062E \u0627\u062D\u062A\u064A\u0627\u0637\u064A \u0622\u0645\u0646.",
+      "description": "\u062D\u0632\u0645\u0629 \u0639\u0631\u0628\u064A\u0629 \u0645\u0633\u062A\u0642\u0644\u0629 \u0644\u0644\u0639\u0628\u0629 Frostpunk \u0628\u0625\u0635\u062F\u0627\u0631 \u062A\u063A\u0644\u064A\u0641 0.5.1 \u0648\u062D\u0645\u0648\u0644\u0629 \u062A\u0631\u062C\u0645\u0629 0.5.0 \u0627\u0644\u0645\u062B\u0628\u062A\u0629 \u0628\u0627\u0644\u0628\u0635\u0645\u0627\u062A. \u062A\u062A\u062D\u0642\u0642 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0645\u0646 \u062C\u0630\u0631 \u0627\u0644\u0644\u0639\u0628\u0629 \u0648\u0645\u0646 \u0633\u0644\u0627\u0645\u0629 \u0627\u0644\u062D\u0645\u0648\u0644\u0629\u060C \u062B\u0645 \u062A\u062D\u0641\u0638 \u0627\u0644\u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0623\u0635\u0644\u064A\u0629 \u0642\u0628\u0644 \u0627\u0644\u0627\u0633\u062A\u0628\u062F\u0627\u0644 \u0648\u062A\u062A\u064A\u062D \u0627\u0633\u062A\u0631\u062C\u0627\u0639\u0647\u0627 \u0644\u0627\u062D\u0642\u064B\u0627.",
+      "releaseDate": "2026-08-23",
+      "fileSize": 620768393,
+      "status": "published",
+      "package": {
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/frostpunk-ar-v0.5.1/frostpunk-ar-v0.5.1.zip",
+        "fileName": "frostpunk-ar-v0.5.1.zip",
+        "archiveType": "zip",
+        "size": 620768393,
+        "checksum": "sha256:4229067a105f2aaa40a1ff50987bc02e0fccb26f4dd9dc72a60eafb7c5201bdb"
+      },
+      "installer": {
+        "kind": "bat",
+        "entryFile": "Run_Simsima.vbs",
+        "requiresAdmin": false,
+        "launchMode": "extract_then_run",
+        "arguments": [],
+        "workingDirectory": "",
+        "supportsManualPath": false,
+        "manualPathRequired": false,
+        "cleanupOnSuccess": false,
+        "selfManagedUi": true
+      },
+      "instructions": {
+        "shortText": "\u0623\u063A\u0644\u0642 Frostpunk\u060C \u062B\u0645 \u0627\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u0627\u062E\u062A\u0631 Frostpunk.exe \u0645\u0646 \u062C\u0630\u0631 \u0627\u0644\u0644\u0639\u0628\u0629.",
+        "detailedText": "\u062C\u0631\u0651\u0628 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648\u0644\u064B\u0627. \u0625\u0630\u0627 \u0644\u0645 \u064A\u0639\u062B\u0631 \u0639\u0644\u0649 \u0627\u0644\u0644\u0639\u0628\u0629 \u0641\u0627\u062E\u062A\u0631 \u0645\u0633\u0627\u0631\u064B\u0627 \u064A\u062F\u0648\u064A\u064B\u0627 \u0648\u062D\u062F\u062F Frostpunk.exe \u0627\u0644\u0645\u0648\u062C\u0648\u062F \u0628\u062C\u0648\u0627\u0631 common.dat \u0648localizations.dat. \u0644\u0627 \u062A\u064F\u063A\u0644\u0642 \u0627\u0644\u0645\u062B\u0628\u062A \u0623\u062B\u0646\u0627\u0621 \u0646\u0633\u062E common.dat \u0627\u0644\u0643\u0628\u064A\u0631. \u064A\u0645\u0643\u0646 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0645\u0646 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0646\u0641\u0633\u0647\u0627 \u0645\u0627 \u062F\u0627\u0645\u062A \u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0644\u0639\u0628\u0629 \u0644\u0645 \u062A\u062A\u063A\u064A\u0631 \u0628\u0639\u062F \u0627\u0644\u062A\u062B\u0628\u064A\u062A.",
+        "screenshots": []
+      },
+      "publishing": {
+        "status": "published",
+        "channels": [
+          "app"
+        ]
+      }
+    },
+    {
+      "id": "captain-of-industry-ar",
+      "slug": "captain-of-industry-ar",
+      "gameTitle": "Captain of Industry",
+      "alternateTitles": [
+        "\u062A\u0639\u0631\u064A\u0628 Captain of Industry",
+        "Captain of Industry Arabic Translation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "translationVersion": "0.1.8",
+      "gameVersion": "v0.8.7",
+      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/captain-of-industry-ar/cover.png",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0643\u0627\u0645\u0644 \u0644\u0644\u0639\u0628\u0629 Captain of Industry \u064A\u0634\u0645\u0644 \u062C\u0645\u064A\u0639 \u0627\u0644\u0645\u062D\u062A\u0648\u064A\u0627\u062A \u0648\u0627\u0644\u0625\u0636\u0627\u0641\u0627\u062A \u0648\u062A\u062D\u062F\u064A\u062B \u0627\u0644\u0641\u0636\u0627\u0621\u060C \u0645\u0639 \u062A\u062B\u0628\u064A\u062A \u062A\u0644\u0642\u0627\u0626\u064A \u0648\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0622\u0645\u0646.",
+      "description": "\u0625\u0635\u062F\u0627\u0631 0.1.8 \u0645\u062A\u0648\u0627\u0641\u0642 \u0645\u0639 \u062A\u062D\u062F\u064A\u062B \u0627\u0644\u0644\u0639\u0628\u0629 v0.8.7 (Update 4)\u060C \u0648\u064A\u0634\u0645\u0644 4768 \u0646\u0635\u0627 \u0639\u0631\u0628\u064A\u0627 \u0645\u0639 \u062E\u0637 Noto Naskh Arabic \u0648\u0627\u0644\u0625\u0635\u0644\u0627\u062D \u0627\u0644\u062C\u0630\u0631\u064A \u0627\u0644\u0634\u0627\u0645\u0644 \u0644\u062A\u0631\u062A\u064A\u0628 \u0627\u0644\u0623\u0633\u0637\u0631 \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0641\u064A \u062C\u0645\u064A\u0639 \u0634\u0627\u0634\u0627\u062A \u0627\u0644\u062F\u0644\u064A\u0644 \u0648\u0627\u0644\u0631\u0633\u0627\u0626\u0644 \u0648\u0627\u0644\u062F\u0631\u0648\u0633. \u064A\u062F\u0639\u0645 \u0627\u062E\u062A\u064A\u0627\u0631 \u0645\u0644\u0641 \u0627\u0644\u062A\u0634\u063A\u064A\u0644 exe \u0645\u0628\u0627\u0634\u0631\u0629 \u0641\u064A \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u064A\u062F\u0648\u064A\u060C \u0648\u062A\u062D\u0641\u0638 \u0646\u0633\u062E\u0629 \u0623\u0635\u0644\u064A\u0629 \u0642\u0627\u0628\u0644\u0629 \u0644\u0644\u0627\u0633\u062A\u0631\u062C\u0627\u0639. \u0628\u0639\u062F \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u062E\u062A\u0631 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u062A\u0631\u0643\u064A\u0629 \u062F\u0627\u062E\u0644 \u0627\u0644\u0644\u0639\u0628\u0629.",
+      "releaseDate": "2026-08-19",
+      "fileSize": 26862553,
+      "status": "published",
+      "package": {
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/captain-of-industry-ar-v0.1.8/captain-of-industry-ar-v0.1.8.zip",
+        "fileName": "captain-of-industry-ar-v0.1.8.zip",
+        "archiveType": "zip",
+        "size": 26862553,
+        "checksum": "sha256:2265a341076683d7b609cf09f88d2e7ad63b538026492f00bfc0cecc8cca5171"
+      },
+      "installer": {
+        "kind": "bat",
+        "entryFile": "Run_Simsima.vbs",
+        "requiresAdmin": false,
+        "launchMode": "extract_then_run",
+        "arguments": [],
+        "workingDirectory": "",
+        "supportsManualPath": false,
+        "manualPathRequired": false,
+        "cleanupOnSuccess": false,
+        "selfManagedUi": true
+      },
+      "instructions": {
+        "shortText": "\u0627\u0641\u062A\u062D \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0645\u0646 Simsima \u062B\u0645 \u0627\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A\u060C \u0623\u0648 \u062D\u062F\u062F \u0645\u062C\u0644\u062F \u0627\u0644\u0644\u0639\u0628\u0629 \u064A\u062F\u0648\u064A\u0627 \u0639\u0646\u062F \u0627\u0644\u062D\u0627\u062C\u0629.",
+        "detailedText": "\u0623\u063A\u0644\u0642 \u0627\u0644\u0644\u0639\u0628\u0629 \u0642\u0628\u0644 \u0627\u0644\u062A\u062B\u0628\u064A\u062A. \u062C\u0631\u0651\u0628 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648\u0644\u0627. \u0625\u0630\u0627 \u0644\u0645 \u062A\u064F\u0643\u062A\u0634\u0641 \u0627\u0644\u0644\u0639\u0628\u0629\u060C \u0627\u062E\u062A\u0631 \u0645\u062C\u0644\u062F Captain of Industry \u0627\u0644\u0630\u064A \u064A\u062D\u062A\u0648\u064A \u0639\u0644\u0649 Translations/en.json \u0648AssetBundles/ui toolkit_8c84. \u0628\u0639\u062F \u0646\u062C\u0627\u062D \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u062E\u062A\u0631 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u062A\u0631\u0643\u064A\u0629 \u062F\u0627\u062E\u0644 \u0627\u0644\u0644\u0639\u0628\u0629. \u064A\u0645\u0643\u0646 \u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0627\u0644\u0645\u0644\u0641\u064A\u0646 \u0627\u0644\u0623\u0635\u0644\u064A\u064A\u0646 \u0645\u0646 \u0632\u0631 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A.",
+        "screenshots": []
+      },
+      "publishing": {
+        "status": "published",
+        "channels": [
+          "app"
+        ]
+      }
+    },
+    {
+      "id": "foundry-ar",
+      "slug": "foundry-ar",
+      "gameTitle": "FOUNDRY",
+      "alternateTitles": [
+        "\u062A\u0639\u0631\u064A\u0628 FOUNDRY",
+        "FOUNDRY Arabic Translation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "translationVersion": "0.1.6",
+      "gameVersion": "unknown",
+      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/foundry-ar/cover.png",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0644\u0644\u0639\u0628\u0629 FOUNDRY \u0628\u0625\u0635\u062F\u0627\u0631 0.1.6 \u0645\u0639 \u0648\u0627\u062C\u0647\u0629 \u062A\u062B\u0628\u064A\u062A \u0645\u0633\u062A\u0642\u0644\u0629 \u0648\u062F\u0639\u0645 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0648\u0627\u0644\u0627\u0633\u062A\u0639\u0627\u062F\u0629 \u0627\u0644\u0622\u0645\u0646\u064A\u0646.",
+      "description": "\u062D\u0632\u0645\u0629 \u062A\u0639\u0631\u064A\u0628 FOUNDRY \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0628\u0625\u0635\u062F\u0627\u0631 0.1.6 \u0644\u0646\u0633\u062E\u0629 Steam \u0639\u0644\u0649 Windows. \u062A\u0633\u062A\u0628\u062F\u0644 \u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629 \u0628\u062A\u0631\u062C\u0645\u0629 \u0639\u0631\u0628\u064A\u0629 \u0648\u062A\u062B\u0628\u062A \u0645\u0644\u062D\u0642 \u062E\u0637 \u0639\u0631\u0628\u064A \u062E\u0627\u0635\u064B\u0627 \u0628\u0627\u0644\u062D\u0632\u0645\u0629\u060C \u0645\u0639 \u062D\u0641\u0638 \u0627\u0644\u062D\u0627\u0644\u0629 \u0627\u0644\u0633\u0627\u0628\u0642\u0629 \u0648\u0625\u062A\u0627\u062D\u062A\u0647\u0627 \u0644\u0644\u0627\u0633\u062A\u0639\u0627\u062F\u0629 \u0645\u0646 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0646\u0641\u0633\u0647\u0627. \u0644\u0627 \u062A\u062A\u0636\u0645\u0646 \u0627\u0644\u062D\u0632\u0645\u0629 \u062F\u0639\u0645 Xbox \u0623\u0648 Game Pass.",
+      "releaseDate": "2026-08-10",
+      "fileSize": 12702093,
+      "status": "published",
+      "package": {
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/foundry-ar-v0.1.6/foundry-ar-v0.1.6.zip",
+        "fileName": "foundry-ar-v0.1.6.zip",
+        "archiveType": "zip",
+        "size": 12702093,
+        "checksum": "sha256:1ef6c07dd84e43d9fd1a2bee6eb8bb74f5bf46e9c36f4e3178167b05332ec248"
+      },
+      "installer": {
+        "kind": "bat",
+        "entryFile": "Run_Simsima.vbs",
+        "requiresAdmin": false,
+        "launchMode": "extract_then_run",
+        "arguments": [],
+        "workingDirectory": "",
+        "supportsManualPath": false,
+        "manualPathRequired": false,
+        "cleanupOnSuccess": false,
+        "selfManagedUi": true
+      },
+      "instructions": {
+        "shortText": "\u0623\u063A\u0644\u0642 \u0627\u0644\u0644\u0639\u0628\u0629\u060C \u0627\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u062B\u0645 \u062C\u0631\u0651\u0628 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u062D\u062F\u062F Foundry.exe \u064A\u062F\u0648\u064A\u064B\u0627 \u0639\u0646\u062F \u0627\u0644\u062D\u0627\u062C\u0629.",
+        "detailedText": "\u0628\u0639\u062F \u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u062C\u0631\u0651\u0628 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648\u0644\u064B\u0627. \u0625\u0630\u0627 \u0644\u0645 \u064A\u064F\u0639\u062B\u0631 \u0639\u0644\u0649 \u0627\u0644\u0644\u0639\u0628\u0629\u060C \u0627\u0636\u063A\u0637 \u0645\u0633\u0627\u0631 \u064A\u062F\u0648\u064A \u0648\u062D\u062F\u062F Foundry.exe \u0645\u0646 \u062C\u0630\u0631 FOUNDRY. \u0628\u0639\u062F \u0646\u062C\u0627\u062D \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u062E\u062A\u0631 Italiano \u0645\u0646 \u0625\u0639\u062F\u0627\u062F\u0627\u062A \u0627\u0644\u0644\u063A\u0629\u060C \u0648\u0623\u0639\u062F \u062A\u0634\u063A\u064A\u0644 \u0627\u0644\u0644\u0639\u0628\u0629\u060C \u0648\u0627\u062A\u0631\u0643 \u0645\u0644\u062D\u0642 Simsima Arabic Font \u0645\u0641\u0639\u0651\u0644\u064B\u0627 \u0645\u0646 \u0642\u0627\u0626\u0645\u0629 Mods. \u064A\u0645\u0643\u0646 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0644\u0627\u062D\u0642\u064B\u0627 \u0645\u0646 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0646\u0641\u0633\u0647\u0627.",
+        "screenshots": []
+      },
+      "publishing": {
+        "status": "published",
+        "channels": [
+          "app"
+        ]
+      }
+    },
+    {
+      "id": "palworld-ar",
+      "slug": "palworld-ar",
+      "gameTitle": "Palworld",
+      "alternateTitles": [
+        "\u062A\u0639\u0631\u064A\u0628 Palworld",
+        "Palworld Arabic Translation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "translationVersion": "0.2.4",
+      "gameVersion": "unknown",
+      "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/palworld-ar/cover.png",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 Palworld 0.2.4 \u0627\u0644\u0645\u0635\u062D\u062D \u0644\u0646\u0633\u062E\u062A\u064A Steam \u0648Xbox PC / Game Pass.",
+      "description": "\u064A\u0635\u062D\u062D \u0627\u0644\u0625\u0635\u062F\u0627\u0631 0.2.4 \u0628\u0646\u064A\u0629 ZIP \u0644\u064A\u062C\u062F Simsima \u0645\u0644\u0641 \u0627\u0644\u062A\u0634\u063A\u064A\u0644 \u0645\u0628\u0627\u0634\u0631\u0629 \u0628\u0639\u062F \u0641\u0643 \u0627\u0644\u062D\u0632\u0645\u0629. \u062A\u0628\u0642\u0649 \u062D\u0645\u0648\u0644\u062A\u0627 Steam \u0648Xbox \u0627\u0644\u0645\u062E\u062A\u0628\u0631\u062A\u0627\u0646 \u062F\u0648\u0646 \u062A\u063A\u064A\u064A\u0631: \u0645\u0644\u0641 PAK \u0644\u0646\u0633\u062E\u0629 Steam \u0648\u0645\u0644\u0641\u0627\u062A IoStore \u0644\u0646\u0633\u062E\u0629 Xbox. \u064A\u0639\u0645\u0644 \u0627\u0644\u062A\u0639\u0631\u064A\u0628 \u0639\u0628\u0631 \u0645\u0633\u0627\u0631 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629 \u062F\u0648\u0646 \u062A\u063A\u064A\u064A\u0631 \u0644\u063A\u0629 Windows\u060C \u0645\u0639 \u062A\u062B\u0628\u064A\u062A \u0648\u0625\u0644\u063A\u0627\u0621 \u062A\u062B\u0628\u064A\u062A \u0648\u0646\u0633\u062E \u0627\u062D\u062A\u064A\u0627\u0637\u064A \u0645\u0633\u062A\u0642\u0644 \u0644\u0643\u0644 \u0645\u0646\u0635\u0629.",
+      "releaseDate": "2026-08-10",
+      "fileSize": 22341363,
+      "status": "published",
+      "package": {
+        "url": "https://github.com/ishak10123/Simsima-content/releases/download/palworld-ar-v0.2.4/palworld-ar-v0.2.4.zip",
+        "fileName": "palworld-ar-v0.2.4.zip",
+        "archiveType": "zip",
+        "size": 22341363,
+        "checksum": "sha256:632bb0ce97e76ba5e6f6c7b651b122d5779b2bfdeac1430f757c6965dce7cc03"
+      },
+      "installer": {
+        "kind": "bat",
+        "entryFile": "Run_Simsima.vbs",
+        "requiresAdmin": false,
+        "launchMode": "extract_then_run",
+        "arguments": [],
+        "workingDirectory": "",
+        "supportsManualPath": false,
+        "manualPathRequired": false,
+        "cleanupOnSuccess": false,
+        "selfManagedUi": true
+      },
+      "instructions": {
+        "shortText": "\u0627\u062E\u062A\u0631 Steam \u0623\u0648 Xbox PC / Game Pass \u0645\u0646 \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062D\u0632\u0645\u0629\u060C \u062B\u0645 \u062B\u0628\u0651\u062A \u0627\u0644\u0646\u0633\u062E\u0629 \u0627\u0644\u0645\u062D\u062F\u062F\u0629 \u062A\u0644\u0642\u0627\u0626\u064A\u0627 \u0623\u0648 \u0639\u0628\u0631 \u0645\u0633\u0627\u0631 \u064A\u062F\u0648\u064A.",
+        "detailedText": "\u0644\u0646\u0633\u062E\u0629 Steam \u0627\u062E\u062A\u0631 Palworld.exe \u0623\u0648 \u0645\u0644\u0641 Win64. \u0644\u0646\u0633\u062E\u0629 Xbox \u0627\u062E\u062A\u0631 MicrosoftGame.config \u0623\u0648 gamelaunchhelper.exe \u0623\u0648 \u0645\u0644\u0641\u0627 \u0645\u0646 \u062C\u0630\u0631 \u0627\u0644\u0644\u0639\u0628\u0629. \u064A\u0639\u0645\u0644 \u0627\u0644\u062A\u0639\u0631\u064A\u0628 \u0639\u0628\u0631 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629 \u062A\u0644\u0642\u0627\u0626\u064A\u0627 \u0648\u0644\u0627 \u062A\u062D\u062A\u0627\u062C \u0625\u0644\u0649 \u062A\u063A\u064A\u064A\u0631 \u0644\u063A\u0629 \u0627\u0644\u0644\u0639\u0628\u0629 \u0623\u0648 Windows. \u064A\u0645\u0643\u0646 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0648\u0627\u0633\u062A\u0639\u0627\u062F\u0629 \u0627\u0644\u0646\u0633\u062E\u0629 \u0627\u0644\u0633\u0627\u0628\u0642\u0629 \u0645\u0646 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0646\u0641\u0633\u0647\u0627.",
         "screenshots": []
       },
       "publishing": {
@@ -507,7 +558,7 @@
       "slug": "brotato-ar",
       "gameTitle": "Brotato",
       "alternateTitles": [
-        "تعريب Brotato",
+        "\u062A\u0639\u0631\u064A\u0628 Brotato",
         "Brotato Arabic Translation"
       ],
       "platforms": [
@@ -516,8 +567,8 @@
       "translationVersion": "0.1.1",
       "gameVersion": "unknown",
       "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/brotato-ar/cover.jpg",
-      "summary": "تعريب عربي للعبة Brotato يحقن النصوص والخطوط داخل ملفات PCK عبر واجهة تثبيت مستقلة.",
-      "description": "حزمة تعريب عربية للعبة Brotato، مع دعم إضافة Abyssal Terrors عند وجودها. تتيح واجهة التثبيت البحث التلقائي عن اللعبة أو اختيار المسار يدويا، وتحفظ ملفات PCK الأصلية لاستعادتها عند إلغاء التثبيت.",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0644\u0644\u0639\u0628\u0629 Brotato \u064A\u062D\u0642\u0646 \u0627\u0644\u0646\u0635\u0648\u0635 \u0648\u0627\u0644\u062E\u0637\u0648\u0637 \u062F\u0627\u062E\u0644 \u0645\u0644\u0641\u0627\u062A PCK \u0639\u0628\u0631 \u0648\u0627\u062C\u0647\u0629 \u062A\u062B\u0628\u064A\u062A \u0645\u0633\u062A\u0642\u0644\u0629.",
+      "description": "\u062D\u0632\u0645\u0629 \u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A\u0629 \u0644\u0644\u0639\u0628\u0629 Brotato\u060C \u0645\u0639 \u062F\u0639\u0645 \u0625\u0636\u0627\u0641\u0629 Abyssal Terrors \u0639\u0646\u062F \u0648\u062C\u0648\u062F\u0647\u0627. \u062A\u062A\u064A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u0628\u062D\u062B \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0639\u0646 \u0627\u0644\u0644\u0639\u0628\u0629 \u0623\u0648 \u0627\u062E\u062A\u064A\u0627\u0631 \u0627\u0644\u0645\u0633\u0627\u0631 \u064A\u062F\u0648\u064A\u0627\u060C \u0648\u062A\u062D\u0641\u0638 \u0645\u0644\u0641\u0627\u062A PCK \u0627\u0644\u0623\u0635\u0644\u064A\u0629 \u0644\u0627\u0633\u062A\u0639\u0627\u062F\u062A\u0647\u0627 \u0639\u0646\u062F \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A.",
       "releaseDate": "2026-07-14",
       "fileSize": 10266065,
       "status": "published",
@@ -541,8 +592,8 @@
         "selfManagedUi": true
       },
       "instructions": {
-        "shortText": "افتح واجهة التثبيت من Simsima، ثم استخدم البحث التلقائي أو اختر مجلد Brotato الذي يحتوي Brotato.pck.",
-        "detailedText": "جرّب التثبيت التلقائي أولا. إذا لم يتم العثور على اللعبة، اختر مجلد Brotato الذي يحتوي على Brotato.pck. ستُحقن ترجمة إضافة Abyssal Terrors أيضا عند وجود BrotatoAbyssalTerrors.pck. بعد نجاح التثبيت اختر اللغة Turkish من إعدادات اللعبة إذا لم تظهر العربية مباشرة. يمكن إلغاء التثبيت من الواجهة لاسترجاع ملفات PCK الأصلية.",
+        "shortText": "\u0627\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0645\u0646 Simsima\u060C \u062B\u0645 \u0627\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u0628\u062D\u062B \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u0627\u062E\u062A\u0631 \u0645\u062C\u0644\u062F Brotato \u0627\u0644\u0630\u064A \u064A\u062D\u062A\u0648\u064A Brotato.pck.",
+        "detailedText": "\u062C\u0631\u0651\u0628 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648\u0644\u0627. \u0625\u0630\u0627 \u0644\u0645 \u064A\u062A\u0645 \u0627\u0644\u0639\u062B\u0648\u0631 \u0639\u0644\u0649 \u0627\u0644\u0644\u0639\u0628\u0629\u060C \u0627\u062E\u062A\u0631 \u0645\u062C\u0644\u062F Brotato \u0627\u0644\u0630\u064A \u064A\u062D\u062A\u0648\u064A \u0639\u0644\u0649 Brotato.pck. \u0633\u062A\u064F\u062D\u0642\u0646 \u062A\u0631\u062C\u0645\u0629 \u0625\u0636\u0627\u0641\u0629 Abyssal Terrors \u0623\u064A\u0636\u0627 \u0639\u0646\u062F \u0648\u062C\u0648\u062F BrotatoAbyssalTerrors.pck. \u0628\u0639\u062F \u0646\u062C\u0627\u062D \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u062E\u062A\u0631 \u0627\u0644\u0644\u063A\u0629 Turkish \u0645\u0646 \u0625\u0639\u062F\u0627\u062F\u0627\u062A \u0627\u0644\u0644\u0639\u0628\u0629 \u0625\u0630\u0627 \u0644\u0645 \u062A\u0638\u0647\u0631 \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0645\u0628\u0627\u0634\u0631\u0629. \u064A\u0645\u0643\u0646 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0645\u0646 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0644\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0645\u0644\u0641\u0627\u062A PCK \u0627\u0644\u0623\u0635\u0644\u064A\u0629.",
         "screenshots": []
       },
       "publishing": {
@@ -557,7 +608,7 @@
       "slug": "stellaris-ar",
       "gameTitle": "Stellaris",
       "alternateTitles": [
-        "ستيلاريس",
+        "\u0633\u062A\u064A\u0644\u0627\u0631\u064A\u0633",
         "Stellaris Arabic Translation"
       ],
       "platforms": [
@@ -566,8 +617,8 @@
       "translationVersion": "0.1.4",
       "gameVersion": "4.4.3",
       "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/stellaris-ar/cover.jpg",
-      "summary": "تعريب عربي للعبة Stellaris مع واجهة تثبيت داخلية تدعم التثبيت والاسترجاع.",
-      "description": "حزمة تعريب عربية للعبة Stellaris متوافقة مع إصدار 4.4.3. تفتح الحزمة واجهة التثبيت الداخلية الخاصة بها لتنفيذ التثبيت التلقائي، اختيار مسار اللعبة يدويًا عند الحاجة، واسترجاع الملفات الأصلية من داخل نفس الواجهة.",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0644\u0644\u0639\u0628\u0629 Stellaris \u0645\u0639 \u0648\u0627\u062C\u0647\u0629 \u062A\u062B\u0628\u064A\u062A \u062F\u0627\u062E\u0644\u064A\u0629 \u062A\u062F\u0639\u0645 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0648\u0627\u0644\u0627\u0633\u062A\u0631\u062C\u0627\u0639.",
+      "description": "\u062D\u0632\u0645\u0629 \u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A\u0629 \u0644\u0644\u0639\u0628\u0629 Stellaris \u0645\u062A\u0648\u0627\u0641\u0642\u0629 \u0645\u0639 \u0625\u0635\u062F\u0627\u0631 4.4.3. \u062A\u0641\u062A\u062D \u0627\u0644\u062D\u0632\u0645\u0629 \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062F\u0627\u062E\u0644\u064A\u0629 \u0627\u0644\u062E\u0627\u0635\u0629 \u0628\u0647\u0627 \u0644\u062A\u0646\u0641\u064A\u0630 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A\u060C \u0627\u062E\u062A\u064A\u0627\u0631 \u0645\u0633\u0627\u0631 \u0627\u0644\u0644\u0639\u0628\u0629 \u064A\u062F\u0648\u064A\u064B\u0627 \u0639\u0646\u062F \u0627\u0644\u062D\u0627\u062C\u0629\u060C \u0648\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0627\u0644\u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0623\u0635\u0644\u064A\u0629 \u0645\u0646 \u062F\u0627\u062E\u0644 \u0646\u0641\u0633 \u0627\u0644\u0648\u0627\u062C\u0647\u0629.",
       "releaseDate": "2026-07-10",
       "fileSize": 17102205,
       "status": "published",
@@ -591,8 +642,8 @@
         "selfManagedUi": true
       },
       "instructions": {
-        "shortText": "نزّل الحزمة من Simsima ثم افتح واجهة التثبيت الداخلية.",
-        "detailedText": "بعد فتح واجهة الحزمة اختر التثبيت التلقائي. إذا لم يتم العثور على اللعبة تلقائيًا فاستخدم اختيار المسار اليدوي من داخل الواجهة، ويمكنك استخدام خيار الاسترجاع من نفس الواجهة لإعادة الملفات الأصلية عند الحاجة.",
+        "shortText": "\u0646\u0632\u0651\u0644 \u0627\u0644\u062D\u0632\u0645\u0629 \u0645\u0646 Simsima \u062B\u0645 \u0627\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062F\u0627\u062E\u0644\u064A\u0629.",
+        "detailedText": "\u0628\u0639\u062F \u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062D\u0632\u0645\u0629 \u0627\u062E\u062A\u0631 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A. \u0625\u0630\u0627 \u0644\u0645 \u064A\u062A\u0645 \u0627\u0644\u0639\u062B\u0648\u0631 \u0639\u0644\u0649 \u0627\u0644\u0644\u0639\u0628\u0629 \u062A\u0644\u0642\u0627\u0626\u064A\u064B\u0627 \u0641\u0627\u0633\u062A\u062E\u062F\u0645 \u0627\u062E\u062A\u064A\u0627\u0631 \u0627\u0644\u0645\u0633\u0627\u0631 \u0627\u0644\u064A\u062F\u0648\u064A \u0645\u0646 \u062F\u0627\u062E\u0644 \u0627\u0644\u0648\u0627\u062C\u0647\u0629\u060C \u0648\u064A\u0645\u0643\u0646\u0643 \u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u062E\u064A\u0627\u0631 \u0627\u0644\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0645\u0646 \u0646\u0641\u0633 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0644\u0625\u0639\u0627\u062F\u0629 \u0627\u0644\u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0623\u0635\u0644\u064A\u0629 \u0639\u0646\u062F \u0627\u0644\u062D\u0627\u062C\u0629.",
         "screenshots": []
       },
       "publishing": {
@@ -608,7 +659,7 @@
       "gameTitle": "Dyson Sphere Program",
       "alternateTitles": [
         "Dyson Sphere Program Arabic Translation",
-        "تعريب Dyson Sphere Program"
+        "\u062A\u0639\u0631\u064A\u0628 Dyson Sphere Program"
       ],
       "platforms": [
         "windows"
@@ -616,8 +667,8 @@
       "translationVersion": "1.0.3",
       "gameVersion": "unknown",
       "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/dyson-sphere-program-ar/cover.jpg",
-      "summary": "تعريب عربي للعبة Dyson Sphere Program يضيف ملفات اللغة العربية إلى مجلد Locale الخاص باللعبة.",
-      "description": "حزمة تعريب عربية للعبة Dyson Sphere Program. تفتح الحزمة واجهة تثبيت خاصة يمكن من خلالها التثبيت التلقائي، اختيار مسار اللعبة أو مجلد Locale يدويا، أو إلغاء التثبيت واسترجاع الملفات الأصلية عند توفر نسخة احتياطية.",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0644\u0644\u0639\u0628\u0629 Dyson Sphere Program \u064A\u0636\u064A\u0641 \u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0625\u0644\u0649 \u0645\u062C\u0644\u062F Locale \u0627\u0644\u062E\u0627\u0635 \u0628\u0627\u0644\u0644\u0639\u0628\u0629.",
+      "description": "\u062D\u0632\u0645\u0629 \u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A\u0629 \u0644\u0644\u0639\u0628\u0629 Dyson Sphere Program. \u062A\u0641\u062A\u062D \u0627\u0644\u062D\u0632\u0645\u0629 \u0648\u0627\u062C\u0647\u0629 \u062A\u062B\u0628\u064A\u062A \u062E\u0627\u0635\u0629 \u064A\u0645\u0643\u0646 \u0645\u0646 \u062E\u0644\u0627\u0644\u0647\u0627 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A\u060C \u0627\u062E\u062A\u064A\u0627\u0631 \u0645\u0633\u0627\u0631 \u0627\u0644\u0644\u0639\u0628\u0629 \u0623\u0648 \u0645\u062C\u0644\u062F Locale \u064A\u062F\u0648\u064A\u0627\u060C \u0623\u0648 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0648\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0627\u0644\u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0623\u0635\u0644\u064A\u0629 \u0639\u0646\u062F \u062A\u0648\u0641\u0631 \u0646\u0633\u062E\u0629 \u0627\u062D\u062A\u064A\u0627\u0637\u064A\u0629.",
       "releaseDate": "2026-07-08",
       "fileSize": 11184254,
       "status": "published",
@@ -641,8 +692,8 @@
         "selfManagedUi": true
       },
       "instructions": {
-        "shortText": "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مسار Dyson Sphere Program أو مجلد Locale إذا لم يتم العثور عليه.",
-        "detailedText": "بعد فتح واجهة التثبيت، استخدم التثبيت التلقائي للبحث عن Dyson Sphere Program وتثبيت التعريب. إذا لم يتم العثور على اللعبة، اختر المسار يدويا وحدد مجلد Dyson Sphere Program أو مجلد Locale داخله. يمكن استخدام زر إلغاء التثبيت من نفس الواجهة لاسترجاع ملفات اللعبة الأصلية عند توفر النسخة الاحتياطية.",
+        "shortText": "\u0627\u0636\u063A\u0637 \u062A\u062D\u0645\u064A\u0644 \u0648\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u062B\u0645 \u0627\u062E\u062A\u0631 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u062D\u062F\u062F \u0645\u0633\u0627\u0631 Dyson Sphere Program \u0623\u0648 \u0645\u062C\u0644\u062F Locale \u0625\u0630\u0627 \u0644\u0645 \u064A\u062A\u0645 \u0627\u0644\u0639\u062B\u0648\u0631 \u0639\u0644\u064A\u0647.",
+        "detailedText": "\u0628\u0639\u062F \u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u0627\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0644\u0644\u0628\u062D\u062B \u0639\u0646 Dyson Sphere Program \u0648\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0639\u0631\u064A\u0628. \u0625\u0630\u0627 \u0644\u0645 \u064A\u062A\u0645 \u0627\u0644\u0639\u062B\u0648\u0631 \u0639\u0644\u0649 \u0627\u0644\u0644\u0639\u0628\u0629\u060C \u0627\u062E\u062A\u0631 \u0627\u0644\u0645\u0633\u0627\u0631 \u064A\u062F\u0648\u064A\u0627 \u0648\u062D\u062F\u062F \u0645\u062C\u0644\u062F Dyson Sphere Program \u0623\u0648 \u0645\u062C\u0644\u062F Locale \u062F\u0627\u062E\u0644\u0647. \u064A\u0645\u0643\u0646 \u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0632\u0631 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0645\u0646 \u0646\u0641\u0633 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0644\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0623\u0635\u0644\u064A\u0629 \u0639\u0646\u062F \u062A\u0648\u0641\u0631 \u0627\u0644\u0646\u0633\u062E\u0629 \u0627\u0644\u0627\u062D\u062A\u064A\u0627\u0637\u064A\u0629.",
         "screenshots": []
       },
       "publishing": {
@@ -658,7 +709,7 @@
       "gameTitle": "Oxygen Not Included",
       "alternateTitles": [
         "Oxygen Not Included Arabic Translation",
-        "تعريب Oxygen Not Included"
+        "\u062A\u0639\u0631\u064A\u0628 Oxygen Not Included"
       ],
       "platforms": [
         "windows"
@@ -666,8 +717,8 @@
       "translationVersion": "1.0.1",
       "gameVersion": "unknown",
       "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/oxygen-not-included-ar/cover.png",
-      "summary": "تعريب عربي للعبة Oxygen Not Included يضيف مود الترجمة داخل مجلد مودات اللعبة المحلي.",
-      "description": "حزمة تعريب عربية للعبة Oxygen Not Included. تفتح الحزمة واجهة تثبيت خاصة يمكن من خلالها التثبيت التلقائي، اختيار مسار مجلد بيانات اللعبة أو mods/local يدويا، أو إزالة التعريب واسترجاع الحالة السابقة عند توفر نسخة احتياطية.",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0644\u0644\u0639\u0628\u0629 Oxygen Not Included \u064A\u0636\u064A\u0641 \u0645\u0648\u062F \u0627\u0644\u062A\u0631\u062C\u0645\u0629 \u062F\u0627\u062E\u0644 \u0645\u062C\u0644\u062F \u0645\u0648\u062F\u0627\u062A \u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0645\u062D\u0644\u064A.",
+      "description": "\u062D\u0632\u0645\u0629 \u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A\u0629 \u0644\u0644\u0639\u0628\u0629 Oxygen Not Included. \u062A\u0641\u062A\u062D \u0627\u0644\u062D\u0632\u0645\u0629 \u0648\u0627\u062C\u0647\u0629 \u062A\u062B\u0628\u064A\u062A \u062E\u0627\u0635\u0629 \u064A\u0645\u0643\u0646 \u0645\u0646 \u062E\u0644\u0627\u0644\u0647\u0627 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A\u060C \u0627\u062E\u062A\u064A\u0627\u0631 \u0645\u0633\u0627\u0631 \u0645\u062C\u0644\u062F \u0628\u064A\u0627\u0646\u0627\u062A \u0627\u0644\u0644\u0639\u0628\u0629 \u0623\u0648 mods/local \u064A\u062F\u0648\u064A\u0627\u060C \u0623\u0648 \u0625\u0632\u0627\u0644\u0629 \u0627\u0644\u062A\u0639\u0631\u064A\u0628 \u0648\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0627\u0644\u062D\u0627\u0644\u0629 \u0627\u0644\u0633\u0627\u0628\u0642\u0629 \u0639\u0646\u062F \u062A\u0648\u0641\u0631 \u0646\u0633\u062E\u0629 \u0627\u062D\u062A\u064A\u0627\u0637\u064A\u0629.",
       "releaseDate": "2026-07-08",
       "fileSize": 14107849,
       "status": "published",
@@ -691,8 +742,8 @@
         "selfManagedUi": true
       },
       "instructions": {
-        "shortText": "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مسار OxygenNotIncluded أو mods/local إذا احتجت لذلك.",
-        "detailedText": "بعد فتح واجهة التثبيت، استخدم التثبيت التلقائي لوضع مود التعريب داخل Documents/Klei/OxygenNotIncluded/mods/local. إذا كان مجلد بيانات اللعبة في مكان مختلف، اختر المسار يدويا وحدد مجلد OxygenNotIncluded أو mods/local. بعد التثبيت افتح اللعبة من قائمة Mods وفعل Arabic Translation. يمكن استخدام زر إلغاء التثبيت من نفس الواجهة لإزالة التعريب واسترجاع الحالة السابقة عند توفر نسخة احتياطية.",
+        "shortText": "\u0627\u0636\u063A\u0637 \u062A\u062D\u0645\u064A\u0644 \u0648\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u062B\u0645 \u0627\u062E\u062A\u0631 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u062D\u062F\u062F \u0645\u0633\u0627\u0631 OxygenNotIncluded \u0623\u0648 mods/local \u0625\u0630\u0627 \u0627\u062D\u062A\u062C\u062A \u0644\u0630\u0644\u0643.",
+        "detailedText": "\u0628\u0639\u062F \u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u0627\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0644\u0648\u0636\u0639 \u0645\u0648\u062F \u0627\u0644\u062A\u0639\u0631\u064A\u0628 \u062F\u0627\u062E\u0644 Documents/Klei/OxygenNotIncluded/mods/local. \u0625\u0630\u0627 \u0643\u0627\u0646 \u0645\u062C\u0644\u062F \u0628\u064A\u0627\u0646\u0627\u062A \u0627\u0644\u0644\u0639\u0628\u0629 \u0641\u064A \u0645\u0643\u0627\u0646 \u0645\u062E\u062A\u0644\u0641\u060C \u0627\u062E\u062A\u0631 \u0627\u0644\u0645\u0633\u0627\u0631 \u064A\u062F\u0648\u064A\u0627 \u0648\u062D\u062F\u062F \u0645\u062C\u0644\u062F OxygenNotIncluded \u0623\u0648 mods/local. \u0628\u0639\u062F \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0641\u062A\u062D \u0627\u0644\u0644\u0639\u0628\u0629 \u0645\u0646 \u0642\u0627\u0626\u0645\u0629 Mods \u0648\u0641\u0639\u0644 Arabic Translation. \u064A\u0645\u0643\u0646 \u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0632\u0631 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0645\u0646 \u0646\u0641\u0633 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0644\u0625\u0632\u0627\u0644\u0629 \u0627\u0644\u062A\u0639\u0631\u064A\u0628 \u0648\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0627\u0644\u062D\u0627\u0644\u0629 \u0627\u0644\u0633\u0627\u0628\u0642\u0629 \u0639\u0646\u062F \u062A\u0648\u0641\u0631 \u0646\u0633\u062E\u0629 \u0627\u062D\u062A\u064A\u0627\u0637\u064A\u0629.",
         "screenshots": []
       },
       "publishing": {
@@ -707,17 +758,17 @@
       "slug": "factorio-ar",
       "gameTitle": "Factorio",
       "alternateTitles": [
-        "فاكتوريو",
+        "\u0641\u0627\u0643\u062A\u0648\u0631\u064A\u0648",
         "Factorio Arabic Translation"
       ],
       "platforms": [
         "windows"
       ],
       "translationVersion": "0.1.1",
-      "gameVersion": "2.0+",
+      "gameVersion": "2.0\u002B",
       "coverImageUrl": "https://ishak10123.github.io/Simsima-content/rooms/factorio-ar/cover.png",
-      "summary": "تعريب عربي للعبة Factorio مع ملفات اللعبة الأساسية ومحتوى Space Age وQuality وElevated Rails حسب الملفات المرفقة.",
-      "description": "تفتح الحزمة واجهة تثبيت خاصة لتثبيت تعريب Factorio تلقائيا، تحديد مسار اللعبة يدويا، أو استرجاع الملفات الأصلية. تستهدف Factorio 2.0 وما بعدها بحسب ملفات الترجمة المرفقة، وتشمل اللعبة الأساسية ومحتوى Space Age وQuality وElevated Rails عند توفرها.",
+      "summary": "\u062A\u0639\u0631\u064A\u0628 \u0639\u0631\u0628\u064A \u0644\u0644\u0639\u0628\u0629 Factorio \u0645\u0639 \u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064A\u0629 \u0648\u0645\u062D\u062A\u0648\u0649 Space Age \u0648Quality \u0648Elevated Rails \u062D\u0633\u0628 \u0627\u0644\u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0645\u0631\u0641\u0642\u0629.",
+      "description": "\u062A\u0641\u062A\u062D \u0627\u0644\u062D\u0632\u0645\u0629 \u0648\u0627\u062C\u0647\u0629 \u062A\u062B\u0628\u064A\u062A \u062E\u0627\u0635\u0629 \u0644\u062A\u062B\u0628\u064A\u062A \u062A\u0639\u0631\u064A\u0628 Factorio \u062A\u0644\u0642\u0627\u0626\u064A\u0627\u060C \u062A\u062D\u062F\u064A\u062F \u0645\u0633\u0627\u0631 \u0627\u0644\u0644\u0639\u0628\u0629 \u064A\u062F\u0648\u064A\u0627\u060C \u0623\u0648 \u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0627\u0644\u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0623\u0635\u0644\u064A\u0629. \u062A\u0633\u062A\u0647\u062F\u0641 Factorio 2.0 \u0648\u0645\u0627 \u0628\u0639\u062F\u0647\u0627 \u0628\u062D\u0633\u0628 \u0645\u0644\u0641\u0627\u062A \u0627\u0644\u062A\u0631\u062C\u0645\u0629 \u0627\u0644\u0645\u0631\u0641\u0642\u0629\u060C \u0648\u062A\u0634\u0645\u0644 \u0627\u0644\u0644\u0639\u0628\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064A\u0629 \u0648\u0645\u062D\u062A\u0648\u0649 Space Age \u0648Quality \u0648Elevated Rails \u0639\u0646\u062F \u062A\u0648\u0641\u0631\u0647\u0627.",
       "releaseDate": "2026-07-03",
       "fileSize": 12527818,
       "status": "published",
@@ -741,8 +792,8 @@
         "selfManagedUi": true
       },
       "instructions": {
-        "shortText": "اضغط تحميل وفتح واجهة التثبيت، ثم اختر التثبيت التلقائي أو حدد مسار مجلد Factorio إذا لم يتم العثور عليه.",
-        "detailedText": "بعد فتح واجهة التثبيت، استخدم التثبيت التلقائي للبحث عن Factorio، أو اختر المسار يدويا وحدد مجلد Factorio أو مجلد data. إذا ظهر خطأ صلاحيات، شغل Simsima كمسؤول ثم حاول مرة أخرى. يمكن استخدام زر إلغاء التثبيت من نفس الواجهة لاسترجاع الملفات الأصلية.",
+        "shortText": "\u0627\u0636\u063A\u0637 \u062A\u062D\u0645\u064A\u0644 \u0648\u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u062B\u0645 \u0627\u062E\u062A\u0631 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0623\u0648 \u062D\u062F\u062F \u0645\u0633\u0627\u0631 \u0645\u062C\u0644\u062F Factorio \u0625\u0630\u0627 \u0644\u0645 \u064A\u062A\u0645 \u0627\u0644\u0639\u062B\u0648\u0631 \u0639\u0644\u064A\u0647.",
+        "detailedText": "\u0628\u0639\u062F \u0641\u062A\u062D \u0648\u0627\u062C\u0647\u0629 \u0627\u0644\u062A\u062B\u0628\u064A\u062A\u060C \u0627\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0627\u0644\u062A\u0644\u0642\u0627\u0626\u064A \u0644\u0644\u0628\u062D\u062B \u0639\u0646 Factorio\u060C \u0623\u0648 \u0627\u062E\u062A\u0631 \u0627\u0644\u0645\u0633\u0627\u0631 \u064A\u062F\u0648\u064A\u0627 \u0648\u062D\u062F\u062F \u0645\u062C\u0644\u062F Factorio \u0623\u0648 \u0645\u062C\u0644\u062F data. \u0625\u0630\u0627 \u0638\u0647\u0631 \u062E\u0637\u0623 \u0635\u0644\u0627\u062D\u064A\u0627\u062A\u060C \u0634\u063A\u0644 Simsima \u0643\u0645\u0633\u0624\u0648\u0644 \u062B\u0645 \u062D\u0627\u0648\u0644 \u0645\u0631\u0629 \u0623\u062E\u0631\u0649. \u064A\u0645\u0643\u0646 \u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0632\u0631 \u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A \u0645\u0646 \u0646\u0641\u0633 \u0627\u0644\u0648\u0627\u062C\u0647\u0629 \u0644\u0627\u0633\u062A\u0631\u062C\u0627\u0639 \u0627\u0644\u0645\u0644\u0641\u0627\u062A \u0627\u0644\u0623\u0635\u0644\u064A\u0629.",
         "screenshots": []
       },
       "publishing": {
