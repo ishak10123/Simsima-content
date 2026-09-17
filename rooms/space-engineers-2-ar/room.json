@@ -25,12 +25,12 @@
     "fileName": "space-engineers-2-ar-v0.4.0.zip",
     "archiveType": "zip",
     "size": 60189561,
-    "checksum": "sha256:771e41cb4efd6b20702b91f529791ac6151910c7c22e42e91a60bbfb518dc67c"
+    "checksum": "sha256:c252c4c7ea18557c3145c087793439d62c386fb4f3b9d80de55d281aa3b678ce"
   },
   "installer": {
     "kind": "bat",
     "entryFile": "Run_Simsima.vbs",
-    "requiresAdmin": true,
+    "requiresAdmin": false,
     "launchMode": "extract_then_run",
     "arguments": [],
     "workingDirectory": "",
