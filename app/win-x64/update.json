@@ -1,8 +1,8 @@
 {
-  "version": "0.1.12",
-  "installerUrl": "https://github.com/ishak10123/Simsima-content/releases/download/simsima-v0.1.12/Simsima-0.1.12-win-x64-Classic-Setup.exe",
-  "fileName": "Simsima-0.1.12-win-x64-Classic-Setup.exe",
-  "size": 48407132,
-  "sha256": "E685EA818808C322EDBDEFB387D5E34906E7FBBB4DB002F0773BDF6CEE776F0B",
-  "releaseNotes": "Update 0.1.12 hides local cache and connection status details from the app footer."
+  "version": "0.1.13",
+  "installerUrl": "https://github.com/ishak10123/Simsima-content/releases/download/simsima-v0.1.13/Simsima-0.1.13-win-x64-Classic-Setup.exe",
+  "fileName": "Simsima-0.1.13-win-x64-Classic-Setup.exe",
+  "size": 48488025,
+  "sha256": "27DCF3FBF7D4A0FEB8A93E49339F693C811FDB557FA54F6D49E827E6A6066466",
+  "releaseNotes": "Update 0.1.13 adds support for AES-256 encrypted translation packages while retaining full support for legacy unencrypted packages."
 }
