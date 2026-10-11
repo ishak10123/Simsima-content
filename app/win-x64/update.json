@@ -1,8 +1,8 @@
 {
-  "version": "0.1.13",
-  "installerUrl": "https://github.com/ishak10123/Simsima-content/releases/download/simsima-v0.1.13/Simsima-0.1.13-win-x64-Classic-Setup.exe",
-  "fileName": "Simsima-0.1.13-win-x64-Classic-Setup.exe",
-  "size": 48488025,
-  "sha256": "27DCF3FBF7D4A0FEB8A93E49339F693C811FDB557FA54F6D49E827E6A6066466",
-  "releaseNotes": "Update 0.1.13 adds support for AES-256 encrypted translation packages while retaining full support for legacy unencrypted packages."
+  "version": "0.1.14",
+  "installerUrl": "https://github.com/ishak10123/Simsima-content/releases/download/simsima-v0.1.14/Simsima-0.1.14-win-x64-Classic-Setup.exe",
+  "fileName": "Simsima-0.1.14-win-x64-Classic-Setup.exe",
+  "size": 48497299,
+  "sha256": "F2FDCDD5065087E0497078EA97C44E0E11A7A8CDAB73E73CB9EC147773C5E2D4",
+  "releaseNotes": "Update 0.1.14 repairs catalog caches saved by older app versions so encrypted translation packages retain their encryption metadata after updating."
 }
